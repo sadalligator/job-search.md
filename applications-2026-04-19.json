@@ -1,0 +1,140 @@
+{
+  "run_date": "2026-04-19",
+  "run_type": "B — Indeed UAE + web search (Bayt, LinkedIn, GulfTalent, Glassdoor, company careers)",
+  "search_strategy": "Indeed UAE (Dubai, Sharjah) + WebSearch across LinkedIn, Bayt, GulfTalent, Glassdoor, company career pages",
+  "keywords_searched": [
+    "legal associate junior lawyer paralegal (Dubai, Indeed)",
+    "intellectual property lawyer IP legal counsel (Dubai, Indeed)",
+    "legal counsel litigation lawyer (Dubai, Indeed)",
+    "paralegal legal associate IP trademark copyright (Dubai, Indeed)",
+    "legal associate junior lawyer Dubai 2026 (Bayt.com)",
+    "paralegal legal associate IP Dubai April 2026 (LinkedIn)",
+    "Al Tamimi paralegal 2026 (GulfTalent)",
+    "paralegal legal associate Dubai intellectual property 2026 visa sponsorship"
+  ],
+  "total_roles_found": 15,
+  "qualified_after_filters": 3,
+
+  "ready_to_apply": [
+    {
+      "rank": 1,
+      "company": "KAYALI (Huda Beauty subsidiary)",
+      "role": "Paralegal",
+      "location": "Jumeirah, Dubai",
+      "posted": "February 27, 2026",
+      "job_type": "Full-time",
+      "apply_url": "https://to.indeed.com/aamrfytpkdnd",
+      "salary_estimate": "AED 10,000–14,000/month estimated (not listed; Glassdoor 2026 Dubai paralegal benchmark: AED 8,500–18,417/month; KAYALI is a luxury brand / Huda Beauty subsidiary — above-market compensation expected)",
+      "salary_filter": "PASS — estimated well above AED 8,000 threshold",
+      "arabic_filter": "PASS — no Arabic requirement mentioned",
+      "match_score": "Strong (3/3 keywords: IP law + trademark filings, legal drafting, legal research)",
+      "why_strong": "Role description maps almost 1:1 to SS Rana & Co. experience: trademark filings, renewals, monitoring, brand protection, coordinating with trademark offices, IP compliance advisories, audit-ready documentation, budget tracking. WIPO Madrid System course is a direct bonus.",
+      "experience_note": "Requires ~5 years (Tanya has 2+). Gap is real but skills alignment is exceptionally strong — worth applying.",
+      "cover_letter_required": false,
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Coordinated filings with clients, counsel, and trademark offices",
+          "Maintained structured documentation to support audits and reviews",
+          "Tracked litigation budgets and monitored case timelines"
+        ],
+        "ats_keywords": ["intellectual property", "trademark filings", "legal research"],
+        "cover_letter": "NOT REQUIRED — skip"
+      }
+    },
+    {
+      "rank": 2,
+      "company": "Al Tamimi & Company",
+      "role": "Paralegal — Financial Crime Practice",
+      "location": "DIFC, Dubai",
+      "posted": "Active listing on GulfTalent as of April 2026",
+      "job_type": "Full-time",
+      "apply_url": "https://www.gulftalent.com/uae/jobs/paralegal-234189",
+      "salary_estimate": "AED 9,000–13,000/month estimated (not listed; Al Tamimi is the largest law firm in MENA; top-tier firms typically pay above Glassdoor median of AED 12,833/month for paralegals)",
+      "salary_filter": "PASS — estimated well above AED 8,000 threshold",
+      "arabic_filter": "PASS — no Arabic requirement mentioned",
+      "match_score": "Strong (3/3 keywords: legal research, legal drafting, litigation support)",
+      "why_strong": "Al Tamimi is the largest MENA law firm. DIFC is a common law jurisdiction — highly favourable for Indian-qualified lawyers. Role involves legal research, legal opinions, drafting, case management — all direct CV matches. Financial Crime exposure (white/blue-collar criminal work) is present in Tanya's independent practice.",
+      "experience_note": "Requires 3+ years minimum (Tanya has 2+). Slight gap. Practice area is Financial Crime (not IP), but legal research + drafting skills are fully transferable.",
+      "cover_letter_required": false,
+      "application_ready": {
+        "cv_bullets": [
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements",
+          "Managed 50+ legal document reviews with zero compliance errors",
+          "Completed over two years of post-qualification legal practice through work with multiple attorneys' chambers, with broad exposure to intellectual property, regulatory compliance, commercial and criminal litigation disputes"
+        ],
+        "ats_keywords": ["legal research", "compliance", "legal drafting"],
+        "cover_letter": "NOT REQUIRED — skip"
+      }
+    },
+    {
+      "rank": 3,
+      "company": "Alba Corporation",
+      "role": "Lawyer",
+      "location": "Dubai",
+      "posted": "January 16, 2026",
+      "job_type": "Full-time",
+      "apply_url": "https://to.indeed.com/aasy9td4xr4k",
+      "salary_estimate": "AED 6,000–12,000/month (listed on posting). Mid-range AED 9,000 likely for 2+ years PQE — PASS",
+      "salary_filter": "PASS — upper range well above AED 8,000; mid-range achievable",
+      "arabic_filter": "PASS — Arabic listed as 'strong advantage' only, not mandatory",
+      "match_score": "Possible (3/3 keywords: legal drafting, legal research, client representation)",
+      "why_possible": "Strong skills match across all 3 keywords. Visa sponsorship + medical + 30 days leave explicitly mentioned. Role covers commercial, civil, and IP matters — Tanya's exact background.",
+      "experience_note": "Prefers 2 years UAE/GCC experience (Tanya has Indian experience — competitive gap). Not a hard exclusion. Applications from India-qualified Dubai-based lawyers are common for this role type.",
+      "cover_letter_required": false,
+      "application_ready": {
+        "cv_bullets": [
+          "Represented clients before courts and tribunals, assisted in hearings, and supported attorneys with arguments, evidence preparation, and case strategy in IP, commercial and criminal matters",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes",
+          "Apply legal training and detail-oriented approach to support senior management with drafting, reviewing, and organizing business documentation, contracts, and internal communications in a fast-paced tech/automation environment",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements"
+        ],
+        "ats_keywords": ["legal drafting", "client representation", "legal research"],
+        "cover_letter": "NOT REQUIRED — skip"
+      }
+    }
+  ],
+
+  "skipped_summary": {
+    "total_skipped": 12,
+    "breakdown": {
+      "arabic_mandatory": 1,
+      "uae_experience_mandatory_hard_filter": 3,
+      "uae_national_requirement": 1,
+      "too_senior_partner_or_lead_counsel": 3,
+      "stale_posting_over_3_months": 1,
+      "weak_match_under_2_keywords": 3
+    },
+    "examples_skipped": [
+      "Gulf Legal Advisory Services: Lawyer and Legal Consultant — Arabic Speaker mandatory (stated in requirements)",
+      "Growth Tech: Corporate Lawyer — '3+ years UAE experience mandatory', UAE court litigation experience mandatory; Russian language asked",
+      "Dr Mohamed Almur Advocates: Paralegal — requires hands-on UAE judicial electronic platform experience (Dubai Courts, ADJD, RDC, etc.) as a hard requirement",
+      "Commercial Bank of Dubai: Junior Legal Counsel — UAE National requirement explicitly stated in title",
+      "JEX Personnel: IP Partner — Partner-level role, requires proven track record as Partner / senior lawyer",
+      "Boehringer Ingelheim: Lead Counsel IMETA — Senior regional in-house counsel role, substantial GCC in-house experience required",
+      "KAYALI: Global Corporate Counsel — Senior counsel role, requires substantial in-house corporate experience",
+      "Baker McKenzie: Senior Associate M&A — posted October 2025 (stale), M&A corporate focus not Tanya's background",
+      "Bronze Electromechanical: Legal Counsel — posted November 2024 (very stale, 5+ months old)",
+      "GLOBAL MARKETING SYSTEMS: Legal Counsel — posted July 2025 (stale, 9+ months old)",
+      "JEX Personnel: IP Partner (duplicate) — same Partner-level role appeared in multiple searches",
+      "Alba Corporation (below 8k end of range): 6,000 AED floor — included as Rank 3 because mid/upper range passes threshold"
+    ]
+  },
+
+  "salary_benchmark": {
+    "source": "Glassdoor 2026, Dubai",
+    "paralegal_monthly_aed": {
+      "25th_percentile": 8500,
+      "median": 12833,
+      "75th_percentile": 18417
+    },
+    "note": "All 3 qualified roles estimated above AED 8,000/month threshold"
+  },
+
+  "status": "AWAITING YOUR APPROVAL",
+  "next_action": "Reply with one of:\n  'APPLY ALL'       — submit to all 3 roles\n  'APPLY 1 AND 2'   — skip rank 3 (older posting, UAE experience gap)\n  'APPLY 1 ONLY'    — submit to top match (KAYALI) only\n  'DO NOT APPLY'    — save for manual review\n\nUpon approval I will: generate tailored CV + direct application links for each approved role."
+}
