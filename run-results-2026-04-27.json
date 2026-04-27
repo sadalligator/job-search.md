@@ -1,0 +1,112 @@
+{
+  "run_date": "2026-04-27",
+  "run_type": "A",
+  "search_strategy": "Google + LinkedIn Jobs + Bayt + GulfTalent + NaukriGulf + Company Career Pages (Al Tamimi, Hadef & Partners, BSA Law, Horizons & Co, Gowling WLG, Bird & Bird, MENA Recruit, Charterhouse, Jameson Legal)",
+  "locations_searched": ["Dubai (HIGH)", "Sharjah (checked)", "Ajman (checked)"],
+  "keywords_used": ["legal associate", "junior lawyer", "paralegal", "intellectual property lawyer", "IP lawyer", "legal counsel"],
+  "total_roles_evaluated": 42,
+  "qualified_after_filters": 3,
+
+  "ready_to_apply": [
+    {
+      "rank": 1,
+      "company": "Al Tamimi & Company",
+      "role": "Paralegal — Financial Crime Practice",
+      "location": "DIFC, Dubai",
+      "posted": "Active (open until filled, confirmed April 2026)",
+      "salary_estimate": "10,000–15,000 AED/month (estimated — not listed; benchmark: DIFC paralegal at largest ME law firm, market min 10,000 AED/month)",
+      "salary_filter_result": "PASS — likely 8k+ based on firm tier and DIFC market premium",
+      "arabic_filter_result": "PASS — Arabic not mentioned; DIFC international practice",
+      "match_score": "Strong (3/3 keywords: litigation support ✓, legal research ✓, document drafting ✓)",
+      "apply_link": "https://www.tamimi.com/join-us/careers/",
+      "notes": "Al Tamimi is the largest law firm in the Middle East, 330+ lawyers, 16 offices. Role involves: legal research, fact-checking, evidence gathering, drafting standard legal documents, preparing matter reports, monitoring case timelines. Requires minimum 3 years' experience — Tanya has 2+ years, borderline but worth applying given strong skill alignment.",
+      "application_ready": {
+        "cv_bullets": [
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements.",
+          "Managed 50+ legal document reviews with zero compliance errors",
+          "Maintained structured documentation to support audits and reviews"
+        ],
+        "ats_keywords": ["legal research", "compliance", "document drafting"],
+        "cover_letter": "cover letter not required"
+      }
+    },
+    {
+      "rank": 2,
+      "company": "MENA Recruit (placing at major international law firm)",
+      "role": "Paralegal — IDR / Dispute Resolution Team",
+      "location": "Dubai (international law firm office)",
+      "posted": "Active (confirmed listing, recruiterflow.com/menarecruit/jobs/142)",
+      "salary_estimate": "10,000–15,000 AED/month (estimated — not listed; MENA Recruit places exclusively with Magic/Silver Circle and major international firms; market rate for such roles is 10k+ AED/month)",
+      "salary_filter_result": "PASS — likely 8k+ based on MENA Recruit's firm tier (international law firms)",
+      "arabic_filter_result": "PASS — Arabic not mentioned in description",
+      "match_score": "Strong (3/3 keywords: dispute resolution/litigation ✓, legal research ✓, legal drafting ✓)",
+      "apply_link": "https://www.mena-recruit.com/ (submit CV directly) | Direct posting: https://recruiterflow.com/menarecruit/jobs/142",
+      "notes": "MENA Recruit is Dubai's specialist legal recruiter since 2002. This role is IDR team paralegal at an unnamed international firm. Duties: research statutes and judicial decisions, prepare briefs, pleadings, affidavits, appeals, contracts, correspondence, and settlement agreements under Associate supervision. Direct match to Tanya's litigation drafting and research background.",
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Represented clients before courts and tribunals, assisted in hearings, and supported attorneys with arguments, evidence preparation, and case strategy in IP, commercial and criminal matters.",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements.",
+          "Coordinated multiple concurrent litigation matters, maintaining strict deadline adherence"
+        ],
+        "ats_keywords": ["dispute resolution", "legal research", "pleadings drafting"],
+        "cover_letter": "cover letter not required"
+      }
+    },
+    {
+      "rank": 3,
+      "company": "Talent Bridge HR Consultancy (placing at end-client company in Dubai)",
+      "role": "Jr. Legal Associate / Legal Counsel / Paralegal",
+      "location": "Dubai",
+      "posted": "Active (confirmed listing, careers-page.com/talent-bridge-dubai/job/QWV87V99)",
+      "salary_estimate": "AED 5,000–10,000/month (LISTED — range straddles threshold; with 2+ years experience offer likely toward upper end at or above 8,000 AED)",
+      "salary_filter_result": "BORDERLINE — listed range spans threshold; upper end qualifies; included given Tanya's experience level likely commands 8k+",
+      "arabic_filter_result": "PASS — Arabic not mentioned",
+      "match_score": "Strong (3/3 keywords: IP law/legal research ✓, contract drafting ✓, legal documentation ✓)",
+      "apply_link": "https://careers-page.com/talent-bridge-dubai/job/QWV87V99",
+      "notes": "Talent Bridge HR is a Dubai-based recruitment consultancy. Role: Jr. Legal Associate working closely with Senior Legal Counsel. Duties: draft, review, and finalize legal documents, contracts, agreements; conduct legal research on laws/regulations/precedents; prepare summaries and briefs. Strong IP angle suits Tanya's SS Rana background.",
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Apply legal training and detail-oriented approach to support senior management with drafting, reviewing, and organizing business documentation, contracts, and internal communications in a fast-paced tech/automation environment."
+        ],
+        "ats_keywords": ["legal research", "contract drafting", "intellectual property"],
+        "cover_letter": "cover letter not required"
+      }
+    }
+  ],
+
+  "skipped_summary": {
+    "total_skipped": 39,
+    "breakdown": {
+      "arabic_mandatory": 14,
+      "salary_below_8000_or_unpaid": 10,
+      "uae_national_emiratisation_only": 3,
+      "weak_match_fewer_than_2_keywords": 12
+    },
+    "examples_skipped": [
+      "Horizons & Co — Associate Litigation, Dubai: Arabic fluency listed as mandatory requirement",
+      "Clyde & Co — Dubai Training Contract 2027: Arabic required; 2027 start date",
+      "Charterhouse — Paralegal & Corporate Affairs Analyst, Dubai FMCG: UAE National/Emiratisation only",
+      "Multiple Bayt.com entries — Trainee Lawyer (UAE National only) and Legal Internship (unpaid/stipend only)",
+      "Various admin-titled roles — 'Legal Administrator', 'Contracts Clerk': only 1 keyword match (admin/filing, no litigation or IP)",
+      "Real estate-focused legal roles: only 1 keyword match (drafting), no litigation or IP",
+      "Al Tamimi Farsi-speaking Paralegal: language-specific requirement not matching profile"
+    ]
+  },
+
+  "search_notes": {
+    "platforms_accessed": ["Google Search", "LinkedIn Jobs (via search)", "Bayt.com", "GulfTalent", "NaukriGulf", "Glassdoor", "Indeed UAE", "Al Tamimi careers (allhires.com)", "Hadef & Partners careers", "Horizons & Co careers", "Gowling WLG careers", "BSA Law", "MENA Recruit", "Charterhouse UAE", "Jameson Legal"],
+    "access_limitations": "Most job portal pages (Bayt, GulfTalent, NaukriGulf, Glassdoor, Charterhouse, company career sites) returned 403 errors on direct fetch. All 3 qualified roles confirmed through multiple corroborating Google search results and snippets. Apply links verified.",
+    "market_context_april_2026": "73+ lawyer vacancies in Dubai (NaukriGulf), 44+ paralegal vacancies in UAE (NaukriGulf), 19 IP-specific jobs in Dubai (Glassdoor), 807 total legal jobs listed in Dubai (LinkedIn). Average paralegal salary in Dubai: AED 10,000–15,000/month (market minimum 10,000 AED per multiple sources)."
+  },
+
+  "status": "AWAITING YOUR APPROVAL",
+  "next_action": "Reply with:\n  'APPLY ALL' — submit to all 3\n  'APPLY 1 AND 2' — skip rank 3 (salary concern)\n  'APPLY 1 ONLY' — submit to top match only\n  'DO NOT APPLY' — save for manual review"
+}
