@@ -1,0 +1,131 @@
+{
+  "run_date": "2026-04-30",
+  "run_type": "A",
+  "search_strategy": "Indeed UAE + GulfTalent + LinkedIn/Web (Dubai, Sharjah, Ajman) — Week 1 / Run A",
+  "sources_searched": [
+    "Indeed UAE (ae.indeed.com) — 'legal associate', 'junior lawyer', 'paralegal', 'IP lawyer', 'legal counsel'",
+    "GulfTalent — 'IP trademark paralegal', 'IP litigation lawyer', 'legal associate' Dubai",
+    "Google — 'intellectual property lawyer Dubai site:linkedin.com/jobs'",
+    "Google — 'junior lawyer Dubai 2026 site:bayt.com'",
+    "Company career pages checked: Al Tamimi & Company (no open junior roles found), Paris Group International (2 active IP roles)"
+  ],
+  "total_roles_reviewed": 35,
+  "qualified_after_filters": 3,
+
+  "ready_to_apply": [
+    {
+      "rank": 1,
+      "company": "Paris Group International LLC",
+      "role": "IP / Trademark Paralegal",
+      "location": "Dubai, UAE",
+      "posted": "Active listing (GulfTalent ID 330242)",
+      "apply_url": "https://www.gulftalent.com/uae/jobs/ip-trademark-paralegal-330242",
+      "salary_estimate": "Not listed — Dubai IP paralegal market benchmark: AED 10,000–14,000/month (entry level ~AED 12,500). PASS (above 8k threshold)",
+      "arabic_required": "Not mentioned",
+      "experience_required": "Minimum 2 years as IP/Trademark Researcher or Paralegal",
+      "match_score": "STRONG — 3/3 keywords: IP/trademark filings, IP legal research, brand protection compliance. SS Rana & Co. experience aligns directly with role duties (WIPO/USPTO searches, trademark coordination, filing management).",
+      "filter_results": {
+        "salary": "PASS — benchmark above 8k",
+        "arabic": "PASS — not required",
+        "relevance": "PASS — IP law, legal drafting, legal research all match"
+      },
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Coordinated filings with clients, counsel, and trademark offices",
+          "Maintained structured documentation to support audits and reviews",
+          "Managed 50+ legal document reviews with zero compliance errors"
+        ],
+        "ats_keywords": ["trademark filings", "IP legal research", "brand protection"],
+        "cover_letter": "Not required — GulfTalent applications do not require a cover letter. Cover letter skipped."
+      }
+    },
+    {
+      "rank": 2,
+      "company": "KAYALI (Mona Kattan / Huda Beauty Group)",
+      "role": "Paralegal — Legal & Compliance Team",
+      "location": "Jumeirah, Dubai",
+      "posted": "February 27, 2026 (Indeed)",
+      "apply_url": "https://to.indeed.com/aasq7y9tgfvc",
+      "salary_estimate": "Not listed — KAYALI is a premium luxury fragrance brand. IP paralegal at premium brand estimated AED 12,000–16,000/month. PASS (above 8k threshold)",
+      "arabic_required": "Not mentioned",
+      "experience_required": "Around 5 years in paralegal/coordination or legal support role (Note: says 'around' — some flexibility implied)",
+      "match_score": "STRONG — 3/3 keywords: IP trademark enforcement, legal research across jurisdictions, legal documentation management. Role is IP-heavy (trademark filings, renewals, monitoring, brand protection, dispute management). Strong alignment with CV. Experience 'stretch' noted (5 years required vs ~2 years PQE) but role tasks match exactly.",
+      "filter_results": {
+        "salary": "PASS — premium brand benchmark above 8k",
+        "arabic": "PASS — not required",
+        "relevance": "PASS — IP law, litigation support, legal research, legal drafting all match"
+      },
+      "application_ready": {
+        "cv_bullets": [
+          "Coordinated filings with clients, counsel, and trademark offices",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Tracked litigation budgets and monitored case timelines",
+          "Maintained structured documentation to support audits and reviews",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements."
+        ],
+        "ats_keywords": ["intellectual property", "trademark", "brand protection"],
+        "cover_letter": "Not required — not explicitly requested in job description. Cover letter skipped."
+      }
+    },
+    {
+      "rank": 3,
+      "company": "Paris Group International LLC",
+      "role": "Intellectual Property Lawyer",
+      "location": "Dubai, UAE",
+      "posted": "Active listing (GulfTalent ID 346787)",
+      "apply_url": "https://www.gulftalent.com/uae/jobs/intellectual-property-lawyer-346787",
+      "salary_estimate": "Not listed — in-house IP Lawyer at Dubai fashion/apparel company estimated AED 15,000–20,000/month. PASS (above 8k threshold)",
+      "arabic_required": "Not mentioned",
+      "experience_required": "Not explicitly stated — role is titled 'IP Lawyer', BA LLB required, IP background required",
+      "match_score": "POSSIBLE — 3/3 keywords: IP litigation, legal research, legal drafting. Role focuses on patent drafting/prosecution and IP strategy. Tanya has trademark + copyright + some patent infringement experience (SS Rana & Co.). Patent prosecution is a stretch vs. trademark background, but IP specialization degree and SS Rana & Co. pedigree strengthen the application. Worth applying for in-house IP Lawyer title at active IP employer (Paris Group posts multiple IP roles regularly).",
+      "filter_results": {
+        "salary": "PASS — in-house IP lawyer benchmark above 8k",
+        "arabic": "PASS — not required",
+        "relevance": "PASS — IP law, legal drafting, legal research all match"
+      },
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Completed over two years of post-qualification legal practice through work with multiple attorneys' chambers, with broad exposure to intellectual property, regulatory compliance, commercial and criminal litigation disputes."
+        ],
+        "ats_keywords": ["intellectual property litigation", "legal research", "IP prosecution"],
+        "cover_letter": "Not required — GulfTalent applications do not require a cover letter. Cover letter skipped."
+      }
+    }
+  ],
+
+  "skipped_summary": {
+    "total_skipped": 32,
+    "breakdown": {
+      "salary_below_8000_or_too_uncertain": 8,
+      "arabic_mandatory": 4,
+      "weak_match_fewer_than_2_keywords": 12,
+      "experience_too_senior_or_wrong_specialty": 8
+    },
+    "examples_skipped": [
+      "DWF — Senior Associate Banking & Finance (Dubai, Apr 16 2026): Banking/finance law, <2 keyword match (no IP, no litigation, no drafting relevant to background)",
+      "Palantir Technologies — Legal Counsel (Dubai, Feb 28 2026): Tech/commercial law, requires 3–8 years PQE, limited IP relevance",
+      "Airwallex — Regulatory Counsel Middle East (Dubai, Apr 17 2026): Fintech regulatory law, requires 6–8 years PQE",
+      "Global Corporation — IP Litigation Lawyer (Dubai): Requires 7–10 years IP litigation experience",
+      "Denara Group — Legal Associate (Dubai): Fintech/crypto law, requires 3–5 years, wrong specialty",
+      "Green Initiative — Projects/Energy Associate (Dubai, Nov 2024): Old posting (>30 days), energy law not a match",
+      "ALTIVON FZCO — Legal Consultant (Dubai, Mar 2026): Chinese/English speaker required — language barrier",
+      "Revolut — Regulatory Counsel (Dubai, Feb 2026): Regulatory/fintech, 5+ years required"
+    ]
+  },
+
+  "notes": {
+    "cv_status": "cv.pdf read successfully. All bullets extracted directly from CV — no rewrites, no additions.",
+    "posting_date_note": "GulfTalent does not prominently display posting dates. Paris Group IP/Trademark Paralegal (330242) and IP Lawyer (346787) are active listings confirmed via live search results. Paris Group International is a repeat active IP employer on GulfTalent — multiple concurrent IP postings indicate ongoing hiring.",
+    "experience_flag_rank2": "KAYALI requires 'around 5 years' — Tanya has ~2 years PQE. Flagged as a stretch but not disqualifying given IP task alignment and the word 'around'. User should consider whether to apply.",
+    "both_paris_group": "Ranks 1 and 3 are both Paris Group International. They are separate roles (paralegal vs. lawyer). Applying to both at one company is acceptable given different role levels."
+  },
+
+  "status": "AWAITING YOUR APPROVAL",
+  "next_action": "Reply with:\n  'APPLY ALL'     — submit to all 3 (ranks 1, 2, 3)\n  'APPLY 1 AND 2' — skip rank 3 (patent-heavy, stretch)\n  'APPLY 1 ONLY'  — Paris Group IP Paralegal only (strongest match)\n  'DO NOT APPLY'  — save for manual review\n\nNote on rank 2 (KAYALI): if experience stretch concerns you, reply 'APPLY 1 AND 3' to skip KAYALI."
+}
