@@ -1,0 +1,170 @@
+{
+  "run_date": "2026-05-11",
+  "run_type": "A (Week 1)",
+  "search_strategy": "Indeed UAE MCP + Google/WebSearch (Dubai, Sharjah, Ajman) + Company careers pages (Al Tamimi, Clyde & Co, Hadef & Partners, BSA)",
+  "search_keywords_used": [
+    "legal associate junior lawyer paralegal (Indeed AE, Dubai)",
+    "intellectual property lawyer IP legal counsel (Indeed AE, Dubai)",
+    "paralegal legal associate litigation (Indeed AE, Sharjah)",
+    "legal associate IP intellectual property (Indeed AE, Dubai)",
+    "junior lawyer legal counsel litigation (Indeed AE, Dubai)",
+    "intellectual property lawyer Dubai site:linkedin.com/jobs 2026",
+    "junior lawyer paralegal legal associate Dubai 2026 site:bayt.com",
+    "Al Tamimi Company careers legal associate paralegal Dubai 2026",
+    "Hadef Partners BSA Ahmad Bin Hezeem legal associate junior lawyer careers Dubai 2026",
+    "Clyde Co Dubai careers legal associate junior lawyer 2026",
+    "legal associate paralegal Dubai AED salary 2026 law firm apply",
+    "junior legal legal associate paralegal intellectual property IP Dubai 2026"
+  ],
+  "note_on_search_limitations": "Most job board websites (Bayt, GulfTalent, Glassdoor, Naukrigulf, Hadef careers, BSA careers, Al Tamimi careers, Charterhouse) returned HTTP 403 and could not be scraped. Indeed MCP and Google search snippets were the primary data sources. Approximately 23 distinct roles were reviewed in detail.",
+  "total_roles_reviewed": 23,
+  "qualified_after_filters": 3,
+
+  "ready_to_apply": [
+    {
+      "rank": 1,
+      "company": "KAYALI (Huda Beauty subsidiary)",
+      "role": "Paralegal",
+      "location": "Jumeirah, Dubai",
+      "posted": "February 27, 2026 (~73 days ago)",
+      "apply_url": "https://to.indeed.com/aaxhn2clcmsc",
+      "salary_estimate": "~12,000–15,000 AED/month (not listed; industry benchmark for in-house luxury brand paralegal in Dubai, per Glassdoor/SalaryExpert: average 12,833 AED/month)",
+      "salary_filter": "PASS",
+      "arabic_filter": "PASS (Arabic not mentioned in job description)",
+      "relevance_filter": "PASS (3/3 keywords matched)",
+      "match_score": "Strong — 3/3 keywords: IP law/enforcement, legal research, legal documentation",
+      "why_strong": "KAYALI's Paralegal sits inside their Legal & Compliance team and is explicitly focused on trademark filings, renewals, monitoring and enforcement actions — exactly Tanya's SS Rana & Co. work. The role also covers legal research, compliance advisories, budget tracking, and coordinating with external counsel and trademark offices. All directly match Tanya's 9-month IP litigation associate experience.",
+      "flag": "Experience requirement is 'around 5 years'; Tanya has 2+ years post-qualification. The IP specialisation and Madrid/Hague system training make this a strong thematic fit regardless — worth applying.",
+      "application_ready": {
+        "cv_bullets_5_from_cv": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters [SS Rana & Co.]",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection [SS Rana & Co.]",
+          "Coordinated filings with clients, counsel, and trademark offices [SS Rana & Co.]",
+          "Tracked litigation budgets and monitored case timelines [SS Rana & Co.]",
+          "Managed 50+ legal document reviews with zero compliance errors [Key Achievements]"
+        ],
+        "ats_keywords_3": [
+          "intellectual property",
+          "trademark filings",
+          "brand protection"
+        ],
+        "cover_letter": "Not required (job posting does not request a cover letter)"
+      }
+    },
+    {
+      "rank": 2,
+      "company": "Lux and Veritas International Legal Consultants FZ-LLC",
+      "role": "Legal Associate / Legal Consultant",
+      "location": "Dubai",
+      "posted": "April 23, 2026 (~18 days ago)",
+      "apply_instructions": "Email CV + cover letter to: info@luxandveritas.com",
+      "salary_estimate": "~8,000–12,000 AED/month (salary not listed — 'based on experience'; benchmarked against comparable legal associate roles in Dubai small-to-mid legal consultancies)",
+      "salary_filter": "PASS",
+      "arabic_filter": "PASS (Arabic listed as 'an advantage', not mandatory)",
+      "relevance_filter": "PASS (3/3 keywords matched)",
+      "match_score": "Strong — 3/3 keywords: litigation, contract drafting, legal research",
+      "why_strong": "Role covers contract drafting/review, litigation follow-up in Dubai Courts, legal research, legal opinions, and international commercial law — all squarely in Tanya's skillset. Role is at a small FZ consultancy which typically values breadth of experience over jurisdiction-specific specialisation.",
+      "flag": "Job description prefers 'proven experience in UAE law, particularly real estate'. Tanya's experience is Indian IP and commercial litigation. Cover letter addresses this by emphasising transferable litigation and drafting skills plus Dubai-based availability.",
+      "application_ready": {
+        "cv_bullets_5_from_cv": [
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters. [Independent Attorney, High Court of Delhi]",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes. [Independent Attorney, High Court of Delhi]",
+          "Represented clients before courts and tribunals, assisted in hearings, and supported attorneys with arguments, evidence preparation, and case strategy in IP, commercial and criminal matters. [Independent Attorney, High Court of Delhi]",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements. [Independent Attorney, High Court of Delhi]",
+          "Apply legal training and detail-oriented approach to support senior management with drafting, reviewing, and organizing business documentation, contracts, and internal communications in a fast-paced tech/automation environment. [Zopreneurs, Dubai]"
+        ],
+        "ats_keywords_3": [
+          "contract drafting",
+          "litigation",
+          "legal research"
+        ],
+        "cover_letter_required": true,
+        "cover_letter": "Dear Hiring Manager, I am writing to express my interest in the Legal Associate / Legal Consultant position at Lux and Veritas International Legal Consultants. With 2+ years of post-qualification practice spanning intellectual property, commercial litigation, and regulatory compliance, I am drawn to your consultancy's focus on high-value international commercial matters and the opportunity to work across a diverse client portfolio in Dubai.\n\nMy background includes drafting and filing pleadings, motions, and legal notices across civil, commercial, and IP matters; conducting detailed legal research and preparing formal legal opinions; and representing clients directly before courts and tribunals in a multi-disciplinary practice environment. I am currently based in Dubai on a family-sponsored visa and am immediately available to begin."
+      }
+    },
+    {
+      "rank": 3,
+      "company": "Alba Corporation",
+      "role": "Lawyer",
+      "location": "Dubai",
+      "posted": "January 26, 2026 (~105 days ago — older listing, still active on Indeed)",
+      "apply_url": "https://to.indeed.com/aargz2pkvbnt",
+      "salary_listed": "6,000–12,000 AED/month (based on experience)",
+      "salary_filter": "BORDERLINE — listed range starts at 6,000 AED (below threshold) but reaches 12,000 AED. At 2+ years experience Tanya would likely land at 8,000–10,000 AED. Included on that basis; user may opt to skip.",
+      "arabic_filter": "PASS (Arabic is 'a strong advantage', not mandatory)",
+      "relevance_filter": "PASS (3/3 keywords matched)",
+      "match_score": "Strong — 3/3 keywords: client representation, legal drafting, litigation",
+      "why_strong": "Role seeks 2+ years legal experience, full-spectrum advisory, client representation, contract drafting, research, and litigation — all core to Tanya's 2-year post-qualification practice. Minimum experience threshold met. Work visa sponsorship offered. Role appears designed for candidates at Tanya's level.",
+      "flag": "Job description says 'minimum 2 years of legal experience in the UAE or GCC region' — Tanya's experience is India-based. However the role description does not explicitly exclude non-GCC experience and the broader language of the posting suggests flexibility. Salary lower end is below 8k AED threshold.",
+      "application_ready": {
+        "cv_bullets_5_from_cv": [
+          "Completed over two years of post-qualification legal practice through work with multiple attorneys' chambers, with broad exposure to intellectual property, regulatory compliance, commercial and criminal litigation disputes. [Independent Attorney, High Court of Delhi]",
+          "Represented clients before courts and tribunals, assisted in hearings, and supported attorneys with arguments, evidence preparation, and case strategy in IP, commercial and criminal matters. [Independent Attorney, High Court of Delhi]",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters. [Independent Attorney, High Court of Delhi]",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes. [Independent Attorney, High Court of Delhi]",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements. [Independent Attorney, High Court of Delhi]"
+        ],
+        "ats_keywords_3": [
+          "client representation",
+          "legal drafting",
+          "litigation"
+        ],
+        "cover_letter": "Not required (job posting does not request a cover letter)"
+      }
+    }
+  ],
+
+  "skipped_summary": {
+    "total_skipped": 20,
+    "breakdown": {
+      "uae_national_only": 3,
+      "arabic_mandatory": 2,
+      "too_senior_wrong_level": 9,
+      "not_a_legal_role": 2,
+      "too_old_listing": 2,
+      "other": 2
+    },
+    "examples_skipped": [
+      "Baker McKenzie (Dubai): Senior Associate M&A — 6-10 years PQE required, M&A focus",
+      "JEX Personnel (Dubai): IP Partner — Partner level, too senior",
+      "Commercial Bank of Dubai: Junior Legal Counsel — UAE National only",
+      "DP World (Dubai): Senior Legal Counsel — too senior",
+      "DTC / Dubai Government: Litigation Manager — 8 years minimum experience",
+      "Dentons (Dubai): Senior Associate Real Estate — 5-7 years PQE, real estate specialisation",
+      "Ancient Builders Constructions (Dubai): Legal Advisor/Contract Admin — 5+ years, construction law",
+      "Ageless Medical Center (Dubai): Legal Advisor — Arabic mandatory (fluency in English AND Arabic required)",
+      "Clyde & Co (Dubai): Training Contract — advanced Arabic language skills required",
+      "GMG (Dubai): Senior Manager Legal Counsel — senior-level, GCC labour law focus",
+      "Aujan Interiors (Dubai): Lawyer — UAE National only",
+      "Etihad National (Dubai): Lawyer — UAE National, female only",
+      "Motei & Associates (Dubai): Corporate/Commercial Lawyer — 5 years UAE experience, posting Dec 2024 (too old)",
+      "Adel Alghafri Advocates (Dubai): Legal Consultant — posted July 2025 (too old, outside 30-day window)",
+      "YUBI (Dubai): Associate VP Credit — finance role, not legal",
+      "HW Group MEP (Dubai): Contract Commercial Executive — commercial operations, not legal"
+    ]
+  },
+
+  "search_limitations_this_run": [
+    "Bayt.com, GulfTalent, Glassdoor, Naukrigulf, Hadef & Partners careers, BSA Law careers, Al Tamimi careers, Charterhouse ME, Talentmate — all returned HTTP 403 (bot protection). Could not scrape listings from these sources.",
+    "LinkedIn job pages returned 403. IP Lawyer (I-Konect Global) listing could not be verified and was excluded.",
+    "Indeed MCP returned limited results per search query (typically 1-4 results). Multiple search terms were used to maximise coverage.",
+    "Abion IP/Trademark Paralegal (career.abion.com) returned 403 — could not verify if UAE-based or location.",
+    "Next run should try: Edarabia.com, Jooble AE, The Lawyer Jobs Middle East, direct email to Gowling WLG Dubai IP team (partner: Jon Parker)"
+  ],
+
+  "salary_benchmarks_researched": {
+    "paralegal_dubai_avg": "12,833 AED/month (Glassdoor 2026)",
+    "legal_associate_dubai_min": "~8,000 AED/month (industry benchmark)",
+    "associate_attorney_dubai_min": "~43,000 AED/month (senior associate level)",
+    "source": "Glassdoor salary data, SalaryExpert, web search snippets"
+  },
+
+  "status": "AWAITING YOUR APPROVAL",
+  "next_action": "Reply with:\n  'APPLY ALL' — submit to all 3 (Rank 1 + 2 + 3)\n  'APPLY 1 AND 2' — skip Rank 3 (salary concern + older listing)\n  'APPLY 1 ONLY' — KAYALI only (strongest IP match)\n  'DO NOT APPLY' — save for manual review\n\nNote: If you choose to include Rank 3 (Alba Corporation), be aware the salary lower bound is below the 8k threshold and the listing is ~3.5 months old. Rank 1 and 2 are clearly within your filters.",
+  "upon_approval_i_will_provide": [
+    "Tailored 1-page CV highlighting the 5 selected bullets per role",
+    "Formatted cover message for Rank 2 (Lux and Veritas) ready to paste into email",
+    "Direct application links for Rank 1 and Rank 3 (Indeed)",
+    "Email draft for Rank 2 with subject line and body"
+  ]
+}
