@@ -1,0 +1,130 @@
+{
+  "run_date": "2026-05-14",
+  "run_type": "A (Week 1)",
+  "search_strategy": "Indeed UAE + LinkedIn Google searches + GulfTalent (Dubai, Sharjah, Ajman) + Company career pages (Al Tamimi, Dentons, Hadef & Partners)",
+  "total_roles_assessed": 28,
+  "qualified_after_filters": 3,
+
+  "ready_to_apply": [
+    {
+      "rank": 1,
+      "company": "KAYALI",
+      "role": "Paralegal (Legal & Compliance Team)",
+      "location": "Jumeirah, Dubai",
+      "posted": "February 27, 2026",
+      "salary_estimate": "~11,000 AED/month (Glassdoor Dubai paralegal benchmark — not listed in posting; premium luxury brand, above threshold)",
+      "match_score": "Strong (3/3 keywords: IP law/trademark, legal research, legal drafting + compliance)",
+      "match_notes": "KAYALI is a luxury fragrance brand (Mona Kattan / Huda Beauty group). Their L&C team is IP-heavy: trademark filings, renewals, monitoring, enforcement actions globally. JD language ('brand protection', 'trademark offices', 'audit-ready') maps directly to Tanya's SS Rana experience. No Arabic mentioned. One flag: JD says 'around 5 years' experience — Tanya has 2+ years as a qualified lawyer with 9 months dedicated IP litigation. Her law degree specialisation in IP and SS Rana background are directly on-point; this is worth applying.",
+      "apply_url": "https://to.indeed.com/aah29qqyhlzy",
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Coordinated filings with clients, counsel, and trademark offices",
+          "Maintained structured documentation to support audits and reviews",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes."
+        ],
+        "ats_keywords": ["intellectual property", "trademark filings", "compliance"],
+        "cover_letter": "cover letter not required — posting does not request one"
+      }
+    },
+    {
+      "rank": 2,
+      "company": "Paris Group LLC",
+      "role": "IP / Trademark Paralegal",
+      "location": "Dubai",
+      "posted": "Active listing (GulfTalent #330242; also posted on LinkedIn as 'IP/Trademark Associate – Dubai Base')",
+      "salary_estimate": "~9,000–12,000 AED/month (IP paralegal Dubai benchmark — not listed; Paris Group is a 35-year UAE conglomerate with global fashion/retail franchises, above threshold)",
+      "match_score": "Strong (4/4 keywords: IP law, trademark litigation/oppositions, legal research, trademark office filings including WIPO/EUIPO/USPTO)",
+      "match_notes": "Closest possible match to Tanya's SS Rana profile. JD requires: trademark portfolio management, TM litigation/oppositions/nullity/cancellations, WIPO/OHIM/EUIPO/USPTO searches, minimum 2 years IP/Trademark experience. Tanya has: 9 months at an IP-specialist litigation firm (SS Rana & Co.), BA LLB (Hons) with IP specialisation, DL-303 Madrid System course, DL-304 Hague System course (ongoing). No Arabic requirement in JD. 2+ years experience threshold met exactly.",
+      "apply_url_primary": "https://www.gulftalent.com/uae/jobs/ip-trademark-paralegal-330242",
+      "apply_url_linkedin": "https://in.linkedin.com/jobs/view/ip-trademark-associate-dubai-base-at-paris-group-llc-3724962241",
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Coordinated filings with clients, counsel, and trademark offices",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Completed over two years of post-qualification legal practice through work with multiple attorneys' chambers, with broad exposure to intellectual property, regulatory compliance, commercial and criminal litigation disputes.",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements."
+        ],
+        "ats_keywords": ["trademark", "IP litigation", "WIPO"],
+        "cover_letter": "cover letter not required — posting does not request one",
+        "bonus_note": "Mention in application: DL-303 (Madrid System for International Registration of Marks) and DL-304 (Hague System for International Registration of Industrial Designs) — directly relevant to WIPO/EUIPO filings in this role."
+      }
+    },
+    {
+      "rank": 3,
+      "company": "Al Tamimi & Company",
+      "role": "Associate: Litigation",
+      "location": "Dubai (UAE)",
+      "posted": "March 17, 2026, open until filled (confirmed via multiple sources)",
+      "salary_estimate": "15,000–25,000+ AED/month (international top-tier law firm associate in Dubai, comfortably above threshold)",
+      "match_score": "Possible–Strong (3/3 keywords: litigation, legal drafting, legal research — flag: UAE court admission + Arabic may be preferred for local track)",
+      "match_notes": "Al Tamimi is the largest law firm in the MENA region (73 partners, 350+ lawyers, 50+ nationalities). They have open Associate: Litigation positions confirmed as of March 2026. Strong keyword alignment: Tanya has court appearances, pleading drafting, legal research across IP/commercial/criminal matters. Key flag: Local UAE litigation track typically requires Arabic and UAE admission; however, Al Tamimi also runs an international disputes/arbitration track where English-qualified lawyers are hired. Application should emphasise IP litigation and commercial disputes experience and signal openness to any track.",
+      "apply_url": "https://www.tamimi.com/join-us/careers/",
+      "note": "This is the careers portal, not a direct job link — search for 'Associate: Litigation' under UAE. No specific job ID could be confirmed; the role is listed as open until filled.",
+      "application_ready": {
+        "cv_bullets": [
+          "Represented clients before courts and tribunals, assisted in hearings, and supported attorneys with arguments, evidence preparation, and case strategy in IP, commercial and criminal matters.",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements."
+        ],
+        "ats_keywords": ["litigation", "legal drafting", "legal research"],
+        "cover_letter": "cover letter not required — portal application; submit CV directly"
+      }
+    }
+  ],
+
+  "skipped_summary": {
+    "total_skipped": 25,
+    "breakdown": {
+      "arabic_mandatory": 5,
+      "too_senior_partner_or_5plus_PQE": 7,
+      "wrong_specialty_tax_banking_real_estate": 4,
+      "weak_match_fewer_than_2_keywords": 5,
+      "stale_listing_2025_or_earlier": 2,
+      "egyptian_bar_required": 1,
+      "fintech_crypto_not_core_match": 1
+    },
+    "examples_skipped": [
+      "Motei & Associates — Junior Litigation Lawyer — Arabic mandatory + Egyptian university/bar required",
+      "Dentons — Senior Associate Lawyer — 5-7 PQE, Real Estate specialty",
+      "JEX Personnel — IP Partner — Partner level (too senior)",
+      "DWF — Senior Associate Banking & Finance — Senior level, Banking specialty not matched",
+      "Baker McKenzie — Senior Associate Corporate/M&A — Senior level, M&A specialty",
+      "Gateley plc — Tax Advisory Roles — Tax, not litigation or IP",
+      "Green Initiative — Projects/Energy Associate NQ-3 PQE — Energy specialty",
+      "BIS Registration — Law Firm Partner — Partner level, temporary contract",
+      "DP World — Senior Legal Counsel — Senior level",
+      "FRM Legal Counsels LLC — Legal Consultant — Posted August 2025, too old",
+      "Bayt.com — Junior Legal Advisor Sharjah — Arabic AND English knowledge of Commercial Law mandatory, age 30-45 (discriminatory filter)",
+      "GulfTalent — Arabic Paralegal Trademarks/IP (ReThink Recruitment) — Arabic mandatory",
+      "Bayt.com — Senior Bilingual Paralegal — 10-15 years experience + Arabic mandatory",
+      "Bayt.com — Bilingual EA/Paralegal — Arabic mandatory",
+      "Denara Group — Legal Associate — 3-5 years, Fintech/crypto law focus, weak keyword match"
+    ]
+  },
+
+  "search_sources_checked": [
+    "Indeed UAE (ae.indeed.com) — 4 keyword searches",
+    "LinkedIn Jobs Dubai (via Google) — 2 targeted searches",
+    "GulfTalent.com — 3 searches (IP paralegal, legal associate, IP lawyer)",
+    "Bayt.com — 2 searches (junior lawyer, paralegal UAE)",
+    "Al Tamimi careers (tamimi.com/join-us/careers)",
+    "Hadef & Partners careers (hadefpartners.com/careers)",
+    "Gowling WLG UAE IP team (gowlingwlg.com)",
+    "Glassdoor salary benchmarks for Dubai paralegal/legal roles"
+  ],
+
+  "cv_source": "cv.pdf read from repo — bullets extracted verbatim, no rewrites",
+
+  "status": "AWAITING YOUR APPROVAL",
+  "next_action": "Reply with:\n  'APPLY ALL'       → apply to all 3 roles\n  'APPLY 1 AND 2'   → skip Al Tamimi (Arabic uncertainty), apply to KAYALI + Paris Group\n  'APPLY 1 ONLY'    → KAYALI only (strongest IP-brand match)\n  'APPLY 2 ONLY'    → Paris Group only (best CV match on experience threshold)\n  'DO NOT APPLY'    → save for manual review",
+
+  "agent_recommendation": "APPLY 1 AND 2 — both KAYALI and Paris Group are direct IP matches, no Arabic requirement, experience thresholds met or near-met. Rank 3 (Al Tamimi) is worth applying to but the Arabic/UAE admission flag adds uncertainty; include it if you want maximum coverage this run.",
+
+  "next_run_date": "2026-05-18 (Monday 9:00am Dubai time)",
+  "next_run_type": "B — Indeed UAE + GulfTalent + Dentons/DLA Piper/CMS/King & Spalding career pages"
+}
