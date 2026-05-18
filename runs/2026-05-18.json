@@ -1,0 +1,124 @@
+{
+  "run_date": "2026-05-18",
+  "run_type": "B",
+  "search_strategy": "Indeed UAE + Google/WebSearch (Dubai priority) — company careers pages blocked (403); GulfTalent and Bayt.com blocked (403); LinkedIn blocked (403); job details sourced via search snippets and Indeed direct API",
+  "sources_searched": [
+    "Indeed UAE (ae.indeed.com) — 'legal counsel', 'junior lawyer', 'paralegal', 'intellectual property'",
+    "Google/WebSearch — LinkedIn, GulfTalent, Bayt, Jooble, Glassdoor, NaukriGulf, TheLawyer, Abion careers",
+    "GulfTalent job snippets via search (direct site blocked)",
+    "Abion careers page (direct site blocked — details via search snippet)"
+  ],
+  "total_roles_found": 38,
+  "qualified_after_filters": 3,
+
+  "ready_to_apply": [
+    {
+      "rank": 1,
+      "company": "Abion",
+      "role": "IP / Trademark Paralegal",
+      "location": "Dubai (Abion Dubai office — confirmed open)",
+      "posted": "Active May 2026",
+      "salary_estimate": "10,000–14,000 AED/month (estimated — international IP management firm, no salary listed; well above threshold based on industry benchmarks for international firms)",
+      "match_score": "Strong (4/4 keywords: IP legal research, trademark filings, case management, client coordination)",
+      "experience_requirement": "2+ years IP paralegal — EXACT match",
+      "arabic_required": "Not mentioned — English-language role",
+      "apply_url": "https://career.abion.com/jobs/6543037-ip-trademark-paralegal",
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Coordinated filings with clients, counsel, and trademark offices",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements.",
+          "Maintained structured documentation to support audits and reviews"
+        ],
+        "ats_keywords": ["trademark applications", "IP legal research", "case management"],
+        "cover_letter": "cover letter not required — not mentioned in job posting"
+      },
+      "notes": "Abion is a Swedish international IP management company with a confirmed Dubai office opened specifically for MENA IP work. Role requires 2+ years experience — exactly matches Tanya's background. Also posting a second role (IP Paralegal, job ID 6576487) — both can be applied to."
+    },
+    {
+      "rank": 2,
+      "company": "Paris Group LLC",
+      "role": "IP / Trademark Paralegal",
+      "location": "Dubai",
+      "posted": "Active May 2026 (GulfTalent)",
+      "salary_estimate": "8,000–12,000 AED/month (estimated — UAE-based IP services firm; no salary listed; aligns with industry benchmark for 2-year IP paralegal in Dubai)",
+      "match_score": "Strong (4/4 keywords: trademark search, WIPO/EUIPO/USPTO filings, IP research, infringement matters)",
+      "experience_requirement": "2+ years IP/Trademark Paralegal — EXACT match",
+      "arabic_required": "Not mentioned",
+      "apply_url": "https://www.gulftalent.com/uae/jobs/ip-trademark-paralegal-330242",
+      "application_ready": {
+        "cv_bullets": [
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Coordinated filings with clients, counsel, and trademark offices",
+          "Maintained structured documentation to support audits and reviews",
+          "Tracked litigation budgets and monitored case timelines"
+        ],
+        "ats_keywords": ["trademark search", "WIPO", "trademark filings"],
+        "cover_letter": "cover letter not required — not mentioned in job posting"
+      },
+      "notes": "Paris Group is a UAE-based IP services firm actively recruiting for this role. Key match: Tanya's DL-303 Madrid System course (WIPO trademark registration) and DL-304 Hague System course (industrial design) are directly relevant to their WIPO/EUIPO/USPTO trademark search duties. Paris Group has previously recruited IP/Trademark Associates from India (New Delhi LinkedIn posting), indicating openness to Indian-qualified lawyers. Mention Madrid System and Hague System courses prominently in application."
+    },
+    {
+      "rank": 3,
+      "company": "KAYALI",
+      "role": "Paralegal (Legal & Compliance Team)",
+      "location": "Jumeirah, Dubai",
+      "posted": "February 27, 2026 (80+ days — may still be active)",
+      "salary_estimate": "12,000–18,000 AED/month (estimated — luxury fragrance brand owned by Huda Beauty group; listing benefits include medical/dental/vision; role requires ~5yr experience suggesting senior-level compensation)",
+      "match_score": "Strong (3/3 keywords: IP/trademark enforcement, brand protection, legal research) — experience gap: role lists ~5yr, Tanya has 2+",
+      "experience_requirement": "~5 years listed — Tanya has 2+ years (gap noted, strong IP relevance compensates)",
+      "arabic_required": "Not required — Fluency in English only",
+      "apply_url": "https://to.indeed.com/aaxjs77f2c2s",
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Coordinated filings with clients, counsel, and trademark offices",
+          "Tracked litigation budgets and monitored case timelines",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements."
+        ],
+        "ats_keywords": ["intellectual property", "trademark", "brand protection"],
+        "cover_letter": "cover letter not required — not mentioned in job posting"
+      },
+      "notes": "KAYALI is a fast-growing global luxury fragrance brand (Mona Kattan / Huda Beauty group). The L&C team works on trademark filings, renewals, monitoring, enforcement, and compliance across multiple jurisdictions — ideal for Tanya's IP background. Experience gap (5yr asked vs 2yr held) is the main risk; strong IP specialism and SS Rana background partially compensates. Posting is 80+ days old — confirm it is still open before applying (click the Indeed URL to check)."
+    }
+  ],
+
+  "skipped_summary": {
+    "total_skipped": 35,
+    "breakdown": {
+      "arabic_mandatory": 4,
+      "uk_us_qualification_required": 3,
+      "uae_national_required": 1,
+      "seniority_too_high_10_plus_pqe_or_partner": 5,
+      "wrong_practice_area_maritime_shipping": 2,
+      "wrong_practice_area_oil_gas_construction": 1,
+      "experience_too_high_and_weak_keyword_match": 8,
+      "salary_likely_below_8000_or_too_uncertain": 6,
+      "insufficient_data_to_assess": 5
+    },
+    "examples_skipped": [
+      "Gulf Legal Advisory Services (Dubai) — Lawyer/Legal Consultant — Arabic MANDATORY, 3-7yr UAE experience required",
+      "Commercial Bank of Dubai (Dubai) — Junior Legal Counsel — UAE National ONLY",
+      "EMEA Legal (Dubai) — Legal Counsel — UK/US qualified required, 4+ PQE, M&A focus",
+      "Maxit Advertising LLC (Dubai) — Senior Legal Counsel — 10+ PQE, bilingual English/Arabic MANDATORY",
+      "Global Marketing Systems (Dubai) — Legal Counsel — Shipping/maritime law specialist, 3+ yrs shipping litigation",
+      "Bronze Electromechanical Bros (Dubai) — Legal Counsel — English + Arabic or French, oil and gas preferred (only 1 keyword match)",
+      "JEX Personnel (Dubai) — IP Partner — Partner level, too senior",
+      "Arabic Paralegal Trademarks/IP via ReThink Recruitment — Arabic MANDATORY"
+    ]
+  },
+
+  "salary_research": {
+    "ip_paralegal_dubai_benchmark": "AED 8,000–18,000/month depending on experience and employer type",
+    "international_ip_firm_paralegal": "AED 10,000–14,000/month (Abion estimate)",
+    "uae_ip_services_firm_paralegal": "AED 8,000–12,000/month (Paris Group estimate)",
+    "luxury_brand_paralegal_5yr": "AED 12,000–18,000/month (KAYALI estimate)",
+    "source": "SalaryExpert, Glassdoor, Indeed UAE salary data — all three estimated roles above AED 8,000 threshold"
+  },
+
+  "status": "AWAITING YOUR APPROVAL",
+  "next_action": "Reply with:\n  'APPLY ALL'      — submit to all 3 (Abion + Paris Group + KAYALI)\n  'APPLY 1 AND 2'  — skip KAYALI (experience gap + older posting)\n  'APPLY 1 ONLY'   — top match only (Abion)\n  'DO NOT APPLY'   — save for manual review\n\nIMPORTANT: Before applying to KAYALI (rank 3), click the Indeed URL to confirm the posting is still active — it is 80+ days old."
+}
