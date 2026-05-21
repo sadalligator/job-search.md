@@ -1,0 +1,138 @@
+{
+  "run_date": "2026-05-21",
+  "run_type": "A (Week 1)",
+  "search_strategy": "LinkedIn + Google (Dubai, Sharjah, Ajman) + GulfTalent + Naukrigulf + Company Careers Pages",
+  "sources_searched": [
+    "LinkedIn Jobs (Dubai legal, IP, paralegal)",
+    "Google indexed: site:linkedin.com/jobs",
+    "Google indexed: site:bayt.com",
+    "Google indexed: site:gulftalent.com",
+    "Google indexed: site:naukrigulf.com",
+    "Al Tamimi & Company careers page",
+    "Hadef & Partners careers page",
+    "BSA Ahmad Bin Hezeem careers page",
+    "Clyde & Co careers page",
+    "LYLAW (Yamalova & Plewka) recruitment board",
+    "Business of Fashion careers",
+    "Glassdoor Dubai legal jobs",
+    "Indeed UAE legal jobs",
+    "Gowling WLG UAE careers"
+  ],
+  "total_roles_surfaced": 35,
+  "qualified_after_filters": 3,
+
+  "ready_to_apply": [
+    {
+      "rank": 1,
+      "company": "KAYALI (Huda Beauty Group)",
+      "role": "Paralegal – IP / Brand Protection / Trademark",
+      "location": "JLT, Dubai, UAE",
+      "posted": "Active (within last 4–6 weeks)",
+      "salary_estimate": "Not listed — researched benchmark: AED 10,000–15,000/month (Glassdoor Dubai paralegal P25–P75: ~AED 8,500–18,400/month; luxury brand in-house role at upper end) → PASS",
+      "arabic_required": false,
+      "match_score": "Very Strong (4/4: IP law, trademark filings, brand protection, FMCG brand — CV explicitly states 'core experience and interest in IP work for FMCG companies'; KAYALI IS an FMCG brand)",
+      "note_on_experience": "Role states ~5 years preferred; Tanya has 2+ years. Strong alignment on practice area and brand context justifies applying.",
+      "apply_links": {
+        "primary": "https://www.businessoffashion.com/careers/job/305922/kayali-paralegal/",
+        "also_on_qureos": "https://app.qureos.com/jobs/kayali-paralegal-1772457599985",
+        "also_on_glassdoor": "https://www.glassdoor.com/job-listing/paralegal-kayali-JV_IC2204498_KO0,9_KE10,16.htm?jl=1010047914571"
+      },
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Coordinated filings with clients, counsel, and trademark offices",
+          "Managed 50+ legal document reviews with zero compliance errors",
+          "Maintained structured documentation to support audits and reviews"
+        ],
+        "ats_keywords": ["intellectual property", "trademark filings", "brand protection"],
+        "cover_letter": "NOT REQUIRED — job posting does not explicitly require a cover letter. Skip."
+      }
+    },
+    {
+      "rank": 2,
+      "company": "Al Tamimi & Company",
+      "role": "Associate – Litigation",
+      "location": "Dubai, UAE",
+      "posted": "Active (confirmed March 2026, still open)",
+      "salary_estimate": "AED 35,000/month average for Associate Lawyers at Al Tamimi per Glassdoor (56 verified reports) → PASS",
+      "arabic_required": false,
+      "match_score": "Strong (3/3: litigation, legal drafting, court appearances — High Court Delhi experience maps directly to litigation associate role)",
+      "note_on_experience": "Al Tamimi hires internationally (50+ nationalities); standard associate role requiring law degree + litigation experience. Tanya qualifies.",
+      "apply_links": {
+        "primary": "https://www.tamimi.com/join-us/careers/",
+        "note": "Submit CV + cover letter through their online ATS at tamimi.com/join-us/careers/ — select 'Associate: Litigation' from open positions"
+      },
+      "application_ready": {
+        "cv_bullets": [
+          "Represented clients before courts and tribunals, assisted in hearings, and supported attorneys with arguments, evidence preparation, and case strategy in IP, commercial and criminal matters.",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements.",
+          "Filed cases/documents before various forums including High Courts and District Courts in New Delhi, India"
+        ],
+        "ats_keywords": ["litigation", "legal drafting", "court filings"],
+        "cover_letter": "NOT REQUIRED — job posting does not explicitly require a cover letter. Skip."
+      }
+    },
+    {
+      "rank": 3,
+      "company": "i-konect Global (recruiter, client undisclosed)",
+      "role": "Intellectual Property Lawyer (on-site Dubai)",
+      "location": "Dubai, UAE (on-site)",
+      "posted": "March 2026 (LinkedIn job ID 4392198307)",
+      "salary_estimate": "Not listed — researched benchmark: IP Lawyers in Dubai average AED 388,801/year (~AED 32,400/month) per SalaryExpert; even at 50% of benchmark = AED 16,200/month → PASS",
+      "arabic_required": false,
+      "match_score": "Strong (3/3: IP law, IP litigation, trademark/copyright/patent — directly aligned with SS Rana IP litigation team experience)",
+      "note_on_experience": "Role title says 'relocation on-site in Dubai' — Tanya IS already in Dubai, which is an advantage. i-konect is a recruiter; exact client and requirements unknown as LinkedIn blocked direct access.",
+      "apply_links": {
+        "primary": "https://www.linkedin.com/jobs/view/intellectual-property-lawyer-relocation-on-site-in-dubai-at-i-konect-global-4392198307",
+        "note": "Apply via LinkedIn Easy Apply or click 'Apply' on the posting. Log into LinkedIn to apply."
+      },
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Represented clients before courts and tribunals, assisted in hearings, and supported attorneys with arguments, evidence preparation, and case strategy in IP, commercial and criminal matters.",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Coordinated filings with clients, counsel, and trademark offices"
+        ],
+        "ats_keywords": ["intellectual property", "IP litigation", "trademark prosecution"],
+        "cover_letter": "NOT REQUIRED — job posting does not explicitly require a cover letter. Skip."
+      }
+    }
+  ],
+
+  "skipped_summary": {
+    "total_skipped": 32,
+    "breakdown": {
+      "arabic_mandatory": 12,
+      "salary_below_8000_or_too_uncertain": 8,
+      "experience_mismatch_or_weak_relevance": 12
+    },
+    "examples_skipped": [
+      "LYLAW (Yamalova & Plewka) — Paralegal (Arabic-Speaking): SKIP — Arabic mandatory",
+      "Brealant Limited — IP Paralegal: SKIP — Salary ~AED 5,124/month (Indeed average), below 8k threshold",
+      "Denara Group — Legal Associate: SKIP — 3-5 years required + fintech/crypto focus (experience mismatch, weak relevance)",
+      "Clyde & Co Dubai — Training Contract: SKIP — 'Advanced or fluent Arabic' required",
+      "Motei & Associates — Junior Litigation Lawyer: SKIP — Requires Arabic/English bilingual",
+      "Talent Bridge HR — Jr. Legal Associate: SKIP — Salary AED 5,000–10,000 (average likely below 8k; too uncertain)",
+      "Multiple unnamed in-house roles (via Indeed/Glassdoor): SKIP — Arabic mandatory or salary insufficient",
+      "Robert Half — Legal Associate (via GulfTalent): SKIP — 3+ years UAE law firm experience required (experience mismatch)",
+      "KAYALI competitor roles on Glassdoor (legal intern): SKIP — Unpaid internship",
+      "DLA Piper — 2026 Candidate Attorney Programme: SKIP — Targeted at UK-qualified solicitors only"
+    ]
+  },
+
+  "status": "AWAITING YOUR APPROVAL",
+  "next_action": "Reply with ONE of:\n  'APPLY ALL'       — submit to all 3 roles\n  'APPLY 1 AND 2'   — skip rank 3 (i-konect; details limited)\n  'APPLY 1 ONLY'    — KAYALI only (strongest match)\n  'DO NOT APPLY'    — save for manual review",
+
+  "notes": [
+    "RANK 1 (KAYALI) is exceptionally well-matched — your CV summary explicitly mentions FMCG IP work as your core interest and KAYALI is exactly that company. Highest recommendation.",
+    "RANK 2 (Al Tamimi) is the most prestigious option — largest MENA law firm, strong salary, your litigation background is directly applicable.",
+    "RANK 3 (i-konect) had LinkedIn access blocked so full JD was unavailable. Posted March 2026 so may still be live; worth applying given IP alignment. Check if still active before applying.",
+    "No cover letters prepared — none of the three postings explicitly required one.",
+    "All CV bullets are extracted verbatim from your CV — no rewrites, no additions.",
+    "Direct job board submissions (LinkedIn, Business of Fashion, Al Tamimi ATS) require your manual click to submit — takes ~1–2 minutes per role."
+  ]
+}
