@@ -1,0 +1,165 @@
+{
+  "run_date": "2026-05-25",
+  "run_type": "RUN TYPE A (Week 1)",
+  "search_strategy": "Indeed UAE (multiple keyword searches) + Google web searches (LinkedIn, Bayt.com, GulfTalent, NaukriGulf, LegalAlphabet, Glassdoor) + company career pages attempted (Al Tamimi, Hadef, BSA, Clyde & Co — all returned 403)",
+  "searches_conducted": [
+    "Indeed: 'legal associate junior lawyer' — Dubai",
+    "Indeed: 'paralegal intellectual property lawyer' — Dubai",
+    "Indeed: 'legal counsel in-house lawyer' — Dubai",
+    "Indeed: 'litigation lawyer legal associate' — Sharjah",
+    "Indeed: 'legal associate IP trademark copyright litigation' — Dubai",
+    "Indeed: 'litigation paralegal legal support junior' — Dubai",
+    "Indeed: 'lawyer legal associate counsel' — Dubai (full-time filter)",
+    "Indeed: 'lawyer legal' — Dubai (broad sweep)",
+    "Indeed: 'legal associate lawyer' — Abu Dhabi",
+    "Google: 'intellectual property lawyer Dubai site:linkedin.com/jobs 2026'",
+    "Google: 'junior lawyer paralegal Dubai 2026 site:bayt.com legal associate intellectual property'",
+    "Google: 'Al Tamimi Hadef BSA legal associate junior lawyer paralegal vacancy Dubai May 2026'",
+    "Google: Binance Dubai litigation paralegal 2026"
+  ],
+  "total_roles_reviewed": 26,
+  "qualified_after_filters": 3,
+
+  "ready_to_apply": [
+    {
+      "rank": 1,
+      "company": "Altara Social",
+      "role": "Lawyer",
+      "location": "Dubai",
+      "posted": "May 12, 2026 (13 days ago)",
+      "apply_url": "https://to.indeed.com/aa4shlgcwdmw",
+      "salary_listed": "AED 10,000 – 12,000 per month",
+      "salary_filter": "PASS (above 8,000 threshold)",
+      "arabic_requirement": "Not mentioned — PASS",
+      "experience_required": "1–3 years",
+      "match_score": "Strong (4/5 criteria: litigation, legal drafting, legal research, client representation)",
+      "why_strong": "Directly matches Tanya's profile — litigation, dispute resolution, drafting, court appearances, case management. Experience band (1–3 years) fits her 2+ years exactly. No Arabic required. Covers UAE and Australian law with focus on hands-on litigation support — Indian court experience is transferable.",
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Represented clients before courts and tribunals, assisted in hearings, and supported attorneys with arguments, evidence preparation, and case strategy in IP, commercial and criminal matters.",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements.",
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters."
+        ],
+        "ats_keywords": ["litigation support", "legal drafting", "legal research"],
+        "cover_letter_required": false,
+        "cover_letter": "Not required — no mention in the job posting."
+      }
+    },
+    {
+      "rank": 2,
+      "company": "Beond",
+      "role": "Legal Counsel",
+      "location": "Dubai",
+      "posted": "May 22, 2026 (3 days ago — very fresh)",
+      "apply_url": "https://to.indeed.com/aabs4zpkjtr4",
+      "salary_listed": "AED 25,000 – 30,000 per month",
+      "salary_filter": "PASS (well above threshold)",
+      "arabic_requirement": "Strongly preferred, not mandatory — borderline PASS (she lacks Arabic; this is a disadvantage)",
+      "experience_required": "3–5 years PQE in corporate roles, UAE firm or in-house preferred",
+      "match_score": "Possible (2–3/5 criteria: legal drafting, regulatory compliance, dispute resolution as minor mention) — experience gap noted",
+      "why_possible": "Exceptional salary (25–30k AED) and very freshly posted. Tanya has 2 years vs 3–5 required, and her background is litigation/IP rather than corporate governance. However, she is Dubai-based, immediately available, and her current EA role at a tech firm is directly relevant to the corporate support duties described. Worth applying — stretch role with high upside.",
+      "caveats": [
+        "Role requires 3–5 years PQE (Tanya has ~2 years)",
+        "Prefers UAE or GCC firm experience (Tanya's PQE is India-based)",
+        "Arabic strongly preferred (Tanya does not speak Arabic)",
+        "Corporate governance/entity management is not her primary specialisation"
+      ],
+      "application_ready": {
+        "cv_bullets": [
+          "Apply legal training and detail-oriented approach to support senior management with drafting, reviewing, and organizing business documentation, contracts, and internal communications in a fast-paced tech/automation environment.",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements.",
+          "Managed 50+ legal document reviews with zero compliance errors."
+        ],
+        "ats_keywords": ["contract drafting", "regulatory compliance", "company secretarial"],
+        "cover_letter_required": false,
+        "cover_letter": "Not required — no mention in the job posting."
+      }
+    },
+    {
+      "rank": 3,
+      "company": "Fawzia Mohammad Lawyers & Legal Consultancy",
+      "role": "Legal Advisor",
+      "location": "Dubai",
+      "posted": "May 06, 2026 (19 days ago)",
+      "apply_url": "https://to.indeed.com/aatjcdlr72hy",
+      "salary_listed": "Not listed",
+      "salary_estimate": "AED 8,000 – 12,000 (estimated: boutique Dubai law firm, legal advisor level, market benchmark for 2+ years PQE)",
+      "salary_filter": "PASS (estimated above threshold based on market data)",
+      "arabic_requirement": "Strong advantage, not mandatory — PASS",
+      "experience_required": "1 year UAE experience (required); Urdu and English fluency (required)",
+      "match_score": "Possible (4/5 criteria: litigation, legal drafting, legal research, client representation) — two caveats below",
+      "why_possible": "Excellent domain fit — boutique firm with commercial, IP, litigation and criminal matters aligns perfectly with Tanya's background. Independently managed caseload experience is a strong match. Tanya's Hindi (native) is highly intelligible with Urdu and should be flagged as such in the application. UAE court experience gap is the main risk.",
+      "caveats": [
+        "Requires 'Urdu and English fluency' — Tanya speaks Hindi (native) which is mutually intelligible with Urdu; should be explicitly flagged in application",
+        "Requires UAE court experience — Tanya has Indian High Court experience (transferable but not identical)",
+        "No salary listed — salary needs to be confirmed at interview stage"
+      ],
+      "application_ready": {
+        "cv_bullets": [
+          "Represented clients before courts and tribunals, assisted in hearings, and supported attorneys with arguments, evidence preparation, and case strategy in IP, commercial and criminal matters.",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Completed over two years of post-qualification legal practice through work with multiple attorneys' chambers, with broad exposure to intellectual property, regulatory compliance, commercial and criminal litigation disputes.",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements."
+        ],
+        "ats_keywords": ["commercial litigation", "legal advisory", "client representation"],
+        "cover_letter_required": false,
+        "cover_letter": "Not required — posting says 'If this sounds like you, we'd love to hear from you' with no explicit cover letter request."
+      }
+    }
+  ],
+
+  "skipped_summary": {
+    "total_roles_reviewed": 26,
+    "total_qualified": 3,
+    "total_skipped": 23,
+    "breakdown": {
+      "too_senior_partner_or_8plus_years": 8,
+      "arabic_mandatory": 5,
+      "wrong_domain_maritime_fintech_corporate_MA": 6,
+      "uae_experience_hard_requirement_no_transferable_path": 2,
+      "non_legal_admin_roles": 2
+    },
+    "examples_skipped": [
+      "JEX Personnel — IP Partner: Partner/senior-level only, requires UAE GCC track record (too senior)",
+      "Motei & Associates — English/Arabic Junior Litigation Lawyer: Arabic mandatory",
+      "Baker McKenzie — Senior Associate Corporate/M&A: Senior associate level, M&A not Tanya's domain",
+      "DWF — Senior Associate Banking & Finance: Wrong domain (banking), too senior",
+      "Global Marketing Systems — Legal Counsel: Maritime/shipping law only, 3+ years maritime required",
+      "Motei & Associates — Corporate/Commercial Lawyer: Minimum 5 years UAE experience required",
+      "Altara Social — Senior Lawyer: 8+ years required",
+      "MENA Recruit — Legal Counsel: Commonwealth-qualified preferred, 2–3 years GCC-based required (UAE essential)",
+      "Aurora Prime Investment — Senior Legal Officer: Minimum 5 years PQE corporate/investment",
+      "Seven Seas Hotel — Legal Assistant: Arabic fluency mandatory",
+      "KADEN BORISS — Lawyer: Arabic Speaking explicitly required",
+      "Revolut — Regulatory Counsel: Fintech regulatory, CIS/EU focus, wrong specialisation",
+      "Airwallex — Regulatory Counsel Middle East: Fintech regulatory, wrong specialisation",
+      "Trip.com — Senior Legal Counsel EMEA: Senior counsel level",
+      "Sokin — Head of Legal GCC: Head of Legal level — too senior"
+    ]
+  },
+
+  "salary_benchmark_note": "Market data from Indeed UAE: junior lawyer average in UAE ~AED 10,837/month. Legal advisors at Dubai boutique firms typically AED 8,000–15,000. All 3 qualifying roles estimated at or above AED 8,000 threshold.",
+
+  "search_limitations": [
+    "Al Tamimi, Hadef & Partners, Clyde & Co, BSA career pages all returned HTTP 403 — could not access directly",
+    "GulfTalent, NaukriGulf, Bayt.com, Glassdoor job listing pages all returned HTTP 403",
+    "LinkedIn job detail pages not directly accessible (authentication required)",
+    "NaukriGulf web search index shows 47 junior legal associate vacancies and 25 paralegal vacancies in Dubai — these could not be individually reviewed this run; recommend checking manually",
+    "Indeed UAE API returned limited results for some keyword combinations — broader manual searches recommended for supplemental coverage"
+  ],
+
+  "manual_check_recommended": [
+    "https://www.naukrigulf.com/junior-legal-associate-jobs-in-dubai (47 vacancies listed)",
+    "https://www.naukrigulf.com/paralegal-jobs-in-dubai (25 vacancies listed)",
+    "https://www.gulftalent.com/uae/jobs/dubai/title/legal-associate (16 vacancies listed)",
+    "https://legalalphabet.com/united-arab-emirates/jobs/city/dubai (31+ openings)"
+  ],
+
+  "status": "AWAITING YOUR APPROVAL",
+  "next_action": "Reply with:\n  'APPLY ALL' — submit to all 3\n  'APPLY 1 AND 2' — skip rank 3 (Urdu/UAE-court caveats)\n  'APPLY 1 ONLY' — submit to top match only (safest, strongest fit)\n  'DO NOT APPLY' — save for manual review\n\nOnce you reply, tailored CVs + direct links will be prepared for each approved role."
+}
