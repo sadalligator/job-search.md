@@ -1,0 +1,161 @@
+{
+  "run_date": "2026-05-28",
+  "run_type": "A (Week 1 — LinkedIn + Google + Indeed UAE + Company Career Pages)",
+  "search_strategy": "Indeed UAE (Dubai/AE), LinkedIn job search via web, GulfTalent via web, Bayt.com via web, NaukriGulf via web, direct company career pages (Al Tamimi, Clyde & Co, Hadef & Partners, BSA Ahmad Bin Hezeem, Gowling WLG)",
+  "search_keywords_used": [
+    "legal associate junior lawyer (Indeed AE)",
+    "paralegal intellectual property lawyer (Indeed AE)",
+    "legal counsel junior lawyer (Indeed AE)",
+    "intellectual property lawyer Dubai (LinkedIn web search)",
+    "junior lawyer paralegal Dubai (Bayt.com web search)",
+    "in-house legal counsel FMCG pharma tech Dubai (Google)",
+    "IP trademark copyright legal associate Dubai (Indeed AE)",
+    "legal associate IP law firm DIFC Dubai (Indeed AE)"
+  ],
+  "total_roles_identified": 34,
+  "qualified_after_filters": 3,
+
+  "ready_to_apply": [
+    {
+      "rank": 1,
+      "company": "I-Konect Global",
+      "role": "Intellectual Property Lawyer",
+      "location": "Dubai (on-site; relocation package available — Tanya already Dubai-based)",
+      "posted": "March 24, 2026",
+      "source": "LinkedIn",
+      "apply_url": "https://by.linkedin.com/jobs/view/intellectual-property-lawyer-relocation-on-site-in-dubai-at-i-konect-global-4392198307",
+      "salary_estimate": "AED 22,600–32,000/month (industry benchmark for IP Lawyer 1–3 years Dubai: AED 22,600/month entry-level; senior: AED 40,000+)",
+      "salary_confirmed": false,
+      "salary_note": "Salary not listed in posting. Dubai benchmark for IP Lawyer 1–3 years PQE = AED 271,489/yr (~22,600/month). Well above threshold. PASS.",
+      "arabic_requirement": "Not confirmed — LinkedIn page blocked from direct access. No mention of Arabic in any secondary source. PASS (likely English-primary role for international IP firm).",
+      "match_score": "Strong — 3/5 keywords: IP law/intellectual property ✓, legal drafting ✓, litigation experience ✓",
+      "match_notes": "Tanya's exact background at SS Rana & Co (trademark, copyright, patent litigation) maps perfectly to an IP Lawyer role. The 'relocation' tag suggests competitive package for the right candidate. Tanya is already Dubai-based which is a hiring advantage.",
+      "caveat": "Full job description not accessible (LinkedIn login-wall). Posting date is 9 weeks ago — confirm role is still open before applying. If Arabic appears mandatory in full JD, skip.",
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Represented clients before courts and tribunals, assisted in hearings, and supported attorneys with arguments, evidence preparation, and case strategy in IP, commercial and criminal matters.",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Coordinated filings with clients, counsel, and trademark offices"
+        ],
+        "ats_keywords": [
+          "intellectual property litigation",
+          "trademark drafting",
+          "IP legal research"
+        ],
+        "cover_letter": "cover letter not required — no explicit instruction in posting",
+        "apply_method": "Click LinkedIn apply button on the posting URL above. Upload CV as-is. Note in application: Dubai-based, immediately available, no relocation needed."
+      }
+    },
+    {
+      "rank": 2,
+      "company": "Hadef & Partners",
+      "role": "Paralegal / Junior Associate — Intellectual Property (Direct Speculative Application)",
+      "location": "Dubai",
+      "posted": "Ongoing year-round recruitment (confirmed by firm's careers page). Most recent IP Paralegal hire: Mohamed Omar, ~3 weeks ago. Another opening may exist or open imminently given firm's active IP growth.",
+      "source": "Direct email to IP team — m.malaeb@hadefpartners.com",
+      "apply_url": "mailto:m.malaeb@hadefpartners.com",
+      "salary_estimate": "AED 8,500–15,000/month (estimate: Hadef is Band 3 UAE IP firm; senior IP paralegals at top UAE firms earn AED 8,500–18,417/month range; 2-year IP specialist from SS Rana should command 10–12k)",
+      "salary_confirmed": false,
+      "salary_note": "Salary not listed. Hadef is a top-tier firm where IP paralegal salaries likely fall in 8,500–15,000 AED range based on market data. PASS (likely 8k+).",
+      "arabic_requirement": "Not mandatory. Hadef's IP team is internationally staffed and English-primary. No Arabic requirement found in any public reference to their IP paralegal roles.",
+      "match_score": "Strong — 4/5 keywords: IP law ✓, trademark/patent litigation support ✓, legal drafting ✓, legal research ✓",
+      "match_notes": "Tanya's 9 months at SS Rana & Co (IP-specialist firm, same practice type) is a near-perfect match for Hadef's IP paralegal profile. Mohamed Omar's recent hire confirms the role type exists. Hadef recruits year-round per their careers page.",
+      "caveat": "Speculative direct application — no confirmed open vacancy at the time of this run. Firm may or may not have an immediate opening. Email m.malaeb@hadefpartners.com directly with subject line: 'IP Paralegal — Speculative Application — Tanya Sharma'. The risk: no role may be available right now. Upside: IP boutique firms often welcome strong speculative CV submissions from qualified IP candidates.",
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Coordinated filings with clients, counsel, and trademark offices",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements.",
+          "Maintained structured documentation to support audits and reviews"
+        ],
+        "ats_keywords": [
+          "IP paralegal",
+          "trademark and patent filings",
+          "intellectual property litigation support"
+        ],
+        "cover_letter": "cover letter not required per instructions — direct email itself will serve as cover message",
+        "apply_method": "Email CV to m.malaeb@hadefpartners.com. Subject: 'IP Paralegal — Speculative Application — Tanya Sharma'. Body: 1 short paragraph referencing SS Rana & Co background and UAE availability."
+      }
+    },
+    {
+      "rank": 3,
+      "company": "Beond (Premium Airline)",
+      "role": "Legal Counsel",
+      "location": "Dubai",
+      "posted": "May 22, 2026 (6 days ago — very fresh)",
+      "source": "Indeed UAE",
+      "apply_url": "https://to.indeed.com/aa8kqn9nzddc",
+      "salary_estimate": "AED 25,000–30,000/month",
+      "salary_confirmed": true,
+      "salary_note": "Salary explicitly listed in job description: AED 25,000–30,000/month. PASS.",
+      "arabic_requirement": "Strongly preferred, not mandatory. Per rules: 'Preferred only + strong match (2+ keywords)' = PASS.",
+      "match_score": "Possible — 2/5 keywords: legal drafting ✓, regulatory compliance/legal research ✓",
+      "match_notes": "Beond is a fast-growing Dubai-based premium airline (raised $90M, expanding to 56 aircraft by 2030) actively expanding its legal function. The role is primarily corporate/governance focused (entity setup, contracts, board governance) — NOT Tanya's primary specialism (IP/litigation). However she matches on: legal drafting, research, document management, and multi-jurisdiction work. Weakness: role asks for 3–5 years PQE in 'corporate legal roles' specifically; Tanya has 2+ years in IP/litigation. Experience gap is real. Strong salary upside.",
+      "caveat": "Borderline match — primary focus is corporate governance and entity management, not IP or litigation. Experience requirement (3–5 PQE corporate) is a stretch for Tanya's 2+ years IP/litigation profile. Arabic 'strongly preferred' is another flag. Recommend applying only if Ranks 1–2 are confirmed submitted. Worth the try given excellent salary and fresh posting.",
+      "application_ready": {
+        "cv_bullets": [
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Apply legal training and detail-oriented approach to support senior management with drafting, reviewing, and organizing business documentation, contracts, and internal communications in a fast-paced tech/automation environment.",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements.",
+          "Managed 50+ legal document reviews with zero compliance errors"
+        ],
+        "ats_keywords": [
+          "legal counsel",
+          "contract drafting",
+          "regulatory compliance"
+        ],
+        "cover_letter": "cover letter not required — job posting does not explicitly ask for one",
+        "apply_method": "Click Indeed apply link above. Upload CV as-is. Application goes to Beond's Workable portal. Note: immediately available, Dubai-based."
+      }
+    }
+  ],
+
+  "skipped_summary": {
+    "total_skipped": 31,
+    "breakdown": {
+      "arabic_mandatory": 12,
+      "salary_below_8000_AED": 7,
+      "too_senior_5plus_years": 7,
+      "weak_match_fewer_than_2_keywords": 3,
+      "wrong_language_Mandarin": 1,
+      "UAE_national_only": 1
+    },
+    "notable_examples_skipped": [
+      "Horizons & Co — Associate Litigation (Dubai, Feb 2026): Arabic mandatory ('fluent in English and Arabic' listed as requirement)",
+      "FRM Legal Counsels LLC — Legal Consultant (Dubai, Feb 2026): Arabic mandatory, 7+ years UAE experience required, salary 12,000 AED but fully filtered",
+      "Maxit Advertising LLC — Senior Legal Counsel (Dubai): 10+ PQE required, Arabic mandatory, bilingual English/Arabic 'must'",
+      "Trendyol — Paralegal (Dubai, Mar 2026): Arabic mandatory ('fluency in English and Arabic is required')",
+      "ALTIVON FZCO — Legal Counsel (Dubai, May 2026): Mandarin Chinese mandatory",
+      "Altara Social — Legal Assistant (Dubai, Apr 2026): Salary AED 4,500–6,000/month (well below 8k threshold)",
+      "Commercial Bank of Dubai — Junior Legal Counsel (Dubai, Mar 2026): UAE National requirement",
+      "TWS Legal Consultants — Admin/Legal Assistant (Dubai): Too old posting (Oct 2025), administrative focus",
+      "HPL Yamalova & Plewka — Paralegal Arabic-Speaking (Dubai): Arabic mandatory, posting from Apr 2025",
+      "DWF — Senior Associate Banking & Finance (Dubai, Apr 2026): Wrong practice area, senior level",
+      "Motei & Associates — Corporate/Commercial Lawyer (Dubai, Feb 2026): 5+ years UAE experience required",
+      "JEX Personnel — IP Partner (Dubai, Feb 2026): Partner-level role",
+      "JEX Personnel — Senior IP Lawyer (Dubai, Feb 2026): 7+ years required",
+      "Dubai Government — DTC Litigation Manager (Dubai, Apr 2026): 8+ years required, management level",
+      "PwC — Tax Senior Associate (Dubai, Feb 2026): Tax disputes focus, 'senior' level",
+      "MENA Recruit — Legal Counsel (Dubai, Feb 2026): 2–3+ years GCC-based experience required (UAE essential — Tanya has India experience only)"
+    ]
+  },
+
+  "market_intelligence": {
+    "key_finding": "Dubai legal market is heavily Arabic-dependent at law firm level. Most law firm roles require Arabic, especially below partner/senior associate. International tech/FMCG in-house roles are English-primary but tend to require 3–5+ years PQE. IP specialist paralegal/junior roles are the best fit for Tanya's profile but few are publicly posted. Best strategy: direct speculative applications to IP boutiques (Hadef, Gowling WLG) alongside monitoring LinkedIn/Indeed for fresh postings.",
+    "salary_benchmarks_dubai": {
+      "IP_paralegal_average": "AED 5,124/month (below threshold — experienced IP paralegals at top firms earn 8,500–18,000)",
+      "junior_lawyer_average": "AED 5,236/month (below threshold — top-tier firm associates earn significantly more)",
+      "IP_lawyer_entry_level": "AED 22,600/month (well above threshold)",
+      "legal_counsel_inhouse": "AED 15,000–35,000/month depending on company and seniority"
+    },
+    "gowling_wlg_note": "Gowling WLG Dubai has a Band 1 IP practice that explicitly describes itself as 'in growth mode' and hiring paralegals. No specific open posting was found publicly, but worth a speculative email to their UAE careers team. Recommend adding as a follow-up direct application alongside this run."
+  },
+
+  "token_usage_estimate": "~55,000 tokens used this run",
+  "status": "AWAITING YOUR APPROVAL",
+  "next_action": "Reply with:\n  'APPLY ALL'      → apply to all 3 (I-Konect + Hadef direct + Beond)\n  'APPLY 1 AND 2'  → I-Konect + Hadef direct only (skip Beond — borderline match)\n  'APPLY 1 ONLY'   → I-Konect IP Lawyer only (strongest confirmed match)\n  'DO NOT APPLY'   → save for manual review\n\n  Note: Rank 2 (Hadef) is a direct speculative email — no click required from you, I will draft the email body. You forward/send the email yourself."
+}
