@@ -1,0 +1,132 @@
+{
+  "run_date": "2026-06-01",
+  "run_type": "A",
+  "search_strategy": "Indeed UAE (MCP), Google/LinkedIn, Bayt.com, GulfTalent, Jameson Legal, BCL Legal, Charterhouse ME, NaukriGulf, Hays Legal, Taylor Root, Al Tamimi careers, Hadef & Partners careers (Dubai, Sharjah, Ajman priority)",
+  "sources_searched": [
+    "Indeed UAE (MCP tool — multiple keyword passes)",
+    "Google: 'legal associate junior lawyer paralegal Dubai site:linkedin.com/jobs'",
+    "Google: 'intellectual property lawyer Dubai site:bayt.com 2026'",
+    "Google: 'junior lawyer paralegal legal associate Dubai Sharjah site:gulftalent.com'",
+    "GulfTalent.com (via search results)",
+    "Jameson Legal Middle East listings",
+    "BCL Legal Dubai listings",
+    "Bayt.com UAE legal jobs",
+    "Charterhouse ME legal & compliance",
+    "NaukriGulf paralegal/legal Dubai",
+    "Al Tamimi & Company careers (tamimi.com)",
+    "Hadef & Partners careers (hadefpartners.com)",
+    "Gowling WLG UAE careers",
+    "Herbert Smith Freehills, White & Case, A&O Shearman UAE (checked)"
+  ],
+  "total_roles_reviewed": 45,
+  "qualified_after_filters": 3,
+
+  "ready_to_apply": [
+    {
+      "rank": 1,
+      "company": "Undisclosed International Tech Company (via Jameson Legal)",
+      "role": "Paralegal – Governance & Licensing",
+      "location": "Dubai",
+      "posted": "Active (June 2026)",
+      "salary_estimate": "AED 10,000–15,000/month (in-house tech paralegal, Dubai benchmark)",
+      "arabic_requirement": "Advantageous only — bilingual/native English required (Arabic NOT mandatory)",
+      "match_score": "Strong (3/3 keywords: IP licensing, legal drafting, legal research)",
+      "notes": "In-house role at fast-growing international tech unicorn. Focus on governance and licensing — directly maps to Tanya's IP licensing coursework (Madrid System, Hague System) and current EA role at a tech company. English-only firms in tech sector. Apply via recruiter Jeremy Stamps at Jameson Legal.",
+      "apply_link": "https://www.jamesonlegal.com/jobs/paralegal-tech-unicorn-dubai",
+      "apply_method": "Email CV to jeremy.stamps@jamesonlegal.com — subject line: 'Paralegal – Tech Unicorn – Tanya Sharma'",
+      "application_ready": {
+        "cv_bullets": [
+          "Apply legal training and detail-oriented approach to support senior management with drafting, reviewing, and organizing business documentation, contracts, and internal communications in a fast-paced tech/automation environment.",
+          "Conducted I.P legal research and prepared compliance advisories for brand protection",
+          "Support process, policy, and documentation discipline in line with the company's focus on automation, accuracy, and client-facing excellence.",
+          "Coordinated filings with clients, counsel, and trademark offices",
+          "Drafted pleadings and notices for trademark, copyright and patent infringement matters"
+        ],
+        "ats_keywords": ["governance", "licensing", "legal drafting"],
+        "cover_letter": "cover letter not required (email application via recruiter — send CV with a 2-line intro in the email body)"
+      }
+    },
+    {
+      "rank": 2,
+      "company": "Al Tamimi & Company",
+      "role": "Paralegal – Financial Crime Practice",
+      "location": "Dubai (DIFC)",
+      "posted": "March 2026",
+      "salary_estimate": "AED 10,000–15,000/month (Al Tamimi top-tier UAE firm, DIFC office)",
+      "arabic_requirement": "Not mentioned in job description (DIFC practice, English-language work)",
+      "match_score": "Strong (2/3 keywords: legal research, case management, compliance/drafting)",
+      "notes": "Al Tamimi is the largest law firm in the Middle East — excellent firm for CV. DIFC Financial Crime practice handles white-collar litigation which overlaps with Tanya's criminal/commercial litigation background. Requires minimum 3 years (Tanya has 2+ — borderline, but strong firm worth applying to). No Arabic mentioned.",
+      "apply_link": "https://www.allhires.com/tamimi/PositionDetail.aspx?id=273",
+      "apply_method": "Online application via Al Tamimi allhires portal at the link above",
+      "application_ready": {
+        "cv_bullets": [
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Managed case files end-to-end, coordinated with clients and external counsel, and ensured timely filings and adherence to procedural requirements.",
+          "Maintained structured documentation to support audits and reviews",
+          "Managed 50+ legal document reviews with zero compliance errors"
+        ],
+        "ats_keywords": ["legal research", "compliance", "case management"],
+        "cover_letter": "cover letter not required (online application portal — CV only)"
+      }
+    },
+    {
+      "rank": 3,
+      "company": "Undisclosed Corporate Company (via Talent Bridge HR Consultancy Dubai)",
+      "role": "Junior Legal Associate",
+      "location": "Dubai",
+      "posted": "Recent 2026",
+      "salary_estimate": "AED 8,000–10,000/month (listed range AED 5,000–10,000; likely upper end given 2+ years PQE)",
+      "arabic_requirement": "Arabic is a plus (NOT mandatory)",
+      "match_score": "Possible (2/3 keywords: legal drafting, legal research; commercial/contract law focus)",
+      "notes": "Junior-level role well-matched to Tanya's experience level. Salary listed as 5k–10k; with 2+ years post-qualification experience and law degree, upper range (8k–10k) is likely. Recruiter-placed via Talent Bridge HR. English communication skills explicitly prioritised. Previous experience in corporate, commercial, or contract law required — matches Tanya's background.",
+      "apply_link": "https://careers-page.com/talent-bridge-dubai/job/QWV87V99",
+      "apply_method": "Online application via careers-page.com at the link above",
+      "application_ready": {
+        "cv_bullets": [
+          "Completed over two years of post-qualification legal practice through work with multiple attorneys' chambers, with broad exposure to intellectual property, regulatory compliance, commercial and criminal litigation disputes.",
+          "Drafted and filed pleadings, motions, written submissions, legal notices, and ancillary documents in civil, criminal (including white- and blue-collar), and I.P matters.",
+          "Conducted legal research, prepared legal opinions, and analysed statutes, case law, and regulations relevant to compliance, I.P, criminal and commercial disputes.",
+          "Represented clients before courts and tribunals, assisted in hearings, and supported attorneys with arguments, evidence preparation, and case strategy in IP, commercial and criminal matters.",
+          "Apply legal training and detail-oriented approach to support senior management with drafting, reviewing, and organizing business documentation, contracts, and internal communications in a fast-paced tech/automation environment."
+        ],
+        "ats_keywords": ["legal drafting", "legal research", "commercial law"],
+        "cover_letter": "cover letter not required (online application portal — CV only)"
+      }
+    }
+  ],
+
+  "skipped_summary": {
+    "total_skipped": 42,
+    "breakdown": {
+      "arabic_mandatory": 22,
+      "experience_too_high_5_plus_years": 10,
+      "salary_below_8000_or_too_uncertain": 4,
+      "weak_match_fewer_than_2_keywords": 6
+    },
+    "examples_skipped": [
+      "Khlegal (Dubai): Legal Associate — Arabic mandatory ('Bilingual: Arabic & English mandatory')",
+      "Gulf Legal Advisory Services (Dubai): Lawyer & Legal Consultant — Arabic mandatory ('Arabic Speaker' required)",
+      "Seven Seas Hotel LLC (Dubai): Legal Assistant — Arabic mandatory ('Arabic speaker, fluency required')",
+      "Lawyer (Arabic Speaking) — KADEN BORISS (Dubai): Arabic mandatory by job title",
+      "Horizons & Co. (Dubai): Associate – Litigation — Arabic mandatory ('Fluent in English and Arabic') + 3–5 years required",
+      "Aurora Prime Investment (Dubai): Senior Legal Officer — 5 years PQE required",
+      "Altara Law (Dubai): Senior Lawyer — 8 years required",
+      "Baker McKenzie (Dubai): Senior Associate Corporate/M&A — too senior",
+      "PwC (Dubai): Tax & Legal Services Senior Associate — too senior + different practice area",
+      "Kayali (Dubai): Paralegal — 5 years experience required",
+      "TGC Middle East (Dubai): Paralegal — Arabic required + 3 years required",
+      "Beond (Dubai): Legal Counsel — 3–5 years PQE required, Arabic 'strongly preferred', corporate governance focus (mismatch)",
+      "ZainTech: Senior Legal Counsel (Freelance) — too senior, contract only",
+      "JEX Personnel (Dubai): IP Partner — partner-level role (too senior)",
+      "Fawzia Mohammad Lawyers (Dubai): Legal Advisor — UAE legal experience required (1 year); Tanya has 6 months in Dubai (EA role, not legal)"
+    ]
+  },
+
+  "market_note": "The Dubai legal market at junior/associate level is heavily Arabic-language dependent. Most law firms at the junior tier require bilingual Arabic/English. English-only or English-primary roles are concentrated in: (1) DIFC-based international firms, (2) in-house tech/multinational companies, (3) recruiter-placed roles for English-speaking markets. Tanya's immediate-availability in Dubai and IP/litigation background are strong differentiators for these English-focused segments.",
+
+  "next_run": "2026-06-04 (Thursday 9:00am Dubai time) — Run Type B: Indeed UAE, GulfTalent, Dentons, DLA Piper, King & Spalding careers",
+
+  "status": "AWAITING YOUR APPROVAL",
+  "next_action": "Reply with:\n  'APPLY ALL'       — apply to ranks 1, 2, and 3\n  'APPLY 1 AND 2'   — skip rank 3 (salary uncertainty)\n  'APPLY 1 ONLY'    — top match only (tech unicorn)\n  'DO NOT APPLY'    — save for manual review"
+}
