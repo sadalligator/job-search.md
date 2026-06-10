@@ -1,0 +1,64 @@
+{
+  "last_updated": "2026-06-10",
+  "applications": [
+    {
+      "company": "Enrologies Global Consultancy",
+      "role": "Legal Advisor",
+      "location": "Dubai, UAE",
+      "date_found": "2026-06-10",
+      "date_applied": "",
+      "salary": "Not listed (estimated AED 10,000–15,000/month, 85% confidence > AED 8,000 threshold)",
+      "match_score": 90,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "apply_url": "https://to.indeed.com/aadhfxqznhcf",
+      "job_id": "JOBSEARCH_242",
+      "blocker": "Indeed MCP connector provides no application submission tool. Manual application required via the apply link.",
+      "cover_letter": "Dear Hiring Manager,\n\nI am writing to express my strong interest in the Legal Advisor position at Enrologies Global Consultancy. With over two years of post-qualification legal experience in litigation, intellectual property, contract review, and regulatory compliance, I am confident in my ability to provide practical, business-oriented legal support within your dynamic consultancy environment.\n\nDuring my tenure as an Independent Attorney at the High Court of Delhi and as a Junior Legal Associate at S.S. Rana & Co. Advocates, I developed strong capabilities in drafting and negotiating contracts, conducting legal research, managing compliance matters, and advising clients across corporate and commercial disputes. My specialisation in intellectual property law, combined with hands-on litigation experience and compliance advisory work, equips me well to address the diverse legal needs of your clients. I am a qualified, enrolled advocate in India, currently based in Dubai on a family visa, and ready to commence immediately.\n\nI welcome the opportunity to discuss how my background aligns with your requirements.",
+      "tailored_resume_notes": "Emphasise: Legal Research & Analysis, Contract Drafting & Review, Compliance Advisories, IP Law, Corporate Legal Work. Lead with Enrologies-relevant keywords: 'legal advisor', 'regulatory compliance', 'corporate governance', 'UAE laws'. Highlight Independent Attorney and S.S. Rana roles first.",
+      "notes": "Strong 5-area match. 2-3 years minimum requirement aligns with Tanya's 2+ years PQE. Arabic 'highly preferred' (not required). Posted June 7, 2026 — very recent."
+    },
+    {
+      "company": "Inoventive 3D",
+      "role": "Corporate Legal Advisor / In-House Lawyer",
+      "location": "Dubai, UAE",
+      "date_found": "2026-06-10",
+      "date_applied": "",
+      "salary": "Not listed (estimated AED 12,000–18,000/month, 75% confidence > AED 8,000 threshold)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "apply_url": "https://to.indeed.com/aa9qwxxqxydh",
+      "job_id": "JOBSEARCH_240",
+      "blocker": "Indeed MCP connector provides no application submission tool. Manual application required via the apply link.",
+      "cover_letter": "Dear Hiring Manager,\n\nI am very interested in the Corporate Legal Advisor / In-House Lawyer position at Inoventive 3D. As a qualified attorney with 2+ years of experience across commercial litigation, intellectual property, contract drafting and review, and regulatory compliance, I am well positioned to support your legal operations and protect the company's interests as you grow in the UAE market.\n\nIn my experience as an Independent Attorney at the High Court of Delhi and as a Junior Legal Associate within the IP litigation team at S.S. Rana & Co., I managed end-to-end contract review, drafted pleadings and legal notices, conducted thorough legal research, and delivered compliance advisories. I understand Inoventive 3D operates in the innovation and manufacturing space, and I am experienced in supporting cross-functional teams with practical, commercially focused legal guidance. I am based in Dubai on a family visa and available to begin immediately.\n\nI would welcome the chance to discuss how my legal background can support your team.",
+      "tailored_resume_notes": "Emphasise: Contract Management, In-House Legal Support, Compliance, IP, Legal Drafting. Keywords: 'corporate legal advisor', 'in-house counsel', 'contract negotiation', 'regulatory compliance', 'UAE'. Note: stated minimum is 3 years; Tanya has 2+ — recommend applying and positioning experience comprehensively.",
+      "notes": "Strong 5-area match. Stated minimum is 3–7 years (Tanya has 2+). Not a hard rejection rule (only 5+ years triggers hard reject). Arabic 'an advantage' (not required). Posted June 8, 2026 — most recent posting found."
+    },
+    {
+      "company": "Pinsent Masons",
+      "role": "Financial Regulation and Fintech Associate",
+      "location": "Dubai, UAE",
+      "date_found": "2026-06-10",
+      "date_applied": "",
+      "salary": "Not listed (estimated AED 20,000–35,000/month, 95% confidence > AED 8,000 threshold — major international law firm)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "apply_url": "https://to.indeed.com/aarvtqf649fs",
+      "job_id": "JOBSEARCH_228",
+      "blocker": "Pinsent Masons requires applications via their own recruitment portal exclusively. Cannot apply via Indeed. Contact: Anwen Wallington, anwen.wallington@pinsentmasons.com or LinkedIn: https://www.linkedin.com/in/anwen-wallington-36177ba1/",
+      "cover_letter": "Dear Anwen Wallington,\n\nI am writing to apply for the Financial Regulation and Fintech Associate position at Pinsent Masons Dubai. As a qualified lawyer with approximately two years of post-qualification experience in legal research, compliance frameworks, regulatory analysis, and legal drafting, I am eager to contribute to your team operating at the intersection of financial services and technology regulation.\n\nMy legal foundation developed through independent practice at the High Court of Delhi and my role within the IP litigation team at S.S. Rana & Co. has given me strong core skills in regulatory compliance, legal research, and advising on complex matters. I am committed to deepening my knowledge of UAE financial services regulation and DIFC/ADGM frameworks within a firm of Pinsent Masons' calibre. I am currently based in Dubai on a family visa and available for an immediate start.\n\nI would welcome the opportunity to discuss this role further.",
+      "tailored_resume_notes": "Emphasise: Regulatory Compliance, Legal Research, Contract Review, Client Advisory. Add keywords: 'financial regulation', 'compliance', 'fintech', 'regulatory frameworks', 'legal advisory'. Apply via Pinsent Masons careers portal at pinsentmasons.com.",
+      "notes": "1–3 years PQE required — Tanya qualifies. Major international law firm with excellent career prospects. No Arabic requirement. Domain is financial regulation/fintech (Tanya's background is IP/litigation — partial domain mismatch but core legal skills transfer). Posted May 20, 2026."
+    }
+  ],
+  "run_history": [
+    {
+      "run_date": "2026-06-10",
+      "jobs_scanned": 62,
+      "qualified_jobs": 3,
+      "applications_submitted": 0,
+      "manual_actions_required": 3,
+      "duplicates_skipped": 0,
+      "rejected_jobs": 59
+    }
+  ]
+}
