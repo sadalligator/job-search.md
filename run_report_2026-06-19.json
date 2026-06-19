@@ -1,0 +1,96 @@
+{
+  "run_date": "2026-06-19",
+  "jobs_scanned": 55,
+  "qualified_jobs": 2,
+  "applications_submitted": 0,
+  "manual_actions_required": 2,
+  "duplicates_skipped": 18,
+  "rejected_jobs": 53,
+  "applications": [
+    {
+      "company": "Enrologies Global Consultancy",
+      "role": "Legal Advisor",
+      "location": "Dubai, UAE",
+      "salary": "Not listed – estimated AED 10,000–15,000 (>70% confidence)",
+      "match_score": 90,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aa94tlkz6q7r",
+      "date_posted": "2026-06-07",
+      "blocker": "Indeed MCP server does not provide an apply_to_job tool. Human must submit application manually via the link above.",
+      "materials_prepared": [
+        "cover_letter_enrologies_legal_advisor.md",
+        "tailored_cv_enrologies.md"
+      ],
+      "score_breakdown": {
+        "litigation_experience": 25,
+        "legal_drafting": 20,
+        "legal_research": 20,
+        "contracts": 15,
+        "compliance": 15,
+        "client_representation": 15,
+        "uae_experience_preferred_bonus": 5,
+        "arabic_preferred_only_bonus": 5,
+        "total": 120
+      },
+      "why_qualified": "2-3 years experience requirement fits Tanya's 2+ years. Arabic 'highly preferred' – not required (hard rejection threshold not triggered). UAE experience 'preferably' – not mandatory. Role covers contracts, compliance, litigation support, legal research, corporate governance – all areas where Tanya has direct experience."
+    },
+    {
+      "company": "MENA Recruit (client: Abu Dhabi real estate developer)",
+      "role": "Junior Legal Counsel – Real Estate",
+      "location": "Abu Dhabi, UAE",
+      "salary": "Not listed – estimated AED 10,000–18,000 (>70% confidence for junior in-house counsel at major Abu Dhabi developer)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aakv9wr2qx6s",
+      "date_posted": "2026-03-11",
+      "blocker": "Indeed MCP server does not provide an apply_to_job tool. Human must submit application manually via the link above.",
+      "materials_prepared": [
+        "cover_letter_mena_recruit_junior_legal_counsel.md",
+        "tailored_cv_mena_recruit_realestate.md"
+      ],
+      "score_breakdown": {
+        "legal_drafting": 20,
+        "legal_research": 20,
+        "contracts": 15,
+        "client_representation": 15,
+        "total": 70
+      },
+      "why_qualified": "No Arabic requirement. No explicit UAE experience requirement. 'Qualified lawyer with commercial contracts experience' – Tanya qualifies. 'Real estate exposure advantageous' – not required. Abu Dhabi is Priority 3. Note: post is ~100 days old but still listed as active."
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Enrologies Global Consultancy",
+      "role": "Legal Advisor",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aa94tlkz6q7r",
+      "blocker": "No apply_to_job tool available in Indeed MCP. Tanya must open the link, upload tailored CV (tailored_cv_enrologies.md), and submit cover letter (cover_letter_enrologies_legal_advisor.md) manually.",
+      "priority": "HIGH – Dubai, recent post, score 90"
+    },
+    {
+      "company": "MENA Recruit (Abu Dhabi real estate developer)",
+      "role": "Junior Legal Counsel – Real Estate",
+      "location": "Abu Dhabi, UAE",
+      "application_link": "https://to.indeed.com/aakv9wr2qx6s",
+      "blocker": "No apply_to_job tool available in Indeed MCP. Tanya must open the link and apply via MENA Recruit using cover letter (cover_letter_mena_recruit_junior_legal_counsel.md).",
+      "priority": "MEDIUM – Abu Dhabi, older post, score 70"
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 3,
+    "arabic_required": 16,
+    "experience_mismatch": 15,
+    "non_legal_roles": 7,
+    "duplicates": 18,
+    "other": 12
+  },
+  "key_market_observations": [
+    "The majority of Dubai legal roles require Arabic language proficiency, significantly narrowing the eligible pool for non-Arabic speakers.",
+    "Many in-house legal roles require UAE-specific legal experience (DIFC, ADGM, UAE labour law) which Tanya does not yet have.",
+    "Most paralegal and legal counsel roles at law firms require 3+ years of UAE/GCC experience.",
+    "Roles at major law firms (Pinsent Masons, Gateley) require either UAE-specific expertise or specialist practice area knowledge (employment, fintech, shipping) not matching Tanya's IP/litigation background.",
+    "Salary floors are mostly respected in the market; the few below-threshold listings are primarily at small/unfamiliar companies.",
+    "IP-specific roles are very limited in the market currently (only senior/partner level IP roles found).",
+    "Tanya's strongest differentiators in this market: IP background, Indian bar qualification, litigation + drafting experience, immediate availability, UAE residency."
+  ]
+}
