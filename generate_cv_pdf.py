@@ -22,7 +22,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 import io
 
-OUTPUT_DIR = "/home/user/job-search.md/generated cvs"
+OUTPUT_DIR = "/home/user/job-search.md/generated-cvs"
 PHOTO_SRC  = os.path.join(OUTPUT_DIR, "tanya_photo.jpeg")
 PHOTO_CIRC = os.path.join(OUTPUT_DIR, "tanya_photo_circle.png")
 

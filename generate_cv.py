@@ -17,7 +17,7 @@ from PIL import Image, ImageDraw
 import copy
 
 
-OUTPUT_DIR = "/home/user/job-search.md/generated cvs"
+OUTPUT_DIR = "/home/user/job-search.md/generated-cvs"
 PHOTO_PATH = os.path.join(OUTPUT_DIR, "tanya_photo.jpeg")
 CIRCULAR_PHOTO_PATH = os.path.join(OUTPUT_DIR, "tanya_photo_circle.png")
 
