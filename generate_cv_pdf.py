@@ -95,7 +95,8 @@ def make_circular_photo(src, dst, size=260):
     img = Image.open(src).convert("RGBA")
     w, h = img.size
     side = min(w, h)
-    img = img.crop(((w-side)//2, (h-side)//2, (w+side)//2, (h+side)//2))
+    # Crop from top to capture face (not center which cuts off the face in portrait photos)
+    img = img.crop((0, 0, side, side))
     img = img.resize((size, size), Image.LANCZOS)
     mask = Image.new("L", (size, size), 0)
     ImageDraw.Draw(mask).ellipse((0, 0, size, size), fill=255)
