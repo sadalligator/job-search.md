@@ -1,0 +1,146 @@
+{
+  "run_date": "2026-06-22",
+  "run_time_utc": "09:00",
+  "candidate": "Tanya Sharma",
+  "jobs_scanned": 56,
+  "qualified_jobs": 2,
+  "applications_submitted": 0,
+  "manual_actions_required": 2,
+  "duplicates_skipped": 0,
+  "rejected_jobs": 54,
+  "searches_performed": [
+    "Legal Associate – Dubai",
+    "Junior Lawyer – Dubai",
+    "Paralegal – Dubai",
+    "Legal Counsel – Dubai",
+    "Intellectual Property Lawyer – Dubai",
+    "In House Counsel – Dubai",
+    "Litigation Associate lawyer – Dubai",
+    "Legal Executive compliance contracts – Dubai",
+    "IP Associate trademark copyright lawyer – Dubai",
+    "Compliance Associate legal – Dubai",
+    "Junior Associate corporate commercial lawyer – Dubai"
+  ],
+  "applications": [
+    {
+      "company": "Gateley plc",
+      "role": "Employment Paralegal",
+      "location": "Dubai",
+      "salary": "Not listed – estimated AED 12,000–16,000 (reputable UK-listed law firm, specialist employment team; >95% confidence above AED 8,000)",
+      "match_score": 65,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aa7wxd9pnzp6",
+      "posted_date": "2026-06-12",
+      "job_id": "JOBSEARCH_749",
+      "scoring_breakdown": {
+        "Litigation_Support": 25,
+        "Legal_Drafting": 20,
+        "Legal_Research": 20,
+        "total": 65
+      },
+      "match_notes": "Gateley plc is a leading international legal/professional services firm. The Employment Paralegal role requires 1+ year experience and involves litigation support, legal drafting, legal research, client liaison, and document management — all core Tanya competencies. Specialist employment law focus is not Tanya's primary background (IP/commercial litigation), but structural skills are a strong match. No Arabic requirement. Visa eligibility screening mentioned — Tanya is on UAE family-sponsored visa (eligible to work). Hybrid working model offered.",
+      "blocker": "Indeed MCP connector does not provide a job submission/apply function. Manual application required via the Indeed posting link."
+    },
+    {
+      "company": "Pinsent Masons",
+      "role": "Financial Regulation and Fintech Associate",
+      "location": "Dubai",
+      "salary": "Not listed – estimated AED 18,000–28,000 (top-tier international law firm, associate-level role; >95% confidence above AED 8,000)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aarqx9czhhqp",
+      "posted_date": "2026-05-20",
+      "job_id": "JOBSEARCH_807",
+      "scoring_breakdown": {
+        "Legal_Drafting": 20,
+        "Legal_Research": 20,
+        "Compliance": 15,
+        "Corporate_Legal_Work": 15,
+        "total": 70
+      },
+      "match_notes": "Pinsent Masons is a leading international law firm. Role requires 1–3 years PQE — Tanya qualifies at 2+ years. No Arabic required. Score of 70 meets threshold. Important caveat: the role specialises in financial regulation and fintech (digital assets, BNPL, regtech, payments licensing) — areas Tanya has no direct background in. Her IP and commercial litigation skills transfer in research and drafting capacity but the specialism gap is significant. Applications must go via Pinsent Masons own recruitment portal (not directly submittable via Indeed). Contact: Anwen Wallington (Talent Acquisition), anwen.wallington@pinsentmasons.com",
+      "blocker": "Pinsent Masons states: 'Applications are accepted via our recruitment portal only.' Additionally, Indeed MCP has no submission function. Manual application via Indeed link (which redirects to their portal) required."
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Gateley plc",
+      "role": "Employment Paralegal",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aa7wxd9pnzp6",
+      "priority": "HIGH",
+      "action_required": "Open link, complete Indeed application, upload CV (tailored to emphasise litigation support, legal research, and document drafting experience). Cover letter recommended — focus on transferable litigation and IP drafting skills and enthusiasm to move into an employment law context.",
+      "blocker": "Indeed MCP connector has no apply/submit function — human action required to complete the application."
+    },
+    {
+      "company": "Pinsent Masons",
+      "role": "Financial Regulation and Fintech Associate",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aarqx9czhhqp",
+      "priority": "MEDIUM",
+      "action_required": "Click Indeed link to reach Pinsent Masons recruitment portal. Complete portal application. Note: significant specialisation gap (financial regulation/fintech vs IP/litigation) — consider whether to invest time given the mismatch.",
+      "blocker": "Applications accepted via Pinsent Masons recruitment portal only. Additionally, Indeed MCP has no submission function."
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 3,
+    "arabic_required": 9,
+    "experience_mismatch_5_plus_years": 7,
+    "experience_mismatch_3_4_years": 2,
+    "seniority_too_high": 11,
+    "non_legal_roles": 14,
+    "language_requirement_other": 2,
+    "score_below_threshold": 2,
+    "uae_national_requirement": 1,
+    "uk_qualification_required": 1,
+    "duplicates": 0
+  },
+  "rejection_details": {
+    "salary_below_threshold_companies": [
+      "Square Yards Dubai (AED 4,000–5,000)",
+      "Juriszone (from AED 5,000)",
+      "LEX LAYER (AED 6,000–7,000)"
+    ],
+    "arabic_required_companies": [
+      "Natro Legal Associates",
+      "Rouse Network (Enforcement Paralegal)",
+      "FRM Legal Counsels",
+      "Gulf Legal Advisory Services",
+      "Trendyol",
+      "Motei & Associates (Junior Litigation)",
+      "Horizons & Co. (Litigation Associate)",
+      "GLOBAL MARKETING SYSTEMS",
+      "Gulf Legal Advisory Services"
+    ],
+    "seniority_rejected": [
+      "Horizons & Co. (Senior Associate – Litigation)",
+      "JEX Personnel (IP Partner x2)",
+      "JEX Personnel (Senior IP Lawyer)",
+      "Altara Law (Senior Lawyer)",
+      "JEX Personnel (Partner – Tax)",
+      "EMEA Legal (In-House Legal Director)",
+      "TGP International (Legal & Governance Manager)",
+      "Sokin (Head of Legal)",
+      "TechBiz Global (Senior Legal Officer)",
+      "Binance (Senior Corporate Legal Counsel)",
+      "Maxit Advertising (Senior Legal Counsel)"
+    ],
+    "non_legal_roles_rejected": [
+      "TASC Corporate Services (PRO)",
+      "Deluxe Transportation (Legal Secretary x2)",
+      "Egis Group (Facade Consultant)",
+      "Blue Bahar Engineering (Senior Associate – engineering)",
+      "Shamal LLC (Associate – Leasing)",
+      "Prepaire Laboratory (Part-Time EA)",
+      "Sustainable Solution (Personal Assistant to CEO)",
+      "55 Weltje Road (Admin/EA)",
+      "Charles Russell Speechlys (Executive Assistant – law firm but EA role)",
+      "Sentinel Ventures (HR Executive)",
+      "Mammoet (SHEQ Advisor)",
+      "YUBI (Customer Success Associate)",
+      "Motei & Associates (EA/Clients Coordinator)",
+      "Oceano Apex (EA to Director)"
+    ]
+  },
+  "notes": "The UAE legal jobs market on Indeed is heavily skewed toward: (1) Senior/Partner-level roles; (2) Arabic-speaking requirements; (3) UAE-qualified/registered lawyers; (4) 5+ years UAE-specific experience. For a candidate at Tanya's level (2+ years India PQE, no UAE admission, no Arabic) the qualifying pool is narrow. Only 2 roles of 56 scanned met all criteria. Next run (2026-06-24) should additionally search: 'Legal trainee', 'Legal assistant law firm', 'IP compliance associate'. Consider also Sharjah/Ajman searches if Dubai yields continue to be limited."
+}
