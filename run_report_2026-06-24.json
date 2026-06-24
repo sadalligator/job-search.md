@@ -1,0 +1,59 @@
+{
+  "run_date": "2026-06-24",
+  "run_time": "09:00 Dubai Time (scheduled)",
+  "jobs_scanned": 130,
+  "unique_jobs_evaluated": 50,
+  "qualified_jobs": 0,
+  "applications_submitted": 0,
+  "manual_actions_required": 0,
+  "duplicates_skipped": 0,
+  "rejected_jobs": 50,
+  "applications": [],
+  "manual_actions": [],
+  "rejections_summary": {
+    "arabic_required": 11,
+    "salary_below_threshold": 4,
+    "seniority_too_high": 16,
+    "experience_mismatch_5_plus_years": 6,
+    "experience_mismatch_specialization": 7,
+    "non_legal_roles": 4,
+    "other_language_required": 3,
+    "uk_commonwealth_qualification_required": 4,
+    "uae_national_only": 2,
+    "score_below_threshold": 2,
+    "not_a_job_posting": 1
+  },
+  "search_terms_used": [
+    "Legal Associate Lawyer",
+    "Paralegal Legal Executive",
+    "Intellectual Property Lawyer IP Associate",
+    "Junior Lawyer Legal Counsel In-House Counsel",
+    "Litigation Associate Compliance Associate",
+    "Legal Associate Junior Associate",
+    "Contracts Specialist Legal Compliance",
+    "Lawyer Attorney Legal",
+    "Legal Officer Compliance Legal",
+    "Legal Paralegal Contracts (Abu Dhabi)",
+    "Junior Legal Corporate Law",
+    "Legal Drafting Contracts Review",
+    "Trademark Copyright Patent Law",
+    "In House Legal Counsel Corporate",
+    "Legal Trainee Legal Graduate",
+    "Litigation Lawyer Legal Officer",
+    "Legal Associate Lawyer Counsel (Abu Dhabi)",
+    "Intellectual Property Legal Associate (UAE)",
+    "Law Litigation Dispute Resolution Associate",
+    "Legal Lawyer India Dubai"
+  ],
+  "locations_searched": ["Dubai", "Abu Dhabi", "United Arab Emirates"],
+  "market_observations": {
+    "dominant_barriers": [
+      "Arabic language requirement is the single biggest barrier – approximately 40% of junior/mid legal roles in Dubai require Arabic as mandatory",
+      "UAE-specific legal experience is commonly required even for junior roles (1-3 years UAE PQE)",
+      "Many law firm roles require UK, Australian, Egyptian, or GCC-qualified lawyers",
+      "Salary ranges for genuine junior legal roles frequently fall below AED 8,000 (AED 3,500–7,000 observed)",
+      "Most roles meeting salary threshold are senior level (5+ years PQE, Senior Associate, Head of Legal, Partner)"
+    ],
+    "recommendation": "The Indeed UAE legal market as of June 2026 presents very limited options for Tanya's profile. Suggest supplementing Indeed with direct law firm applications (magic circle / silver circle firms with Dubai offices), legal recruitment agencies specializing in UAE placements (Cooper Fitch, Michael Page Legal, Robert Half Legal UAE), and LinkedIn job search targeting international companies with DIFC/ADGM offices that may not require Arabic."
+  }
+}
