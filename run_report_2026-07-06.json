@@ -1,0 +1,125 @@
+{
+  "run_date": "2026-07-06",
+  "run_time_dubai": "09:00 GST",
+  "jobs_scanned": 45,
+  "qualified_jobs": 3,
+  "applications_submitted": 0,
+  "manual_actions_required": 3,
+  "duplicates_skipped": 12,
+  "rejected_jobs": 30,
+  "applications": [
+    {
+      "company": "Lawgical Group LLC",
+      "role": "Associate (Legal)",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 10,000–15,000)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aany7ychtvbn",
+      "matching_criteria": ["Legal Drafting", "Legal Research", "Contracts", "Corporate Legal Work", "Client Representation"],
+      "score_breakdown": {
+        "Legal Drafting": 20,
+        "Legal Research": 20,
+        "Contracts": 15,
+        "Corporate Legal Work": 15,
+        "Client Representation": 15,
+        "total": 85
+      },
+      "action_required": "Email tailored CV and cover letter to hr@lawgicalgroup.com with subject: 'Associate_Tanya Sharma'. Answer application questions: (1) Bachelor of Law graduate – Yes; (2) Years of UAE legal work experience – 0 (note international experience). Tailored CV and cover letter prepared below."
+    },
+    {
+      "company": "Pinsent Masons",
+      "role": "Financial Regulation and Fintech Associate",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 15,000–25,000 for top-tier international law firm)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aaq4bbcwydnx",
+      "matching_criteria": ["Legal Drafting", "Legal Research", "Compliance", "Corporate Legal Work"],
+      "score_breakdown": {
+        "Legal Drafting": 20,
+        "Legal Research": 20,
+        "Compliance": 15,
+        "Corporate Legal Work": 15,
+        "total": 70
+      },
+      "action_required": "Apply via Pinsent Masons recruitment portal only. For informal discussion contact Anwen Wallington: anwen.wallington@pinsentmasons.com. Tailored CV and cover letter prepared below."
+    },
+    {
+      "company": "MENA Recruit (undisclosed international law firm)",
+      "role": "Junior Banking & Finance Lawyer / Finance Paralegal",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 10,000–18,000 for international law firm)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aayxfvg8dv99",
+      "matching_criteria": ["Legal Drafting", "Legal Research", "Contracts", "Compliance"],
+      "score_breakdown": {
+        "Legal Drafting": 20,
+        "Legal Research": 20,
+        "Contracts": 15,
+        "Compliance": 15,
+        "Arabic Preferred Only": 0,
+        "total": 70
+      },
+      "action_required": "Apply via MENA Recruit website through Indeed link. 3-month initial contract. Note: Banking/finance is a specialisation gap – position as general legal background with strong compliance and research capabilities. Tailored CV and cover letter prepared below."
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Lawgical Group LLC",
+      "role": "Associate (Legal)",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aany7ychtvbn",
+      "blocker": "Email-only application required. No Indeed Easy Apply available. Must send CV directly to hr@lawgicalgroup.com.",
+      "cover_letter_file": "cover_letter_lawgical_group.md",
+      "tailored_cv_notes": "Emphasise: corporate document drafting (NDAs, MOUs, service agreements), legal research, client coordination, company secretarial support. Lead with S.S. Rana & Co. experience (corporate/commercial adjacent). Note UAE visa status and immediate availability."
+    },
+    {
+      "company": "Pinsent Masons",
+      "role": "Financial Regulation and Fintech Associate",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aaq4bbcwydnx",
+      "blocker": "External recruitment portal only. Must access Pinsent Masons careers site. Contact: anwen.wallington@pinsentmasons.com",
+      "cover_letter_file": "cover_letter_pinsent_masons.md",
+      "tailored_cv_notes": "Emphasise: regulatory compliance work, legal research capabilities, drafting. Highlight IP regulatory framework experience (Madrid/Hague system courses), compliance advisories at S.S. Rana. Position as enthusiastic about expanding into financial regulation with strong research foundation."
+    },
+    {
+      "company": "MENA Recruit (undisclosed international law firm)",
+      "role": "Junior Banking & Finance Lawyer / Finance Paralegal",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aayxfvg8dv99",
+      "blocker": "Application via MENA Recruit. 3-month contract; specialisation gap in banking/finance.",
+      "cover_letter_file": "cover_letter_mena_recruit_banking.md",
+      "tailored_cv_notes": "Emphasise: compliance advisories, KYC-adjacent document review, legal drafting skills, research capabilities. Note: physically based in UAE. Be transparent about general legal background while positioning research and drafting as transferable."
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 3,
+    "arabic_required": 6,
+    "experience_mismatch": 14,
+    "non_legal_roles": 8,
+    "senior_roles": 7,
+    "other_language_or_nationality_requirement": 3,
+    "duplicates": 12
+  },
+  "search_queries_run": [
+    "Legal Associate – Dubai, AE",
+    "Junior Lawyer – Dubai, AE",
+    "Legal Counsel – Dubai, AE",
+    "IP Lawyer Intellectual Property – Dubai, AE",
+    "Paralegal Legal Executive – Dubai, AE",
+    "Litigation Lawyer Associate – Dubai, AE",
+    "Compliance Legal Associate – Dubai, AE",
+    "In House Counsel Corporate – Dubai, AE",
+    "Contracts Specialist Legal – Dubai, AE",
+    "Legal Associate Contracts – Dubai, AE",
+    "Legal Counsel Junior Associate – Sharjah, AE",
+    "Junior Legal Counsel In House – Dubai, AE",
+    "Legal Executive Compliance – Dubai, AE",
+    "Lawyer Legal – Dubai, AE",
+    "Legal Associate Corporate – Abu Dhabi, AE",
+    "Legal Associate Law Firm – Dubai, AE"
+  ],
+  "note": "Indeed MCP connector does not include an apply/submit tool. All qualified applications are MANUAL_ACTION_REQUIRED. Tailored cover letters and CV guidance have been prepared for each qualified role."
+}
