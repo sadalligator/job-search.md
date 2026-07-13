@@ -1,0 +1,233 @@
+[
+  {
+    "company": "Fotis International Law Firm",
+    "role": "Legal Associate",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "AED 5,000 - AED 7,000/month",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Salary AED 5,000-7,000 is below the AED 8,000 minimum threshold. Hard reject."
+  },
+  {
+    "company": "Charles Russell Speechlys",
+    "role": "Associate (NQ-2 PQE) – Corporate",
+    "location": "Dubai (DIFC)",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Competitive (estimated AED 18,000-25,000)",
+    "match_score": 70,
+    "status": "MANUAL_ACTION_REQUIRED",
+    "notes": "Score 70. Match: Legal Drafting, Legal Research, Contracts, Corporate Legal Work. NQ-2 PQE fits Tanya's 2+ years experience. Requires common law qualification (India qualifies). Blocker: External application via Charles Russell Speechlys careers portal — cannot submit via Indeed directly. Apply at: https://to.indeed.com/aavfz2xllfpy"
+  },
+  {
+    "company": "DSV",
+    "role": "Legal Counsel",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Requires minimum 5 years experience as Senior Associate or Legal Counsel. Experience mismatch — hard reject."
+  },
+  {
+    "company": "Barratt Galvin",
+    "role": "Legal PA",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Non-legal role (PA/Personal Assistant). Hard reject."
+  },
+  {
+    "company": "Zaya Legal Services",
+    "role": "Legal Assistant",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Targeting candidates from Eastern Europe and South Africa only. Geographic/demographic targeting mismatch. Reject."
+  },
+  {
+    "company": "Marriott International",
+    "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed (estimated AED 12,000-18,000 for Marriott corporate legal role)",
+    "match_score": 85,
+    "status": "MANUAL_ACTION_REQUIRED",
+    "notes": "Score 85. Match: Legal Drafting, Legal Research, Contracts, Corporate Legal Work, Compliance. No strict experience year requirement. English only. Hybrid 3 days/week. Blocker: External application via Marriott Careers portal — cannot submit via Indeed directly. Apply at: https://to.indeed.com/aa9rqqt4qxyy"
+  },
+  {
+    "company": "Amazon.com",
+    "role": "Associate Corporate Counsel, Quick Commerce & Real Estate — MENA",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Requires 3+ years post-bar experience. Tanya has 2+ years. Experience mismatch — hard reject."
+  },
+  {
+    "company": "Lawgical Group LLC",
+    "role": "Associate",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Based on experience (estimated AED 8,000-12,000)",
+    "match_score": 85,
+    "status": "MANUAL_ACTION_REQUIRED",
+    "notes": "Score 85. Match: Legal Drafting, Legal Research, Contracts, Corporate Legal Work, Compliance. Requires 1-2 years experience; Tanya has 2+ years. Prefers UAE experience (Tanya has India experience). Application question asks about UAE experience — answer: 0 years UAE, 2+ years India. Blocker: Must email hr@lawgicalgroup.com with subject 'Associate_Tanya Sharma' — not direct Indeed submission. Apply at: https://to.indeed.com/aasxpyvsy78s"
+  },
+  {
+    "company": "Rothschild & Co",
+    "role": "Dubai Debt Advisory & Restructuring, Associate",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Finance/investment banking advisory role, not a legal position. Non-legal role — hard reject."
+  },
+  {
+    "company": "Barratt Galvin",
+    "role": "Junior Legal PA",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Non-legal role (PA/Personal Assistant). Hard reject."
+  },
+  {
+    "company": "MENA Recruit",
+    "role": "Junior Banking & Finance Lawyer / Finance Paralegal",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Dependent on experience",
+    "match_score": 40,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Score 40 (below threshold of 60). Banking & finance specialisation not in Tanya's background. Arabic highly preferred. No alignment with litigation or IP core experience. Reject."
+  },
+  {
+    "company": "Rocky Real Estate",
+    "role": "In-House Legal Counsel – Real Estate",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Arabic fluency mandatory (listed as a requirement in job description). Minimum 5 years UAE real estate experience required. Two hard rejects: Arabic required + experience mismatch."
+  },
+  {
+    "company": "Baker Hughes",
+    "role": "Commercial Legal Counsel – Industrial & Energy Technology - MENAT",
+    "location": "Jebel Ali, Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Energy sector legal counsel role likely requiring energy/industrial law background. Likely requires 5+ years experience given the scope and seniority (MENAT region coverage). Reject — experience and background mismatch."
+  },
+  {
+    "company": "Metra",
+    "role": "General Counsel",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Too senior — General Counsel is a hard reject per seniority rules."
+  },
+  {
+    "company": "MENA Recruit",
+    "role": "Junior Legal Secretary",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Non-legal role (Legal Secretary). Hard reject."
+  },
+  {
+    "company": "EMEA Legal",
+    "role": "In-House Legal Director – Dubai",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Too senior — Legal Director is a hard reject per seniority rules."
+  },
+  {
+    "company": "MENA Recruit",
+    "role": "Legal Counsel – Commercial & Regulatory (3+ PQE)",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Requires 3+ years PQE; Tanya has 2+ years. Also requires FinTech/payments/financial services background — not Tanya's area. Experience mismatch — hard reject."
+  },
+  {
+    "company": "GLOBAL MARKETING SYSTEMS",
+    "role": "Legal Counsel",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Shipping/maritime litigation focus requiring 3+ years in shipping litigation. Old posting (February 2026). Experience mismatch: specialised maritime law background required."
+  },
+  {
+    "company": "OKG",
+    "role": "Deputy General Counsel",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Too senior — Deputy General Counsel equivalent to General Counsel level. Hard reject."
+  },
+  {
+    "company": "Marriott International",
+    "role": "Legal Counsel, Development, Middle East & Africa",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Requires minimum 5 years at top-tier law firm plus active US/Canada bar membership or UK practicing certificate. Experience mismatch — hard reject."
+  },
+  {
+    "company": "Motei & Associates",
+    "role": "English/Arabic Junior Litigation Lawyer - UAE Experience",
+    "location": "Dubai",
+    "date_found": "2026-07-13",
+    "date_applied": "",
+    "salary": "Not listed",
+    "match_score": 0,
+    "status": "REJECTED_BY_FILTERS",
+    "notes": "Arabic required (in the job title itself). Hard reject. Also old posting (February 2026)."
+  }
+]

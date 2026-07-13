@@ -1,0 +1,92 @@
+{
+  "run_date": "2026-07-13",
+  "run_time_dubai": "09:00 GST (Monday)",
+  "jobs_scanned": 21,
+  "qualified_jobs": 3,
+  "applications_submitted": 0,
+  "manual_actions_required": 3,
+  "duplicates_skipped": 0,
+  "rejected_jobs": 18,
+  "applications": [
+    {
+      "company": "Charles Russell Speechlys",
+      "role": "Associate (NQ-2 PQE) – Corporate",
+      "location": "Dubai (DIFC)",
+      "salary": "Competitive — estimated AED 18,000–25,000/month",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aavfz2xllfpy",
+      "blocker": "External application via Charles Russell Speechlys careers portal. Indeed does not support direct submission for this role.",
+      "match_areas": ["Legal Drafting", "Legal Research", "Contracts", "Corporate Legal Work"],
+      "notes": "Prestigious international law firm. NQ-2 PQE requirement fits Tanya's 2+ years. India is a common law jurisdiction satisfying the qualification criteria. Posted 2026-07-10."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai",
+      "salary": "Not listed — estimated AED 12,000–18,000/month for Marriott corporate legal role",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aa9rqqt4qxyy",
+      "blocker": "External application via Marriott International careers portal. Indeed does not support direct submission for this role.",
+      "match_areas": ["Legal Drafting", "Legal Research", "Contracts", "Corporate Legal Work", "Compliance"],
+      "notes": "Global Fortune 500 employer. Paralegal role with broad legal scope — drafting, research, contracts, compliance. English only. Hybrid (3 days/week in Dubai office). No strict year-of-experience requirement — fits Tanya's profile well. Posted 2026-07-08."
+    },
+    {
+      "company": "Lawgical Group LLC",
+      "role": "Associate",
+      "location": "Dubai",
+      "salary": "Based on experience — estimated AED 8,000–12,000/month",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aasxpyvsy78s",
+      "blocker": "Application must be submitted by email to hr@lawgicalgroup.com with subject line 'Associate_Tanya Sharma'. Not a direct Indeed submission.",
+      "match_areas": ["Legal Drafting", "Legal Research", "Contracts", "Corporate Legal Work", "Compliance"],
+      "notes": "UAE legal consultancy. Requires 1-2 years experience (Tanya has 2+). Prefers UAE experience — Tanya has 0 UAE legal experience (2+ years India). Application question on UAE experience must be answered honestly as 0 years UAE, 2+ years India. Posted 2026-06-25."
+    }
+  ],
+  "manual_actions": [
+    {
+      "priority": 1,
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "action": "Apply via Marriott Careers portal at https://to.indeed.com/aa9rqqt4qxyy — upload CV tailored to emphasise contract drafting, legal research, and compliance experience. No cover letter field specified but prepare one (250 words max) if prompted.",
+      "match_score": 85,
+      "deadline": "Apply ASAP — posted 2026-07-08"
+    },
+    {
+      "priority": 2,
+      "company": "Lawgical Group LLC",
+      "role": "Associate",
+      "action": "Email hr@lawgicalgroup.com — Subject: 'Associate_Tanya Sharma'. Attach tailored CV emphasising drafting (NDAs, MOUs, SHAs), legal research, and corporate matters. Be transparent that UAE legal experience = 0 years; India legal experience = 2+ years.",
+      "match_score": 85,
+      "deadline": "Apply ASAP — posted 2026-06-25 (may still be active)"
+    },
+    {
+      "priority": 3,
+      "company": "Charles Russell Speechlys",
+      "role": "Associate (NQ-2 PQE) – Corporate",
+      "action": "Apply via Charles Russell Speechlys careers portal at https://to.indeed.com/aavfz2xllfpy. Tailor CV to corporate transactions, drafting experience. Note India common law qualification. Prepare cover letter (250 words max) per their online application if required.",
+      "match_score": 70,
+      "deadline": "Apply ASAP — posted 2026-07-10"
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 1,
+    "arabic_required": 2,
+    "experience_mismatch": 9,
+    "non_legal_roles": 5,
+    "score_below_threshold": 1,
+    "duplicates": 0,
+    "old_postings_or_other": 1
+  },
+  "search_queries_run": [
+    "Legal Associate — Dubai, AE",
+    "Junior Lawyer Paralegal — Dubai, AE",
+    "Legal Counsel In-House — Dubai, AE",
+    "Intellectual Property Lawyer IP Associate — Dubai, AE (no results)",
+    "Litigation Associate Lawyer — Dubai, AE",
+    "Compliance Legal Associate — Dubai, AE"
+  ],
+  "next_run": "2026-07-15 (Wednesday) 09:00 Dubai Time"
+}
