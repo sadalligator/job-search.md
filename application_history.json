@@ -1,0 +1,122 @@
+{
+  "last_run": "2026-07-15",
+  "runs": [
+    {
+      "run_date": "2026-07-15",
+      "jobs_scanned": 28,
+      "qualified_jobs": 2,
+      "applications_submitted": 0,
+      "manual_actions_required": 2,
+      "duplicates_skipped": 12,
+      "rejected_jobs": 24,
+      "note": "Indeed MCP connector does not support in-session application submission. All qualified roles require manual application via the provided links.",
+      "applications": [
+        {
+          "job_id": "JOBSEARCH_1564",
+          "company": "Marriott International",
+          "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+          "location": "Dubai (Central Park Towers, DIFC)",
+          "date_found": "2026-07-15",
+          "date_applied": null,
+          "salary": "Not listed — estimated AED 12,000–18,000 based on multinational hospitality group, DIFC location, permanent full-time role",
+          "match_score": 85,
+          "status": "MANUAL_ACTION_REQUIRED",
+          "application_link": "https://to.indeed.com/aa7fxtfjgz8r",
+          "posted": "2026-07-08",
+          "job_type": "Full-time, Hybrid (3 days in office)",
+          "matched_criteria": [
+            "Legal Drafting (+20)",
+            "Legal Research (+20)",
+            "Contracts (+15)",
+            "Corporate Legal Work (+15)",
+            "Compliance (+15)"
+          ],
+          "ats_keywords": [
+            "contract drafting", "contract review", "negotiation", "legal research",
+            "compliance", "vendor agreements", "commercial agreements", "asset management",
+            "SharePoint", "legal databases", "contract management systems",
+            "stakeholder management", "EMEA", "hospitality", "operational agreements"
+          ],
+          "notes": "Strong match. No minimum PQE/years stated — requires demonstrated experience in transactional/corporate legal work. English only (no Arabic). Tanya's drafting, research, and contract management experience from SS Rana and High Court roles aligns well. Role is Individual Contributor despite 'Manager' grade title in Marriott's system. Hybrid model 3 days/week. Apply directly via Marriott International careers portal."
+        },
+        {
+          "job_id": "JOBSEARCH_1573",
+          "company": "Charles Russell Speechlys",
+          "role": "Associate (NQ-2 PQE) – Corporate",
+          "location": "Dubai International Financial Centre (DIFC)",
+          "date_found": "2026-07-15",
+          "date_applied": null,
+          "salary": "Competitive (top-tier UK law firm DIFC — estimated AED 18,000–30,000+)",
+          "match_score": 85,
+          "status": "MANUAL_ACTION_REQUIRED",
+          "application_link": "https://to.indeed.com/aacktwgkkz6j",
+          "posted": "2026-07-10",
+          "job_type": "Permanent, Full-time",
+          "matched_criteria": [
+            "Legal Drafting (+20)",
+            "Legal Research (+20)",
+            "Contracts (+15)",
+            "Corporate Legal Work (+15)",
+            "Client Representation (+15)"
+          ],
+          "ats_keywords": [
+            "corporate advisory", "due diligence", "shareholders agreements", "joint ventures",
+            "acquisitions", "restructuring", "cross-border transactions", "drafting",
+            "commercial contracts", "governance", "MENA", "GCC", "private capital",
+            "legal research", "client advisory", "business development"
+          ],
+          "notes": "CAVEAT: Charles Russell Speechlys is a UK law firm preferring England & Wales qualification. Tanya is India-qualified (BA LLB Hons, Amity University). India is a common law jurisdiction and the role states 'E&W qualification preferred but not essential' — this leaves an opening. Experience range NQ-2 PQE matches Tanya's 2+ years. However, the role is corporate M&A focused, not IP/Litigation — Tanya's background is a partial fit. Recommend applying as a stretch opportunity but tailor cover letter to emphasise cross-border exposure, drafting, and client advisory work. Apply via the Charles Russell Speechlys careers portal directly."
+        }
+      ],
+      "rejected_jobs_detail": [
+        {"job_id": "JOBSEARCH_1547", "company": "Marriott International", "role": "Legal Counsel, Development, MEA", "reason": "Experience mismatch — requires 5+ years, top-tier law firm background, active bar membership (US/Canada/UK)"},
+        {"job_id": "JOBSEARCH_1548", "company": "DSV", "role": "Legal Counsel", "reason": "Experience mismatch — requires minimum 5 years as Senior Associate or Legal Counsel"},
+        {"job_id": "JOBSEARCH_1549", "company": "Barratt Galvin", "role": "Legal PA", "reason": "Non-legal role — Personal Assistant"},
+        {"job_id": "JOBSEARCH_1550", "company": "Natro Legal Associates (listed as Zaya Legal Services)", "role": "Legal Assistant", "reason": "Salary below threshold — listed AED 5,000–15,000; lower bound is below AED 8,000 minimum"},
+        {"job_id": "JOBSEARCH_1551", "company": "Amazon.com", "role": "Associate Corporate Counsel, Quick Commerce & Real Estate", "reason": "Experience mismatch — requires 3+ years post-bar; Tanya has ~2.3 years legal experience"},
+        {"job_id": "JOBSEARCH_1552", "company": "Pinsent Masons", "role": "Financial Regulation and Fintech Associate", "reason": "Posting age — posted May 20, 2026 (56 days old, outside 30-day window)"},
+        {"job_id": "JOBSEARCH_1553", "company": "MENA Recruit", "role": "Legal Associate – Hospitality & Hotels", "reason": "Experience mismatch — explicitly requires 4–5+ PQE"},
+        {"job_id": "JOBSEARCH_1554", "company": "Motei & Associates", "role": "Corporate/Commercial Lawyer", "reason": "Posting age — posted February 27, 2026 (138 days old)"},
+        {"job_id": "JOBSEARCH_1555", "company": "Motei & Associates", "role": "English/Arabic Junior Litigation Lawyer", "reason": "Arabic required (in job title) + posting age (February 2026, 138 days old)"},
+        {"job_id": "JOBSEARCH_1556", "company": "Motei & Associates", "role": "Self-Employed Lawyer in the UAE", "reason": "Not a standard employment position — self-employment arrangement not suitable"},
+        {"job_id": "JOBSEARCH_1557", "company": "Trendyol", "role": "Paralegal", "reason": "Arabic required (fluency mandatory per JD) + posting age (March 11, 2026, 126 days old)"},
+        {"job_id": "JOBSEARCH_1559", "company": "MENA Recruit", "role": "Junior Legal Secretary", "reason": "Non-legal role — Legal Secretary"},
+        {"job_id": "JOBSEARCH_1560", "company": "Altara Law", "role": "Senior Lawyer", "reason": "Senior title + posting age (April 17, 2026, 89 days old)"},
+        {"job_id": "JOBSEARCH_1566", "company": "Egis Group", "role": "Associate Facade", "reason": "Non-legal role — architectural/engineering"},
+        {"job_id": "JOBSEARCH_1567", "company": "Inhabit", "role": "Associate Facade", "reason": "Non-legal role — architectural/engineering"},
+        {"job_id": "JOBSEARCH_1568", "company": "YUBI", "role": "Customer Success Associate", "reason": "Non-legal role — customer success + old posting"},
+        {"job_id": "JOBSEARCH_1569", "company": "Inhabit", "role": "Associate Director Facade", "reason": "Non-legal role — architectural/engineering"},
+        {"job_id": "JOBSEARCH_1570", "company": "Allianz", "role": "Senior Claims Quality & Support Associate", "reason": "Non-legal role — claims operations"},
+        {"job_id": "JOBSEARCH_1571", "company": "New York University Abu Dhabi", "role": "Associate General Counsel", "reason": "Senior title + posting age (February 27, 2026)"},
+        {"job_id": "JOBSEARCH_1572", "company": "Koshan Development & Investment", "role": "Senior Counsel", "reason": "Senior title — hard rejection"},
+        {"job_id": "JOBSEARCH_1575", "company": "Sony Music Entertainment", "role": "Legal Counsel", "reason": "Arabic required (fluency mandatory) + experience mismatch (8–10 years PQE required)"},
+        {"job_id": "JOBSEARCH_1576", "company": "EMEA Legal", "role": "Legal Counsel, Dubai", "reason": "Posting age — posted March 5, 2026 (132 days old)"},
+        {"job_id": "JOBSEARCH_1577", "company": "RTC-1 Employment Services", "role": "Senior Legal Counsel", "reason": "Senior title — hard rejection"},
+        {"job_id": "JOBSEARCH_1578", "company": "Metra", "role": "General Counsel", "reason": "Senior title (General Counsel) — hard rejection"},
+        {"job_id": "JOBSEARCH_1580", "company": "Sterling Perfumes Industries LLC", "role": "Assistant Manager Legal", "reason": "Experience mismatch — requires 4–8 years UAE legal experience; Tanya has 2+ years India experience, no UAE legal experience"},
+        {"job_id": "JOBSEARCH_1582", "company": "Gulf Legal Advisory Services", "role": "Lawyer and Legal Consultant", "reason": "Posting age — posted April 15, 2026 (91 days old)"}
+      ],
+      "duplicates_detail": [
+        "JOBSEARCH_1558 = duplicate of 1555 (Motei English/Arabic Junior Litigation)",
+        "JOBSEARCH_1561 = duplicate of 1548 (DSV Legal Counsel)",
+        "JOBSEARCH_1562 = duplicate of 1547 (Marriott Legal Counsel MEA)",
+        "JOBSEARCH_1563 = duplicate of 1550 (Zaya Legal Assistant)",
+        "JOBSEARCH_1565 = duplicate of 1551 (Amazon Associate Corporate Counsel)",
+        "JOBSEARCH_1574 = duplicate of 1548 (DSV Legal Counsel)",
+        "JOBSEARCH_1579 = duplicate of 1575 (Sony Music Legal Counsel)",
+        "JOBSEARCH_1581 = duplicate of 1564 (Marriott Paralegal Manager)",
+        "JOBSEARCH_1583 = duplicate of 1547 (Marriott Legal Counsel MEA)"
+      ],
+      "rejections_summary": {
+        "salary_below_threshold": 1,
+        "arabic_required": 3,
+        "experience_mismatch": 8,
+        "non_legal_roles": 7,
+        "seniority_too_high": 5,
+        "posting_too_old": 6,
+        "non_standard_employment": 1,
+        "duplicates": 9
+      }
+    }
+  ]
+}
