@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-07-17",
+  "run_day": "Friday",
+  "run_schedule": "0 9 * * 1,3,5",
+  "jobs_scanned": 40,
+  "qualified_jobs": 1,
+  "applications_submitted": 0,
+  "manual_actions_required": 1,
+  "duplicates_skipped": 18,
+  "rejected_jobs": 39,
+  "applications": [
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai (Central Park Towers – hybrid, 3 days/week)",
+      "salary": "Not listed – estimated AED 15,000–25,000/month based on company, role level, and UAE legal market benchmarks",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aa672mwtkwxj",
+      "indeed_job_id": "JOBSEARCH_1591",
+      "posted_date": "2026-07-08",
+      "job_type": "Full-time",
+      "scoring_breakdown": {
+        "Legal Drafting": 20,
+        "Legal Research": 20,
+        "Contracts": 15,
+        "Corporate Legal Work": 15,
+        "total": 70
+      },
+      "blocker": "Indeed MCP connector provides search and job detail tools only; no application submission tool exists. Application must be submitted manually by clicking the application_link above.",
+      "key_responsibilities": "Draft/review/negotiate operational agreements (vendor, marketing, sponsorship, F&B, loyalty, travel agency); legal research; manage corporate approvals; support asset management transactions; instruct external counsel",
+      "why_good_fit": "Strong alignment with Tanya's drafting, contracts, and research experience; multinational corporate environment similar to her current EA role; no Arabic requirement; individual contributor (not senior management)"
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aa672mwtkwxj",
+      "blocker": "No application submission capability in Indeed MCP connector – human must click apply link and complete the Marriott careers application form",
+      "priority": "HIGH",
+      "deadline_note": "Posted July 8, 2026 – apply promptly"
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 2,
+    "arabic_required": 2,
+    "experience_mismatch": 20,
+    "seniority_too_high": 9,
+    "non_legal_roles": 4,
+    "language_other_than_arabic": 2,
+    "domain_mismatch_insufficient_score": 3,
+    "duplicates": 18
+  },
+  "search_queries_run": [
+    "Legal Associate – Dubai, AE",
+    "Junior Lawyer – Dubai, AE",
+    "Intellectual Property Lawyer – Dubai, AE",
+    "Paralegal Legal Executive – Dubai, AE",
+    "In House Counsel Legal Counsel – Dubai, AE",
+    "Litigation Associate Lawyer – Dubai, AE",
+    "Compliance Associate Legal – Dubai, AE",
+    "Contracts Specialist Legal – Dubai, AE",
+    "Trademark IP Associate Legal – Dubai, AE",
+    "Junior Associate Lawyer Legal Executive – Dubai, AE",
+    "Corporate Counsel In-House Lawyer – Dubai, AE",
+    "Legal Associate Counsel – Dubai, AE (fulltime)",
+    "Legal Associate Law Firm – Dubai, AE (fulltime)",
+    "Legal Associate Paralegal – Sharjah, AE",
+    "Legal Associate Junior Lawyer – Abu Dhabi, AE"
+  ],
+  "notable_findings": "The Dubai legal market on Indeed is currently dominated by senior roles (Partner, GC, Head of Legal) and specialist roles requiring Arabic, specific jurisdictions (Egyptian Bar), or niche experience (maritime, construction, fintech, banking). Entry-to-mid-level IP/litigation roles are scarce. The Marriott EMEA paralegal/legal manager role is the strongest match this cycle. Recommend also checking Marriott Careers portal directly for the application."
+}
