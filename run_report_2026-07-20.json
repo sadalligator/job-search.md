@@ -1,0 +1,81 @@
+{
+  "run_date": "2026-07-20",
+  "jobs_scanned": 30,
+  "qualified_jobs": 3,
+  "applications_submitted": 0,
+  "manual_actions_required": 3,
+  "duplicates_skipped": 8,
+  "rejected_jobs": 24,
+  "note": "Indeed connector provides search/detail tools only — no apply functionality available. All qualified roles require manual application via the provided links.",
+  "applications": [
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (est. AED 10,000–14,000)",
+      "match_score": 65,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aanxb9vp869n",
+      "posted": "2026-07-08",
+      "match_criteria": ["Intellectual Property", "Legal Drafting", "Legal Research"],
+      "blocker": "Indeed connector has no apply tool — must apply via job link directly"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (est. AED 15,000–22,000)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aal2bs7trpb6",
+      "posted": "2026-07-08",
+      "match_criteria": ["Contracts", "Legal Drafting", "Legal Research", "Corporate Legal Work"],
+      "blocker": "Indeed connector has no apply tool — must apply via Marriott careers portal link"
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (est. AED 15,000–25,000)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aazzkyv22ywg",
+      "posted": "2026-07-15",
+      "match_criteria": ["Contracts", "Legal Drafting", "Legal Research", "Corporate Legal Work"],
+      "notes": "Preferred experience 3 years PQE — Tanya has 2+. Listed as Preferred not Required. Borderline but worth applying.",
+      "blocker": "Indeed connector has no apply tool — must apply via job link directly"
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai, UAE",
+      "apply_link": "https://to.indeed.com/aanxb9vp869n",
+      "action_required": "Apply via Indeed link. Upload CV and tailored cover letter. Emphasise trademark/patent drafting at SS Rana & Co., IP litigation research, and WIPO course completions (DL-303, DL-304)."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services",
+      "location": "Dubai, UAE",
+      "apply_link": "https://to.indeed.com/aal2bs7trpb6",
+      "action_required": "Apply via Marriott International careers portal. Tailored CV should emphasise contract drafting/review, legal research, documentation management, and client/stakeholder coordination."
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "apply_link": "https://to.indeed.com/aazzkyv22ywg",
+      "action_required": "Apply via Indeed link. Tailored CV should emphasise contracts, corporate governance exposure, legal research and opinions, client representation. Note India admission as internationally recognised jurisdiction."
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 2,
+    "arabic_required": 3,
+    "experience_mismatch": 5,
+    "seniority_too_high": 8,
+    "non_legal_roles": 4,
+    "specialisation_mismatch": 2,
+    "duplicates": 8
+  }
+}
