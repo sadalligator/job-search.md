@@ -1,0 +1,100 @@
+{
+  "run_date": "2026-07-22",
+  "jobs_scanned": 30,
+  "qualified_jobs": 3,
+  "applications_submitted": 0,
+  "manual_actions_required": 3,
+  "duplicates_skipped": 6,
+  "rejected_jobs": 26,
+  "saved_for_review": 1,
+  "note": "Indeed connector provides search and job detail tools only — no application submission endpoint available. All qualified roles are flagged MANUAL_ACTION_REQUIRED with direct apply links for Tanya to action.",
+  "applications": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "salary": "Not listed — estimated AED 12,000–18,000/month",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aa7hj6b89srl",
+      "blocker": "Indeed connector has no apply endpoint. Tanya must apply directly via the link above.",
+      "match_rationale": "Legal Drafting (+20), Legal Research (+20), Contracts (+15), Corporate Legal Work (+15). No Arabic required. English-only environment. Slight experience gap (preferred 3yr PQE; candidate has ~2yr) but not a hard reject.",
+      "posted": "2026-07-15"
+    },
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai",
+      "salary": "Not listed — estimated AED 8,000–12,000/month",
+      "match_score": 80,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aay48kx2xbwb",
+      "blocker": "Indeed connector has no apply endpoint. Tanya must apply directly via the link above.",
+      "match_rationale": "Intellectual Property (+20), Legal Research (+20), Legal Drafting (+20), Client Representation (+15), Arabic Preferred Only (+5). IP law firm specialising in patents/trademarks — excellent alignment with S.S. Rana & Co. IP litigation background. French language listed as an advantage. LLB confirmed. Highest-scoring role this run.",
+      "posted": "2026-07-08"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai",
+      "salary": "Not listed — estimated AED 12,000–16,000/month",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aa2cnm6hgfwd",
+      "blocker": "Indeed connector has no apply endpoint. Tanya must apply directly via the link above.",
+      "match_rationale": "Legal Drafting (+20), Legal Research (+20), Contracts (+15), Corporate Legal Work (+15). Language requirement: English only. Individual contributor role despite 'Manager' in title. Hybrid 3 days/week. Multinational hospitality company — strong employment stability and compensation.",
+      "posted": "2026-07-08"
+    }
+  ],
+  "saved_for_review_roles": [
+    {
+      "company": "HSBC",
+      "role": "Legal Counsel - Global Trade Services (GTS)",
+      "location": "Dubai",
+      "salary": "Not listed — estimated AED 18,000–25,000/month",
+      "match_score": 90,
+      "status": "SAVED_FOR_REVIEW",
+      "application_link": "https://to.indeed.com/aa8q9hd9m2k6",
+      "note": "Formally passes all hard filters (2–5yr PQE, no Arabic requirement). Score 90. However, role explicitly requires lending/trade finance/structured trade experience (LMA documentation, commodity finance, borrowing base) that is absent from candidate's background. Saved for Tanya's own judgment.",
+      "posted": "2026-07-16"
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aa7hj6b89srl",
+      "action_required": "Open link and submit full application. Upload CV and cover letter (cover letter not explicitly required but recommended given competitive role)."
+    },
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aay48kx2xbwb",
+      "action_required": "Open link and submit application. Highlight S.S. Rana & Co. trademark/copyright/patent experience prominently. Mention French language capability as it is listed as an advantage."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aa2cnm6hgfwd",
+      "action_required": "Open link and submit full application via Marriott Careers portal. Emphasise contract drafting, document management, and multi-matter coordination experience."
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 3,
+    "arabic_required": 7,
+    "experience_mismatch": 8,
+    "non_legal_roles": 8,
+    "duplicates": 6
+  },
+  "search_queries_run": [
+    "Legal Associate — Dubai, AE",
+    "Junior Lawyer — Dubai, AE",
+    "Paralegal — Dubai, AE",
+    "Legal Counsel — Dubai, AE",
+    "Intellectual Property Lawyer — Dubai, AE"
+  ],
+  "next_run": "2026-07-24 09:00 Dubai Time (Friday)"
+}
