@@ -1,0 +1,89 @@
+{
+  "run_date": "2026-07-24",
+  "run_schedule": "Friday 09:00 Dubai Time",
+  "jobs_scanned": 30,
+  "qualified_jobs": 3,
+  "applications_submitted": 0,
+  "manual_actions_required": 3,
+  "duplicates_skipped": 0,
+  "rejected_jobs": 16,
+  "applications": [
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 10,000–15,000)",
+      "match_score": 80,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aarjrsg7nvqk",
+      "cover_letter": "cover_letters/rouse_network_patent_paralegal.txt",
+      "posted": "2026-07-08",
+      "blocker": "Indeed MCP connector does not support automated job submission. Tanya must apply directly via the link.",
+      "match_rationale": "Direct IP match: patent filing and prosecution, deadline management, client reporting. Tanya's work at S.S. Rana (IP Litigation team) and WIPO Madrid/Hague coursework are strong differentiators. Arabic preferred only — not a barrier."
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 15,000–22,000)",
+      "match_score": 100,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aas6qmdgnp42",
+      "cover_letter": "cover_letters/alcazar_energy_legal_associate.txt",
+      "posted": "2026-07-15",
+      "blocker": "Indeed MCP connector does not support automated job submission. Tanya must apply directly via the link.",
+      "match_rationale": "Highest scoring role. Broad legal associate scope covering contract drafting, legal research, compliance, litigation support, and corporate governance — aligns with Tanya's full skillset. No Arabic requirement. Preferred 3 years PQE (not mandatory per description wording)."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 18,000–25,000)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aadlyzyywlf7",
+      "cover_letter": "cover_letters/marriott_paralegal_manager.txt",
+      "posted": "2026-07-08",
+      "blocker": "Indeed MCP connector does not support automated job submission. Tanya must apply directly via the link.",
+      "match_rationale": "Global hospitality legal team EMEA. High-volume commercial agreement drafting, legal research, compliance tracking. English only. Hybrid 3 days/week in Dubai. 'Manager' is Marriott's internal pay grade — the role is an individual contributor paralegal function with strong growth trajectory."
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aarjrsg7nvqk",
+      "blocker": "Indeed MCP connector does not support automated application submission",
+      "cover_letter_ready": true,
+      "cover_letter_file": "cover_letters/rouse_network_patent_paralegal.txt"
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aas6qmdgnp42",
+      "blocker": "Indeed MCP connector does not support automated application submission",
+      "cover_letter_ready": true,
+      "cover_letter_file": "cover_letters/alcazar_energy_legal_associate.txt"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aadlyzyywlf7",
+      "blocker": "Indeed MCP connector does not support automated application submission",
+      "cover_letter_ready": true,
+      "cover_letter_file": "cover_letters/marriott_paralegal_manager.txt"
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 4,
+    "arabic_required": 7,
+    "experience_mismatch": 4,
+    "non_legal_roles": 0,
+    "duplicates": 0,
+    "seniority": 1
+  },
+  "notes": "All searches conducted via Indeed for Dubai (Priority 1 location). 30 unique roles evaluated across 9 search queries covering: Legal Associate, Junior Lawyer, Paralegal, Legal Counsel, Intellectual Property Lawyer, Litigation Associate, IP Associate, Compliance Associate, In-House Counsel. Primary rejection reasons this run: Arabic language requirement (7 roles) and salary below AED 8,000 (4 roles). 3 qualified roles identified — all require manual application. Cover letters tailored and ready in /cover_letters/."
+}
