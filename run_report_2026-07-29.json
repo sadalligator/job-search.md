@@ -1,0 +1,140 @@
+{
+  "run_date": "2026-07-29",
+  "run_time": "09:00 Dubai Time (scheduled)",
+  "jobs_scanned": 13,
+  "qualified_jobs": 3,
+  "applications_submitted": 0,
+  "manual_actions_required": 3,
+  "duplicates_skipped": 0,
+  "rejected_jobs": 10,
+  "applications": [
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (est. AED 15,000–22,000/month)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aaxtnwp727xv",
+      "posted_date": "2026-07-08",
+      "blocker": "Indeed requires authenticated user session and manual ATS submission. No apply tool available in Indeed connector.",
+      "cover_letter_notes": "Emphasise: contract review and negotiation experience (S.S. Rana & Advocate practice), legal research and opinion work, documentation and compliance management, ability to support transactional legal work across jurisdictions. Highlight current Dubai-based experience and English fluency."
+    },
+    {
+      "company": "HSBC",
+      "role": "Legal Counsel - Global Trade Services (GTS)",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (est. AED 18,000–30,000/month)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aafyc9sk29rf",
+      "posted_date": "2026-07-16",
+      "blocker": "Indeed requires authenticated user session and manual submission through HSBC careers portal.",
+      "cover_letter_notes": "PQE bracket 2–5 years is a match. Emphasise contract drafting/review, legal research, regulatory compliance, ability to learn trade finance concepts quickly. Note that Arabic is not required for this role. Position within 2–5yr PQE range is a genuine fit."
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (est. AED 15,000–25,000/month)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aaqxgzfqghvx",
+      "posted_date": "2026-07-15",
+      "blocker": "Indeed requires authenticated user session and manual submission.",
+      "cover_letter_notes": "3yr PQE is listed as preferred, not required. Emphasise transactional support, contract drafting and negotiation, legal research, IP and regulatory compliance background. Highlight ability to support cross-jurisdictional deal execution. Note enthusiasm for renewable energy and sustainable business sectors."
+    }
+  ],
+  "manual_actions": [
+    {
+      "action": "Apply to Marriott International – Paralegal, Manager Legal Services",
+      "link": "https://to.indeed.com/aaxtnwp727xv",
+      "priority": 1,
+      "reason": "Highest match score (85). Strong alignment with Tanya's drafting, research, and compliance background. English only. Large multinational with strong compensation. Posted July 8, 2026."
+    },
+    {
+      "action": "Apply to HSBC – Legal Counsel, Global Trade Services",
+      "link": "https://to.indeed.com/aafyc9sk29rf",
+      "priority": 2,
+      "reason": "PQE bracket (2–5 years) is an exact match. Reputable global bank. Arabic not required. Posted July 16, 2026."
+    },
+    {
+      "action": "Apply to Alcazar Energy – Associate, Legal",
+      "link": "https://to.indeed.com/aaqxgzfqghvx",
+      "priority": 3,
+      "reason": "3yr PQE is preferred only. Core legal skills align. English only. Posted July 15, 2026."
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 0,
+    "arabic_required": 2,
+    "experience_mismatch": 3,
+    "non_legal_roles": 0,
+    "duplicates": 0,
+    "outside_30_day_window_deprioritized": 5
+  },
+  "rejected_jobs_detail": [
+    {
+      "company": "Marriott International",
+      "role": "Legal Counsel, Development, Middle East & Africa",
+      "reason": "Hard rejection: minimum 5 years experience required"
+    },
+    {
+      "company": "Abdulla Alawadi & Associates",
+      "role": "Legal Associate",
+      "reason": "Hard rejection: Arabic mandatory (bilingual written and spoken)"
+    },
+    {
+      "company": "Motei & Associates",
+      "role": "English/Arabic Junior Litigation Lawyer",
+      "reason": "Hard rejection: Arabic mandatory; also posted February 27, 2026 (outside 30-day window)"
+    },
+    {
+      "company": "OTC and Partners FZE",
+      "role": "Legal Associate – Real Estate and Construction",
+      "reason": "Experience mismatch: mandatory UAE real estate experience (DLD/RERA); Tanya has zero UAE real estate experience"
+    },
+    {
+      "company": "Amazon.com",
+      "role": "Associate Corporate Counsel, Quick Commerce & Real Estate",
+      "reason": "Experience mismatch: basic qualifications require 3+ years PQE and real estate/construction experience; both unmet"
+    },
+    {
+      "company": "DSV",
+      "role": "Legal Counsel",
+      "reason": "Deprioritized: posted June 22, 2026 – 37 days ago, outside 30-day priority window"
+    },
+    {
+      "company": "Horizons & Co.",
+      "role": "Associate – Litigation",
+      "reason": "Deprioritized: posted February 26, 2026 – well outside 30-day window"
+    },
+    {
+      "company": "Trendyol",
+      "role": "Paralegal",
+      "reason": "Deprioritized: posted March 11, 2026 – outside 30-day window"
+    },
+    {
+      "company": "Motei & Associates - Law Firm",
+      "role": "Litigation Lawyer (Dubai Experience Required)",
+      "reason": "Deprioritized: posted February 18, 2026 – outside 30-day window"
+    },
+    {
+      "company": "ALTIVON FZCO",
+      "role": "Legal Counsel",
+      "reason": "Deprioritized: posted May 4, 2026 – outside 30-day window"
+    }
+  ],
+  "search_queries_run": [
+    "Legal Associate – Dubai, AE",
+    "Junior Lawyer Legal – Dubai, AE",
+    "Paralegal Legal Executive – Dubai, AE",
+    "Intellectual Property Lawyer IP Associate – Dubai, AE",
+    "Litigation Associate Lawyer – Dubai, AE",
+    "In House Counsel Legal Executive – Dubai, AE",
+    "Compliance Associate Legal Contracts – Dubai, AE",
+    "Legal Associate Junior Counsel – Sharjah, AE",
+    "Paralegal Legal Counsel – Abu Dhabi, AE"
+  ],
+  "notes": "Indeed MCP connector provides search and job-detail tools only. No automated application submission tool is available. All 3 qualified roles require manual login to Indeed and submission through the respective employer ATS portals. Tanya should log in to Indeed (or directly to each employer careers portal) and submit applications at the links above, prioritising Marriott first."
+}
