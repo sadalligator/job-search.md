@@ -61,3 +61,26 @@ KEY ACHIEVEMENTS
 
 References available upon request
 Current visa is sponsored by a family-owned company. UAE driving License: RTA test pending.
+
+---
+
+## JOB SEARCH RUN LOG
+
+### Run: 2026-07-30 (Wednesday 09:00 Dubai Time)
+
+**Jobs Scanned:** 30 unique roles (15 duplicates removed across 10 search terms)
+**Qualified:** 3 | **Manual Action Required:** 3 | **Auto-Submitted:** 0 | **Rejected:** 17
+
+#### Roles Requiring Manual Application
+
+| Priority | Company | Role | Score | Link |
+|----------|---------|------|-------|------|
+| 1 | Alcazar Energy | Associate, Legal | 110/145 | https://to.indeed.com/aag7c2788v4k |
+| 2 | Marriott International | Paralegal, Manager Legal Services | 85/145 | https://to.indeed.com/aaj6txhpvcdr |
+| 3 | Rouse Network | Patent Paralegal | 65/145 | https://to.indeed.com/aab447wbqxjv |
+
+Tailored cover letters saved to `/cover_letters/`. Full run report: `/run_reports/run_report_2026-07-30.json`.
+
+**Rejection Breakdown:** Arabic required (×8) | Experience 5+ years (×6) | Seniority (×5) | Salary below AED 8k (×3) | Non-legal role (×4) | Specialisation mismatch (×1)
+
+**Note:** The Indeed connector does not include a job submission tool — applications must be completed manually by Tanya at each link above.

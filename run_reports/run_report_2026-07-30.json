@@ -1,0 +1,103 @@
+{
+  "run_date": "2026-07-30",
+  "run_time_utc": "09:00",
+  "jobs_scanned": 30,
+  "qualified_jobs": 3,
+  "applications_submitted": 0,
+  "manual_actions_required": 3,
+  "duplicates_skipped": 15,
+  "rejected_jobs": 17,
+  "applications": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "salary": "Unlisted (estimated AED 12,000–18,000)",
+      "match_score": 110,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aag7c2788v4k",
+      "posted_date": "2026-07-15",
+      "blocker": "Indeed connector does not expose a job submission tool. Manual application required at the link above.",
+      "matching_criteria": ["Litigation Support", "Legal Drafting", "Legal Research", "Contracts", "Compliance", "Corporate Legal Work"],
+      "cover_letter": "cover_letters/cover_letter_alcazar_energy_associate_legal.md"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "salary": "Unlisted (estimated AED 10,000–15,000)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aaj6txhpvcdr",
+      "posted_date": "2026-07-08",
+      "blocker": "Indeed connector does not expose a job submission tool. Manual application required at the link above.",
+      "matching_criteria": ["Legal Drafting", "Legal Research", "Contracts", "Compliance", "Corporate Legal Work"],
+      "cover_letter": "cover_letters/cover_letter_marriott_paralegal_manager.md"
+    },
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai, UAE",
+      "salary": "Unlisted (estimated AED 8,000–14,000)",
+      "match_score": 65,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aab447wbqxjv",
+      "posted_date": "2026-07-08",
+      "blocker": "Indeed connector does not expose a job submission tool. Manual application required at the link above.",
+      "matching_criteria": ["Intellectual Property", "Legal Research", "Legal Drafting"],
+      "cover_letter": "cover_letters/cover_letter_rouse_network_patent_paralegal.md"
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aag7c2788v4k",
+      "blocker": "No application submission tool available in Indeed connector. Human must open link and submit application manually.",
+      "priority": 1,
+      "notes": "Note experience gap: role prefers 3 years PQE, candidate has ~2 years. Still well within target role criteria."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aaj6txhpvcdr",
+      "blocker": "No application submission tool available in Indeed connector. Human must open link and submit application manually.",
+      "priority": 2,
+      "notes": "English only. Hybrid model. Strong match on transactional/operational legal support scope."
+    },
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aab447wbqxjv",
+      "blocker": "No application submission tool available in Indeed connector. Human must open link and submit application manually.",
+      "priority": 3,
+      "notes": "Highly relevant for IP background. International IP firm in Dubai. Arabic preferred only – not required."
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 3,
+    "arabic_required": 8,
+    "experience_mismatch_5_plus_years": 6,
+    "seniority_too_high": 5,
+    "non_legal_roles": 4,
+    "uae_specialisation_mismatch": 1,
+    "duplicates": 15,
+    "not_target_title": 1
+  },
+  "search_terms_used": [
+    "Legal Associate – Dubai, AE",
+    "Junior Lawyer – Dubai, AE",
+    "Intellectual Property Lawyer – Dubai, AE",
+    "Paralegal – Dubai, AE",
+    "Legal Counsel – Dubai, AE",
+    "Legal Executive – Dubai, AE",
+    "In House Counsel – Dubai, AE",
+    "Litigation Associate – Dubai, AE",
+    "Compliance Associate Legal – Dubai, AE",
+    "IP Associate Intellectual Property – Dubai, AE"
+  ],
+  "observation": "The Dubai legal market currently shows a strong Arabic language requirement pattern across most law firm roles. The 3 qualified roles are all with multinational or international-standard organisations that either do not require Arabic (Alcazar Energy, Marriott) or treat it as a preference only (Rouse Network). Future runs should prioritise in-house roles at MNCs and international IP firms as the best-fit segment."
+}
