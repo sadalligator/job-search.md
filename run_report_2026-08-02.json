@@ -1,0 +1,75 @@
+{
+  "run_date": "2026-08-02",
+  "jobs_scanned": 32,
+  "qualified_jobs": 3,
+  "applications_submitted": 0,
+  "manual_actions_required": 3,
+  "duplicates_skipped": 0,
+  "rejected_jobs": 29,
+  "applications": [
+    {
+      "company": "Exante",
+      "role": "Legal Counsel",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 18,000–28,000; >90% confidence above AED 8,000 threshold)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aaghs6tcywzb"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 15,000–20,000; >85% confidence above AED 8,000 threshold)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aa8prbxtkrsx"
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 15,000–22,000; >80% confidence above AED 8,000 threshold)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aasndsx2wwzc"
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Exante",
+      "role": "Legal Counsel",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aaghs6tcywzb",
+      "blocker": "Indeed MCP connector does not include an application submission tool. Manual application required.",
+      "cover_letter_file": "cover_letter_exante_legal_counsel.md",
+      "ats_keywords": ["contract drafting", "contract negotiation", "commercial contracts", "SaaS agreements", "NDAs", "corporate governance", "entity management", "regulatory compliance", "fintech", "data protection", "AML/KYC", "common law", "2–5 years PQE"]
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aa8prbxtkrsx",
+      "blocker": "Indeed MCP connector does not include an application submission tool. Manual application required.",
+      "cover_letter_file": "cover_letter_marriott_paralegal.md",
+      "ats_keywords": ["contract drafting and review", "vendor agreements", "procurement agreements", "NDA", "legal research", "corporate governance", "compliance", "asset management", "legal database management", "deadline management", "stakeholder coordination", "SharePoint", "Teams"]
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aasndsx2wwzc",
+      "blocker": "Indeed MCP connector does not include an application submission tool. Manual application required.",
+      "cover_letter_file": "cover_letter_alcazar_energy_legal_associate.md",
+      "ats_keywords": ["transactional legal support", "contract drafting", "contract review", "legal research", "corporate governance", "deal execution", "risk assessment", "project finance", "legal due diligence", "legal opinions", "common law jurisdiction"]
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 2,
+    "arabic_required": 2,
+    "experience_mismatch": 11,
+    "non_legal_roles": 8,
+    "duplicates": 0
+  },
+  "notes": "All 3 qualified applications require manual submission — the Indeed MCP connector provides search and detail retrieval only, no application submission capability. 5 duplicate search results (same job appearing across multiple queries) were excluded from the jobs_scanned count. 6 roles were deprioritised due to posting dates exceeding 30 days (included in rejected_jobs total). experience_mismatch count includes both 5+ year experience requirements (3 roles) and senior/director/head-level seniority rejections (6 roles), plus 2 specialist experience mismatches (banking, investment funds). Cover letters saved to individual .md files in repository."
+}
