@@ -1,0 +1,162 @@
+{
+  "run_date": "2026-08-03",
+  "run_time_utc": "05:03",
+  "jobs_scanned": 44,
+  "qualified_jobs": 5,
+  "applications_submitted": 0,
+  "manual_actions_required": 5,
+  "duplicates_skipped": 0,
+  "rejected_jobs": 39,
+  "applications": [
+    {
+      "company": "Exante",
+      "role": "Legal Counsel",
+      "location": "Dubai",
+      "posted": "2026-07-29",
+      "salary": "Not listed (estimated AED 15,000–25,000)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aab2h8r9yvt9",
+      "match_breakdown": {
+        "Legal Drafting": 20,
+        "Legal Research": 20,
+        "Contracts": 15,
+        "Compliance": 15,
+        "Corporate Legal Work": 15,
+        "total": 85
+      },
+      "key_notes": "Junior to mid-level Corporate Legal Counsel. 2-5 years PQE — ideal match. English only. Global fintech/wealth-tech firm. No Arabic required. Reports to Chief Legal Officer."
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "posted": "2026-07-15",
+      "salary": "Not listed (estimated AED 15,000–25,000)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aapb6mpjv9pc",
+      "match_breakdown": {
+        "Legal Drafting": 20,
+        "Legal Research": 20,
+        "Contracts": 15,
+        "Corporate Legal Work": 15,
+        "Client Representation": 15,
+        "total": 85
+      },
+      "key_notes": "Broad in-house legal role at renewable energy investment fund. Preferred (not mandatory) 3 years PQE. No Arabic. Transactional, corporate governance, project finance, fund operations. Strong practical fit."
+    },
+    {
+      "company": "Walkers Global",
+      "role": "Paralegal — Finance & Corporate",
+      "location": "Dubai",
+      "posted": "2026-07-31",
+      "salary": "Not listed (estimated AED 12,000–18,000)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aadtg477xp6m",
+      "match_breakdown": {
+        "Legal Drafting": 20,
+        "Legal Research": 20,
+        "Contracts": 15,
+        "Corporate Legal Work": 15,
+        "total": 70
+      },
+      "key_notes": "Top international offshore law firm. Law degree required; no minimum years. No Arabic. Paralegal role in Finance & Corporate team. Most recent posting in this run (July 31)."
+    },
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai",
+      "posted": "2026-07-08",
+      "salary": "Not listed (estimated AED 10,000–15,000)",
+      "match_score": 65,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aank8svgmzcj",
+      "match_breakdown": {
+        "Intellectual Property": 20,
+        "Legal Research": 20,
+        "Legal Drafting": 20,
+        "Arabic Preferred Only": 5,
+        "total": 65
+      },
+      "key_notes": "Specialist IP firm. Patent filing and prosecution support. Arabic is advantage only — not required. Tanya's IP background at S.S. Rana & Co. and ongoing WIPO IP courses are directly relevant. Best IP-specific opportunity in this run."
+    },
+    {
+      "company": "Trowers & Hamlins LLP",
+      "role": "Associate — International Banking & Finance",
+      "location": "Dubai",
+      "posted": "2026-07-29",
+      "salary": "Not listed (estimated AED 20,000–35,000)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aalm4lsmvyxx",
+      "match_breakdown": {
+        "Legal Drafting": 20,
+        "Legal Research": 20,
+        "Contracts": 15,
+        "Compliance": 15,
+        "Corporate Legal Work": 15,
+        "total": 85
+      },
+      "key_notes": "Major UK international law firm. 2-4 PQE matches. English only. Scoring qualifies this role, however it requires specialized DCM/Sukuk/capital markets experience. Cover letter should emphasize transferable commercial drafting skills and openness to developing banking/finance expertise. Stretch application."
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Exante",
+      "role": "Legal Counsel",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aab2h8r9yvt9",
+      "blocker": "Indeed MCP connector does not expose a job application submission tool. Application must be completed manually by Tanya via the apply link. All job details, match scoring, and cover letter guidance are recorded in application_history.json."
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aapb6mpjv9pc",
+      "blocker": "Indeed MCP connector does not expose a job application submission tool. Application must be completed manually by Tanya via the apply link."
+    },
+    {
+      "company": "Walkers Global",
+      "role": "Paralegal — Finance & Corporate",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aadtg477xp6m",
+      "blocker": "Indeed MCP connector does not expose a job application submission tool. Application must be completed manually by Tanya via the apply link."
+    },
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aank8svgmzcj",
+      "blocker": "Indeed MCP connector does not expose a job application submission tool. Application must be completed manually by Tanya via the apply link."
+    },
+    {
+      "company": "Trowers & Hamlins LLP",
+      "role": "Associate — International Banking & Finance",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aalm4lsmvyxx",
+      "blocker": "Indeed MCP connector does not expose a job application submission tool. Application must be completed manually by Tanya via the apply link."
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 2,
+    "arabic_required": 6,
+    "experience_mismatch": 2,
+    "seniority_too_high": 4,
+    "non_legal_roles": 20,
+    "too_old_posting": 5,
+    "duplicates_in_search": 7,
+    "total_non_qualifying": 39
+  },
+  "search_queries_run": [
+    "Legal Associate — Dubai, AE",
+    "Junior Lawyer — Dubai, AE",
+    "Paralegal — Dubai, AE",
+    "Intellectual Property Lawyer — Dubai, AE",
+    "Legal Counsel — Dubai, AE",
+    "Litigation Associate lawyer — Dubai, AE",
+    "Legal Executive corporate — Dubai, AE"
+  ],
+  "connector_limitation": "The Indeed MCP connector provides search_jobs and get_job_details tools but does NOT provide an apply_job tool. Automated application submission is not possible with the current connector. All 5 qualified roles are flagged MANUAL_ACTION_REQUIRED with direct application links captured. Tanya must apply manually via each link."
+}
