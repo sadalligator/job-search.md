@@ -1,0 +1,116 @@
+{
+  "run_date": "2026-08-07",
+  "run_time_utc": "09:00 Dubai Time (UTC+4)",
+  "jobs_scanned": 42,
+  "qualified_jobs": 4,
+  "applications_submitted": 0,
+  "manual_actions_required": 4,
+  "duplicates_skipped": 5,
+  "rejected_jobs": 33,
+  "applications": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "salary": "Not listed (well-funded renewable energy company – estimated >AED 8,000 with >80% confidence)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aajkg9z6pqyb",
+      "blocker": "Indeed connector does not expose an application submission tool. Human must open link and apply directly.",
+      "match_notes": "Score 85: Legal Drafting +20, Legal Research +20, Contracts +15, Compliance +15, Corporate Legal Work +15. No Arabic required. 3 years PQE preferred but not mandatory. Indian bar admission qualifies as internationally recognised jurisdiction.",
+      "posted_date": "2026-07-15"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai",
+      "salary": "Not listed (world's largest hotel company – estimated well above AED 8,000)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aahtyrn74fl6",
+      "blocker": "Indeed connector does not expose an application submission tool. Human must open link and apply directly.",
+      "match_notes": "Score 70: Legal Drafting +20, Legal Research +20, Contracts +15, Corporate Legal Work +15. English only, no Arabic. Individual contributor role. Hybrid (3 days/week). No years of experience specified beyond 'demonstrable experience supporting transactional or general corporate legal work'.",
+      "posted_date": "2026-07-08"
+    },
+    {
+      "company": "Walkers Global",
+      "role": "Paralegal – Finance & Corporate",
+      "location": "Dubai",
+      "salary": "Not listed (leading international law firm – estimated well above AED 8,000)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aa9r74d896y2",
+      "blocker": "Indeed connector does not expose an application submission tool. Human must open link and apply directly.",
+      "match_notes": "Score 70: Legal Drafting +20, Legal Research +20, Contracts +15, Corporate Legal Work +15. No Arabic required. Offshore law firm (BVI, Cayman, Bermuda, etc.). Requires law degree or equivalent. Duties include drafting, legal research, transaction management.",
+      "posted_date": "2026-07-31"
+    },
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai",
+      "salary": "Not listed (established global IP firm – estimated above AED 8,000)",
+      "match_score": 60,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aabvpgsgmv8p",
+      "blocker": "Indeed connector does not expose an application submission tool. Human must open link and apply directly.",
+      "match_notes": "Score 60: Intellectual Property +20, Legal Research +20, Legal Drafting +20. Arabic is an advantage only, not required. Tanya's S.S. Rana & Co. IP litigation background (trademark, copyright, patent) is a strong direct match. LLB preferred.",
+      "posted_date": "2026-07-08"
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aajkg9z6pqyb",
+      "blocker": "Indeed MCP connector has no apply/submit tool. Tanya must open the link and complete the application manually on Indeed or the Alcazar Energy careers page.",
+      "priority": "HIGH – highest match score (85)"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aahtyrn74fl6",
+      "blocker": "Indeed MCP connector has no apply/submit tool. Tanya must open the link and complete the application manually.",
+      "priority": "HIGH – strong multinational employer, English-only role"
+    },
+    {
+      "company": "Walkers Global",
+      "role": "Paralegal – Finance & Corporate",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aa9r74d896y2",
+      "blocker": "Indeed MCP connector has no apply/submit tool. Tanya must open the link and complete the application manually.",
+      "priority": "HIGH – leading international law firm, posted July 31 (very fresh)"
+    },
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aabvpgsgmv8p",
+      "blocker": "Indeed MCP connector has no apply/submit tool. Tanya must open the link and complete the application manually.",
+      "priority": "MEDIUM-HIGH – IP specialist firm, excellent match with SS Rana & Co. background"
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 4,
+    "arabic_required": 8,
+    "experience_mismatch_5_plus_years": 6,
+    "non_legal_roles": 9,
+    "senior_roles_rejected": 3,
+    "language_other_than_arabic": 1,
+    "duplicates": 5
+  },
+  "search_queries_run": [
+    "Legal Associate – Dubai, AE",
+    "Junior Lawyer – Dubai, AE",
+    "Paralegal – Dubai, AE",
+    "Legal Counsel – Dubai, AE",
+    "Intellectual Property Lawyer – Dubai, AE",
+    "Litigation Associate – Dubai, AE",
+    "Compliance Associate Legal – Dubai, AE",
+    "Legal Executive – Dubai, AE",
+    "In House Counsel – Dubai, AE",
+    "IP Associate – Dubai, AE"
+  ],
+  "notes": "Indeed connector does not include an application submission tool. All 4 qualified jobs require manual application by the candidate via the provided links. Salary for all 4 qualified roles is unlisted; confidence estimate based on employer size and role seniority in the Dubai legal market is >80% for all 4 roles clearing the AED 8,000 threshold."
+}
