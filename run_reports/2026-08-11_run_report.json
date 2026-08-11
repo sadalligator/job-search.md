@@ -1,0 +1,87 @@
+{
+  "run_date": "2026-08-11",
+  "run_time": "09:00 Dubai Time (UTC+4)",
+  "jobs_scanned": 20,
+  "qualified_jobs": 2,
+  "applications_submitted": 0,
+  "manual_actions_required": 2,
+  "duplicates_skipped": 7,
+  "rejected_jobs": 13,
+  "applications": [
+    {
+      "company": "Walkers",
+      "role": "Paralegal (Finance & Corporate)",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 12,000–18,000/month)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aayyjvhxjbqj",
+      "posted_date": "2026-07-31",
+      "match_areas": ["Legal Drafting", "Legal Research", "Contracts", "Corporate Legal Work", "Compliance"],
+      "blocker": "Indeed connector does not support application submission. Tanya must apply directly via the link above. Cover letter prepared at tailored_applications/walkers_paralegal_cover_letter.md"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE (Hybrid – 3 days in office)",
+      "salary": "Not listed (estimated AED 14,000–22,000/month)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aa28hsc6svpv",
+      "posted_date": "2026-07-08",
+      "match_areas": ["Legal Drafting", "Legal Research", "Contracts", "Corporate Legal Work", "Compliance"],
+      "blocker": "Indeed connector does not support application submission. Tanya must apply directly via the link above. Cover letter prepared at tailored_applications/marriott_paralegal_cover_letter.md"
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Walkers",
+      "role": "Paralegal (Finance & Corporate)",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aayyjvhxjbqj",
+      "blocker": "No application submission tool available in Indeed MCP connector. Direct manual application required.",
+      "cover_letter": "tailored_applications/walkers_paralegal_cover_letter.md",
+      "priority": "HIGH – Strong match, posted 2026-07-31, major international law firm"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aa28hsc6svpv",
+      "blocker": "No application submission tool available in Indeed MCP connector. Direct manual application required.",
+      "cover_letter": "tailored_applications/marriott_paralegal_cover_letter.md",
+      "priority": "HIGH – Strong match, Fortune 500 employer, hybrid role, English only"
+    }
+  ],
+  "rejections_detail": [
+    {"company": "Alcazar Energy", "role": "Associate, Legal", "reason": "Experience mismatch – requires 3+ years PQE"},
+    {"company": "Abdulla Alawadi & Associates", "role": "Legal Associate", "reason": "Arabic required (mandatory) + UAE experience required"},
+    {"company": "Horizons & Co.", "role": "Associate – Litigation", "reason": "Arabic required (mandatory) + 3–5 years experience"},
+    {"company": "ALTIVON FZCO", "role": "Legal Counsel", "reason": "Mandarin/Chinese required (mandatory)"},
+    {"company": "EMEA Legal", "role": "Corporate Legal Counsel – Dubai", "reason": "Experience mismatch – requires ~8 years M&A experience"},
+    {"company": "Marriott International", "role": "Legal Counsel, Development MEA", "reason": "Experience mismatch – requires 5+ years in top-tier law firm"},
+    {"company": "Amazon.com", "role": "Associate Corporate Counsel MENA", "reason": "Experience mismatch – requires 3+ years post-bar"},
+    {"company": "Salesforce", "role": "Commercial Corporate Counsel", "reason": "Experience mismatch – requires 5yr PQE; Arabic required (mandatory)"},
+    {"company": "RIDIK PTE. LTD.", "role": "Regulatory Legal Counsel", "reason": "Experience mismatch – requires 6–8 years PQE"},
+    {"company": "LINKS CONSULTANTS", "role": "Legal Associate cum PRO", "reason": "Salary below threshold – listed AED 4,000–6,000/month"},
+    {"company": "Decima International", "role": "Legal / Contractual Advisor", "reason": "Experience mismatch – requires 10+ years"},
+    {"company": "BYD", "role": "Senior Lawyer", "reason": "Seniority rejection – Senior role"},
+    {"company": "Binance", "role": "Senior Corporate Legal Counsel", "reason": "Seniority rejection – Senior role"},
+    {"company": "EMEA Legal", "role": "In-House Legal Director", "reason": "Seniority rejection – Legal Director role"},
+    {"company": "Goldwind Science & Technology", "role": "Legal Manager", "reason": "Seniority rejection – Legal Manager role"},
+    {"company": "LMAX Group", "role": "Head of Compliance", "reason": "Seniority rejection – Head of Compliance role"},
+    {"company": "Signify", "role": "Legal Intern", "reason": "Seniority rejection – Intern role"},
+    {"company": "University of Dubai", "role": "Assistant/Associate Professor in Law", "reason": "Non-legal/target role – academic position"},
+    {"company": "Multiple employers", "role": "Various non-legal roles", "reason": "Non-legal roles – Business Development, Investments, Customer Success, Government Relations, Strategy, HR, etc."}
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 1,
+    "arabic_required": 2,
+    "experience_mismatch": 8,
+    "non_legal_roles": 10,
+    "too_senior": 5,
+    "other_language_mismatch": 1,
+    "duplicates_across_searches": 7
+  },
+  "notes": "Indeed MCP connector supports search and job detail retrieval only — no submission capability. All qualified applications require manual action by Tanya. Tailored cover letters and ATS keyword notes saved to tailored_applications/ directory. Next run: Wednesday 2026-08-13 at 09:00 Dubai Time."
+}
