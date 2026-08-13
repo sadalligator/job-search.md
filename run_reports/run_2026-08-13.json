@@ -1,0 +1,129 @@
+{
+  "run_date": "2026-08-13",
+  "run_time": "09:00 Dubai Time (Wednesday)",
+  "jobs_scanned": 28,
+  "qualified_jobs": 4,
+  "applications_submitted": 0,
+  "manual_actions_required": 4,
+  "duplicates_skipped": 0,
+  "rejected_jobs": 12,
+  "applications": [
+    {
+      "company": "Walkers Global",
+      "role": "Paralegal (Finance & Corporate)",
+      "location": "Dubai",
+      "salary": "Not listed (estimated AED 10,000–18,000)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aaqzh4q824cx",
+      "date_posted": "2026-07-31",
+      "cover_letter": "cover_letters/cover_letter_walkers_paralegal.md",
+      "ats_keywords_matched": ["legal drafting", "legal research", "contract management", "corporate governance", "document management", "KYC", "compliance", "Microsoft Office"],
+      "notes": "Leading international law firm with Dubai office. No Arabic requirement. Excellent institutional match."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai",
+      "salary": "Not listed (estimated AED 12,000–20,000)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aatl9kfmsqgv",
+      "date_posted": "2026-07-08",
+      "cover_letter": "cover_letters/cover_letter_marriott_paralegal.md",
+      "ats_keywords_matched": ["contract drafting", "legal research", "compliance", "contract review", "legal support", "operational agreements", "vendor agreements", "documentation management", "Microsoft Office", "SharePoint"],
+      "notes": "World's largest hotel company EMEA Law Department. English only. Hybrid. Individual contributor role despite 'Manager' in title."
+    },
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai",
+      "salary": "Not listed (estimated AED 8,000–14,000)",
+      "match_score": 65,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aazlm2mt8qjq",
+      "date_posted": "2026-07-08",
+      "cover_letter": "cover_letters/cover_letter_rouse_patent_paralegal.md",
+      "ats_keywords_matched": ["intellectual property", "patent", "trademark", "copyright", "legal research", "filings", "Madrid System", "Hague System", "LLB", "deadline management", "Microsoft Office"],
+      "notes": "Top-tier IP firm. Arabic preferred (not required). Tanya's WIPO Madrid/Hague courses are highly relevant. Best IP alignment of all roles."
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "salary": "Not listed (estimated AED 15,000–25,000)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aasmdh8jgyk4",
+      "date_posted": "2026-07-15",
+      "cover_letter": "cover_letters/cover_letter_alcazar_energy_legal_associate.md",
+      "ats_keywords_matched": ["legal research", "contract drafting", "legal advice", "compliance", "regulatory", "corporate governance", "litigation support", "legal documentation", "risk assessment"],
+      "notes": "Renewable energy in-house role. Prefers 3yr PQE (Tanya has 2+) and international law firm background. Role is transactional/corporate focused — moderate alignment. Highest estimated salary."
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Walkers Global",
+      "role": "Paralegal (Finance & Corporate)",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aaqzh4q824cx",
+      "blocker": "Indeed does not support direct application submission for this role. Candidate must click the apply link and complete the application on Walkers' careers portal.",
+      "cover_letter_file": "cover_letters/cover_letter_walkers_paralegal.md"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aatl9kfmsqgv",
+      "blocker": "Indeed does not support direct application submission. Candidate must complete application on Marriott's careers portal.",
+      "cover_letter_file": "cover_letters/cover_letter_marriott_paralegal.md"
+    },
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aazlm2mt8qjq",
+      "blocker": "Indeed does not support direct application submission. Candidate must apply on Rouse Network's careers portal.",
+      "cover_letter_file": "cover_letters/cover_letter_rouse_patent_paralegal.md"
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aasmdh8jgyk4",
+      "blocker": "Indeed does not support direct application submission. Candidate must apply on Alcazar Energy's careers portal.",
+      "cover_letter_file": "cover_letters/cover_letter_alcazar_energy_legal_associate.md"
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 0,
+    "arabic_required": 5,
+    "experience_mismatch": 4,
+    "non_legal_roles": 3,
+    "duplicates": 0,
+    "total_rejected": 12
+  },
+  "rejected_roles_detail": [
+    {"company": "Abdulla Alawadi & Associates", "role": "Legal Associate", "reason": "Arabic mandatory + UAE experience mandatory"},
+    {"company": "Horizons & Co.", "role": "Associate – Litigation", "reason": "Arabic required + old posting (Feb 2026)"},
+    {"company": "Motei & Associates", "role": "English/Arabic Junior Litigation Lawyer", "reason": "Arabic required + Egyptian Bar required"},
+    {"company": "University of Wollongong in Dubai", "role": "Legal Counsel", "reason": "5 years PQE required"},
+    {"company": "Mastercard", "role": "Legal Counsel, Litigation", "reason": "5+ years experience required"},
+    {"company": "Sony Music Entertainment", "role": "Legal Counsel", "reason": "8-10 years PQE + Arabic required"},
+    {"company": "EMEA Legal", "role": "Corporate Legal Counsel", "reason": "5-10 years PQE required"},
+    {"company": "Rouse Network", "role": "Enforcement Paralegal", "reason": "Arabic required (mandatory per person spec)"},
+    {"company": "Citi", "role": "Associate, Corporate Banking", "reason": "Not a legal role"},
+    {"company": "ALPIN LIMITED", "role": "Associate Consultant – Sustainability", "reason": "Not a legal role"},
+    {"company": "Alcazar Energy", "role": "Associate, Investments", "reason": "Not a legal role"},
+    {"company": "University of Dubai", "role": "Assistant/Associate Professor in Law", "reason": "Academic role, not legal practice"}
+  ],
+  "search_queries_used": [
+    "Legal Associate – Dubai, AE",
+    "Intellectual Property Lawyer – Dubai, AE",
+    "Legal Counsel – Dubai, AE",
+    "Paralegal – Dubai, AE",
+    "Litigation Associate lawyer – Dubai, AE",
+    "IP Associate intellectual property – Dubai, AE",
+    "Legal Executive junior lawyer – Dubai, AE"
+  ]
+}
