@@ -1,0 +1,105 @@
+{
+  "run_date": "2026-08-18",
+  "jobs_scanned": 21,
+  "qualified_jobs": 2,
+  "applications_submitted": 0,
+  "manual_actions_required": 2,
+  "duplicates_skipped": 2,
+  "rejected_jobs": 17,
+  "note": "Indeed connector does not provide a job application submission tool. All qualified roles flagged MANUAL_ACTION_REQUIRED with direct links for manual completion.",
+  "applications": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "salary": "Not listed (estimated AED 15,000–25,000; large energy company, salary PASS with >80% confidence)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aakmh7zq4nyh",
+      "date_posted": "2026-07-15",
+      "blocker": "Indeed connector has no apply tool. Candidate must apply manually via the link above.",
+      "match_breakdown": {
+        "Legal Drafting": 20,
+        "Legal Research": 20,
+        "Contracts": 15,
+        "Corporate Legal Work": 15,
+        "Compliance": 15
+      },
+      "notes": "Strong corporate/transactional legal role. Preferred 3 years PQE is not a hard rejection filter. No Arabic required. Posted 34 days ago."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai",
+      "salary": "Not listed (estimated AED 12,000–20,000; major multinational, salary PASS with >80% confidence)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aavkgd9tblvh",
+      "date_posted": "2026-07-08",
+      "blocker": "Indeed connector has no apply tool. Candidate must apply manually via the link above.",
+      "match_breakdown": {
+        "Legal Drafting": 20,
+        "Legal Research": 20,
+        "Contracts": 15,
+        "Corporate Legal Work": 15,
+        "Compliance": 15
+      },
+      "notes": "Paralegal/legal operations role in EMEA Law Department. English only required. Hybrid 3 days/week. No minimum years specified. Posted 41 days ago — slightly outside 30-day window but qualifies on all other criteria."
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aakmh7zq4nyh",
+      "blocker": "Indeed MCP connector exposes search and details tools only — no apply/submit tool available. Tanya must open the link and apply directly on Indeed or the company portal."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aavkgd9tblvh",
+      "blocker": "Indeed MCP connector exposes search and details tools only — no apply/submit tool available. Tanya must open the link and apply directly on the Marriott careers portal."
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 3,
+    "arabic_required": 1,
+    "experience_mismatch": 5,
+    "non_legal_roles": 6,
+    "seniority_too_high": 2,
+    "duplicates": 2
+  },
+  "rejection_detail": [
+    {"id": "JOBSEARCH_2917", "company": "AL NASSAR ADVOCATES", "reason": "salary_below_threshold + arabic_required", "salary": "AED 7,000–12,000 (min below threshold); Arabic mandatory"},
+    {"id": "JOBSEARCH_2919", "company": "Fotis International / AMCO", "reason": "salary_below_threshold", "salary": "AED 5,000–7,000"},
+    {"id": "JOBSEARCH_2923", "company": "Fahad Alzeyoudi Advocates", "reason": "salary_below_threshold + arabic_required", "salary": "AED 4,000–6,000"},
+    {"id": "JOBSEARCH_2924", "company": "Abdulla Alawadi & Associates", "reason": "arabic_required + experience_mismatch", "notes": "Arabic mandatory; 3–5 years UAE experience mandatory"},
+    {"id": "JOBSEARCH_2921", "company": "Marriott International", "reason": "experience_mismatch", "notes": "5+ years in top-tier law firm required"},
+    {"id": "JOBSEARCH_2927", "company": "Mastercard", "reason": "experience_mismatch", "notes": "5+ years litigation/disputes experience required"},
+    {"id": "JOBSEARCH_2928", "company": "Motei & Associates", "reason": "experience_mismatch", "notes": "10+ years PQE required, 5+ years Dubai law firm required"},
+    {"id": "JOBSEARCH_2930", "company": "Amazon.com", "reason": "experience_mismatch", "notes": "3+ years post-bar basic qualification (candidate has 2+); real estate/logistics specialization not matching"},
+    {"id": "JOBSEARCH_2938", "company": "Decima International", "reason": "experience_mismatch", "notes": "10+ years construction law experience required"},
+    {"id": "JOBSEARCH_2920", "company": "Citi", "reason": "non_legal_roles", "notes": "Corporate Banking Associate — not a legal role"},
+    {"id": "JOBSEARCH_2922", "company": "Shamal LLC", "reason": "non_legal_roles", "notes": "Customer Experience Executive — not a legal role"},
+    {"id": "JOBSEARCH_2925", "company": "Delivery Hero / instashop", "reason": "non_legal_roles", "notes": "Tech Tools & Contracts operations role — not a legal position"},
+    {"id": "JOBSEARCH_2935", "company": "Jotun Group", "reason": "non_legal_roles", "notes": "HSEQ Specialist — not a legal role"},
+    {"id": "JOBSEARCH_2936", "company": "VaporVM", "reason": "non_legal_roles", "notes": "PR Officer — not a legal role"},
+    {"id": "JOBSEARCH_2939", "company": "Ali & Sons Contracting", "reason": "non_legal_roles", "notes": "Contracts Administrator — not a legal/qualified lawyer role"},
+    {"id": "JOBSEARCH_2933", "company": "BYD", "reason": "seniority_too_high", "notes": "Senior Lawyer — rejected by seniority filter"},
+    {"id": "JOBSEARCH_2934", "company": "LMAX Group", "reason": "seniority_too_high", "notes": "Head of Compliance — Director/Head level, rejected by seniority filter"},
+    {"id": "JOBSEARCH_2929", "company": "Marriott International", "reason": "duplicate", "notes": "Duplicate of JOBSEARCH_2921"},
+    {"id": "JOBSEARCH_2932", "company": "Marriott International", "reason": "duplicate", "notes": "Duplicate of JOBSEARCH_2926"}
+  ],
+  "searches_performed": [
+    "Legal Associate — Dubai, AE",
+    "Paralegal Legal Executive — Dubai, AE",
+    "Intellectual Property Lawyer IP Associate — Dubai, AE",
+    "Litigation Associate Lawyer Dubai — Dubai, AE",
+    "Junior Lawyer Legal Counsel — Dubai, AE",
+    "In-House Counsel Compliance Associate — Dubai, AE",
+    "Contracts Specialist Legal — Dubai, AE",
+    "Legal Associate Law Firm Dubai 2026 — Dubai, AE"
+  ]
+}
