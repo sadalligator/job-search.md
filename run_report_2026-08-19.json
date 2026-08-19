@@ -1,0 +1,75 @@
+{
+  "run_date": "2026-08-19",
+  "jobs_scanned": 30,
+  "qualified_jobs": 3,
+  "applications_submitted": 0,
+  "manual_actions_required": 3,
+  "duplicates_skipped": 0,
+  "rejected_jobs": 27,
+  "applications": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 12,000–20,000)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aapzhncfhnvp",
+      "blocker": "Indeed connector does not provide a job submission API. Apply manually at the link above.",
+      "match_details": "Legal Drafting (+20), Legal Research (+20), Contracts (+15), Corporate Legal Work (+15), Compliance (+15). Prefers 3 yrs PQE; Tanya has 2+ yrs — listed as preferred not required. No Arabic requirement. Strong IP/compliance alignment."
+    },
+    {
+      "company": "Walkers Global",
+      "role": "Paralegal – Finance & Corporate",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 10,000–15,000)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aam9szt6n227",
+      "blocker": "Indeed connector does not provide a job submission API. Apply manually at the link above.",
+      "match_details": "Legal Drafting (+20), Legal Research (+20), Contracts (+15), Corporate Legal Work (+15). Leading international law firm. Accepts law degree or admitted attorney. No Arabic requirement. Posted July 31, 2026."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (estimated AED 12,000–18,000)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aak78fl9bsrp",
+      "blocker": "Indeed connector does not provide a job submission API. Apply manually at the link above.",
+      "match_details": "Legal Drafting (+20), Legal Research (+20), Contracts (+15), Corporate Legal Work (+15). English only. Hybrid 3 days/week. Covers operational agreements, EMEA hotel legal support. Individual contributor. Posted July 8, 2026."
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aapzhncfhnvp",
+      "blocker": "No apply API in Indeed connector — manual application required via Indeed job page"
+    },
+    {
+      "company": "Walkers Global",
+      "role": "Paralegal – Finance & Corporate",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aam9szt6n227",
+      "blocker": "No apply API in Indeed connector — manual application required via Indeed job page"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aak78fl9bsrp",
+      "blocker": "No apply API in Indeed connector — manual application required via Indeed job page"
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 2,
+    "arabic_required": 4,
+    "experience_mismatch": 10,
+    "non_legal_roles": 5,
+    "seniority_too_high": 4,
+    "posting_too_old": 2
+  }
+}
