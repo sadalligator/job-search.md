@@ -1,0 +1,81 @@
+{
+  "run_date": "2026-08-20",
+  "jobs_scanned": 19,
+  "qualified_jobs": 2,
+  "applications_submitted": 0,
+  "manual_actions_required": 2,
+  "duplicates_skipped": 5,
+  "rejected_jobs": 17,
+  "applications": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "salary": "Not listed (estimated AED 12,000–20,000; >70% confidence above AED 8,000 threshold)",
+      "match_score": 100,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aazxq8m69tz9",
+      "match_breakdown": {
+        "Legal Research": "+20",
+        "Legal Drafting": "+20",
+        "Contracts": "+15",
+        "Corporate Legal Work": "+15",
+        "Client Representation": "+15",
+        "Compliance": "+15"
+      },
+      "notes": "Renewable energy sector. Prefers 3 years PQE; Tanya has 2+. No Arabic required. Strong alignment on core legal skills: contracts, drafting, research, compliance, litigation support. Indeed apply tool not available — manual submission required."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai",
+      "salary": "Not listed (estimated AED 12,000–18,000; >70% confidence above AED 8,000 threshold)",
+      "match_score": 100,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aad224gn2td6",
+      "match_breakdown": {
+        "Legal Research": "+20",
+        "Legal Drafting": "+20",
+        "Contracts": "+15",
+        "Compliance": "+15",
+        "Corporate Legal Work": "+15",
+        "Client Representation": "+15"
+      },
+      "notes": "World's largest hotel company. Individual contributor despite 'Manager' in title. English only required. Hybrid 3 days/week Dubai office. No minimum years of experience stated — requires demonstrable transactional/corporate legal experience which Tanya has. Indeed apply tool not available — manual submission required."
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aazxq8m69tz9",
+      "blocker": "No Indeed automated apply tool available in this session. Tanya must log into Indeed and submit the application manually at the link above."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai",
+      "application_link": "https://to.indeed.com/aad224gn2td6",
+      "blocker": "No Indeed automated apply tool available in this session. Tanya must log into Indeed and submit the application manually at the link above."
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 1,
+    "arabic_required": 2,
+    "experience_mismatch": 8,
+    "non_legal_roles": 5,
+    "senior_roles": 2,
+    "self_employment": 1,
+    "duplicates": 5
+  },
+  "searches_run": [
+    "Legal Associate Lawyer – Dubai",
+    "Paralegal Legal Executive – Dubai",
+    "Intellectual Property Lawyer IP Associate – Dubai",
+    "Junior Lawyer Legal Counsel – Dubai",
+    "Compliance Associate Contracts Legal – Dubai",
+    "In House Counsel Legal Associate – Dubai"
+  ],
+  "note": "Indeed application submission tool is not available in this automation session. Both qualified roles require manual application by Tanya via the Indeed links provided."
+}
