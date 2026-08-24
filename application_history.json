@@ -1,0 +1,98 @@
+{
+  "last_updated": "2026-08-24",
+  "runs": [
+    {
+      "run_date": "2026-08-24",
+      "run_type": "scheduled",
+      "notes": "Indeed connector supports search and get_details only; no auto-apply. All qualified roles surfaced with direct Indeed application links for manual submission."
+    }
+  ],
+  "applications": [
+    {
+      "company": "The Coca-Cola Company",
+      "role": "Paralegal, Eurasia & Middle East",
+      "location": "Dubai, UAE",
+      "date_found": "2026-08-24",
+      "date_applied": "",
+      "salary": "Not listed (est. AED 15,000+ / mo, FMCG multinational)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "notes": "Strong IP/FMCG alignment with Tanya's core interest. Requires 3-5 yrs; Tanya has 2+ yrs. Arabic only 'an advantage', not required. Direct link: https://to.indeed.com/aa9n68zmlkrz",
+      "application_link": "https://to.indeed.com/aa9n68zmlkrz",
+      "job_id": "JOBSEARCH_3061"
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "date_found": "2026-08-24",
+      "date_applied": "",
+      "salary": "Not listed (est. AED 15,000+ / mo, PE-backed renewables)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "notes": "In-house corporate/transactional; admission to India (internationally recognised jurisdiction) accepted. 3 yrs PQE preferred - Tanya slightly below at 2+. No Arabic requirement. Direct link: https://to.indeed.com/aadkbt74j42x",
+      "application_link": "https://to.indeed.com/aadkbt74j42x",
+      "job_id": "JOBSEARCH_3062"
+    },
+    {
+      "company": "Walkers (Walkers Global)",
+      "role": "Paralegal - Finance & Corporate",
+      "location": "Dubai, UAE",
+      "date_found": "2026-08-24",
+      "date_applied": "",
+      "salary": "Not listed (est. AED 12,000-18,000 / mo, offshore law firm)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "notes": "Leading international offshore firm. Law degree accepted. No Arabic requirement. Direct link: https://to.indeed.com/aalqzllgrgmk",
+      "application_link": "https://to.indeed.com/aalqzllgrgmk",
+      "job_id": "JOBSEARCH_3045"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "date_found": "2026-08-24",
+      "date_applied": "",
+      "salary": "Not listed (est. AED 20,000+ / mo, MNC hospitality)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "notes": "English only, hybrid, EMEA legal support. Broad commercial/operational contracts drafting - excellent fit. Direct link: https://to.indeed.com/aadgjgt287w6",
+      "application_link": "https://to.indeed.com/aadgjgt287w6",
+      "job_id": "JOBSEARCH_3067"
+    },
+    {
+      "company": "Rouse Network",
+      "role": "Patent Paralegal - Dubai",
+      "location": "Dubai, UAE",
+      "date_found": "2026-08-24",
+      "date_applied": "",
+      "salary": "Not listed (est. AED 10,000-15,000 / mo, IP-specialist firm)",
+      "match_score": 75,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "notes": "Direct match for Tanya's IP litigation background at S.S. Rana & Co. Arabic only 'an advantage', LLB is 'an advantage'. Direct link: https://to.indeed.com/aach2lycncj2",
+      "application_link": "https://to.indeed.com/aach2lycncj2",
+      "job_id": "JOBSEARCH_3051"
+    }
+  ],
+  "rejected": [
+    {"job_id": "JOBSEARCH_3060", "company": "Al Nassar Advocates", "role": "Legal Associate", "reason": "arabic_required"},
+    {"job_id": "JOBSEARCH_3068", "company": "Motei & Associates", "role": "English/Arabic Junior Litigation Lawyer", "reason": "arabic_required"},
+    {"job_id": "JOBSEARCH_3047", "company": "Motei & Associates", "role": "English/Arabic Junior Litigation Lawyer", "reason": "arabic_required"},
+    {"job_id": "JOBSEARCH_3059", "company": "Motei & Associates", "role": "UAE-Experienced Litigation Lawyer", "reason": "uae_advocacy_rights_required"},
+    {"job_id": "JOBSEARCH_3065", "company": "Horizons & Co.", "role": "Associate – Litigation", "reason": "arabic_required"},
+    {"job_id": "JOBSEARCH_3050", "company": "Al Gurg & Al Matrooshi", "role": "Paralegal", "reason": "arabic_required"},
+    {"job_id": "JOBSEARCH_3056", "company": "Rouse Network", "role": "Enforcement Paralegal - UAE", "reason": "arabic_required"},
+    {"job_id": "JOBSEARCH_3057", "company": "FRM Legal Counsels", "role": "Legal Consultant", "reason": "arabic_required_and_7yr_experience"},
+    {"job_id": "JOBSEARCH_3058", "company": "Stratum", "role": "Paralegal (Arabic & English)", "reason": "arabic_required"},
+    {"job_id": "JOBSEARCH_3081", "company": "AFR", "role": "Contracts & Compliance Officer", "reason": "arabic_nationality_required"},
+    {"job_id": "JOBSEARCH_3070", "company": "Arakkal Gold and Diamonds", "role": "Legal Assistant", "reason": "salary_below_threshold (AED 2500-5000)"},
+    {"job_id": "JOBSEARCH_3080", "company": "Deriv.com", "role": "Senior In-house Legal Counsel", "reason": "senior_role"},
+    {"job_id": "JOBSEARCH_3048", "company": "Clifford Chance", "role": "Senior M&A / Private Equity Lawyer", "reason": "senior_role"},
+    {"job_id": "JOBSEARCH_3073", "company": "University of Wollongong in Dubai", "role": "Legal Counsel", "reason": "5+_years_experience_required"},
+    {"job_id": "JOBSEARCH_3075", "company": "EMEA Legal (client)", "role": "Corporate Legal Counsel", "reason": "5-10_years_pqe_required"},
+    {"job_id": "JOBSEARCH_3071", "company": "Salesforce", "role": "Commercial Corporate Counsel - Middle East", "reason": "arabic_required_and_5+_years"},
+    {"job_id": "JOBSEARCH_3076", "company": "Global Marketing Systems", "role": "Legal Counsel (Shipping/Maritime)", "reason": "specialized_shipping_experience_required"},
+    {"job_id": "JOBSEARCH_3064", "company": "Citi", "role": "Associate, Corporate Banking (UAE)", "reason": "non_legal_role"},
+    {"job_id": "JOBSEARCH_3066", "company": "Shamal LLC", "role": "Executive – Customer Experience", "reason": "non_legal_role"}
+  ]
+}
