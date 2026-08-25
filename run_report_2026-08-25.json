@@ -1,0 +1,105 @@
+{
+  "run_date": "2026-08-25",
+  "jobs_scanned": 20,
+  "qualified_jobs": 3,
+  "applications_submitted": 0,
+  "manual_actions_required": 3,
+  "duplicates_skipped": 3,
+  "rejected_jobs": 14,
+  "applications": [
+    {
+      "company": "The Coca-Cola Company",
+      "role": "Paralegal, Eurasia & Middle East",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (est. AED 12,000–18,000/month)",
+      "match_score": 90,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aahx4hmpqmnp",
+      "posted_date": "2026-08-20",
+      "closing_date": "2026-09-03",
+      "key_requirements": "3–5 yrs experience, Legal Drafting, Research, Contracts, Compliance, Company Secretarial. Arabic preferred only.",
+      "tanya_fit": "Strong match on all skill areas. Slightly short on years (2 vs 3-5 preferred) but not hard reject. Multinational FMCG company aligns with Tanya's stated IP interest in FMCG sector.",
+      "blocker": "Indeed connector does not support direct application submission — manual apply required before September 3, 2026 deadline."
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (est. AED 15,000–25,000/month)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aah6r8lmj4j4",
+      "posted_date": "2026-07-15",
+      "closing_date": "",
+      "key_requirements": "3 yrs PQE preferred, Contracts, Legal Research, Drafting, Compliance, Corporate Legal. No Arabic requirement.",
+      "tanya_fit": "Good match. Transaction and corporate legal support, contract drafting, compliance — all covered by Tanya's experience. 3 yrs preferred vs ~2 yrs actual — not a hard reject.",
+      "blocker": "Indeed connector does not support direct application submission — manual apply required."
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "salary": "Not listed (est. AED 12,000–20,000/month)",
+      "match_score": 85,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "application_link": "https://to.indeed.com/aap7tky62fwg",
+      "posted_date": "2026-07-08",
+      "closing_date": "",
+      "key_requirements": "Demonstrable experience in transactional/corporate legal work. Strong drafting, research, contracts. English only. Hybrid (3 days/week Dubai office).",
+      "tanya_fit": "Excellent fit — no strict years requirement, no Arabic needed. Contract drafting, legal research, compliance and corporate work all align. Hybrid model is favourable.",
+      "blocker": "Indeed connector does not support direct application submission — manual apply required."
+    }
+  ],
+  "manual_actions": [
+    {
+      "company": "The Coca-Cola Company",
+      "role": "Paralegal, Eurasia & Middle East",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aahx4hmpqmnp",
+      "blocker": "Indeed connector has no apply tool — manual submission required via Indeed job page",
+      "deadline": "2026-09-03 (URGENT — closes in 9 days)"
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aah6r8lmj4j4",
+      "blocker": "Indeed connector has no apply tool — manual submission required via Indeed job page",
+      "deadline": "Not listed — apply promptly"
+    },
+    {
+      "company": "Marriott International",
+      "role": "Paralegal, Manager Legal Services – Operations & Asset Management",
+      "location": "Dubai, UAE",
+      "application_link": "https://to.indeed.com/aap7tky62fwg",
+      "blocker": "Indeed connector has no apply tool — manual submission required via Indeed job page",
+      "deadline": "Not listed — apply promptly"
+    }
+  ],
+  "rejections_summary": {
+    "salary_below_threshold": 1,
+    "arabic_required": 2,
+    "experience_mismatch": 6,
+    "non_legal_roles": 3,
+    "duplicates": 3,
+    "nationality_restriction": 1,
+    "senior_title": 1,
+    "old_posting_skipped": 3
+  },
+  "rejection_detail": {
+    "AL NASSAR ADVOCATES": "Arabic required + salary min AED 7,000 below threshold",
+    "AMCO Law Firm (Fotis)": "Salary listed AED 7,000–9,000 min below AED 8,000 threshold",
+    "HAS Law Firm (Associate)": "5+ years experience required",
+    "Marriott Legal Counsel Development": "5 years experience required",
+    "Salesforce": "5+ years PQE + Arabic mandatory",
+    "EMEA Legal client": "~8 years experience required",
+    "University Wollongong Dubai": "5 years experience required",
+    "HAS Law Firm (Senior)": "12+ years — senior/partner level",
+    "Deriv.com": "Senior In-house Counsel — excluded seniority",
+    "Citi": "Non-legal role — Corporate Banking",
+    "Shamal LLC": "Non-legal role — Customer Experience",
+    "Arakkal Gold Legal Assistant": "Excluded role category — Legal Secretary/Assistant",
+    "C1 Paralegal UAE National": "UAE National requirement only",
+    "Horizons & Co Litigation": "Posted February 2026 — over 6 months old"
+  }
+}
