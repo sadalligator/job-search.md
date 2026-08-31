@@ -1,0 +1,50 @@
+{
+  "last_updated": "2026-08-31",
+  "applications": [
+    {
+      "company": "The Coca-Cola Company",
+      "role": "Paralegal, Eurasia & Middle East",
+      "location": "Dubai, UAE",
+      "date_found": "2026-08-31",
+      "date_applied": "",
+      "salary": "Not listed (estimated AED 14,000–20,000 based on MNC paralegal benchmarks)",
+      "match_score": 75,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "notes": "Strong match. Contracts, compliance, legal research, regulatory monitoring. Arabic only 'a definite advantage' (not required). Closing date Sep 3, 2026 — apply urgently. Application link: https://to.indeed.com/aavjzk7hycf6",
+      "application_link": "https://to.indeed.com/aavjzk7hycf6",
+      "indeed_job_id": "JOBSEARCH_3221"
+    },
+    {
+      "company": "Alcazar Energy",
+      "role": "Associate, Legal",
+      "location": "Dubai, UAE",
+      "date_found": "2026-08-31",
+      "date_applied": "",
+      "salary": "Not listed (estimated AED 10,000–18,000 based on in-house associate benchmarks)",
+      "match_score": 70,
+      "status": "MANUAL_ACTION_REQUIRED",
+      "notes": "Good match. Contracts, legal research, legal drafting, corporate legal work. No Arabic requirement. Renewable energy in-house role. Prefers 3yr PQE; Tanya meets this (~3yr since graduation 2023). Admission in internationally recognised jurisdiction (India) is acceptable. Posted Jul 15 (47 days ago). Application link: https://to.indeed.com/aachzphxrvyw",
+      "application_link": "https://to.indeed.com/aachzphxrvyw",
+      "indeed_job_id": "JOBSEARCH_3220"
+    }
+  ],
+  "run_history": [
+    {
+      "run_date": "2026-08-31",
+      "jobs_scanned": 25,
+      "qualified_jobs": 2,
+      "applications_submitted": 0,
+      "manual_actions_required": 2,
+      "duplicates_skipped": 4,
+      "rejected_jobs": 19,
+      "rejections_summary": {
+        "salary_below_threshold": 1,
+        "arabic_required": 4,
+        "experience_mismatch": 4,
+        "non_legal_roles": 4,
+        "senior_roles": 3,
+        "other": 3
+      }
+    }
+  ]
+}
